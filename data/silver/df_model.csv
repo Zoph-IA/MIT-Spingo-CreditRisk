@@ -1,0 +1,5127 @@
+car_year,car_brand,car_model,mileage,has_original_invoice,state_of_origin,simulated_loan_amount
+2020,BMW,Serie 5,12.0,Si,Ciudad de México,832800.0
+2024,Baic,X55,150.0,Si,Ciudad de México,250400.0
+2021,BMW,Serie 3,150.0,Si,Puebla,388000.0
+2020,Ford,Lobo,77000.0,Si,Puebla,562400.0
+2014,Chrysler,Cherokee,95000.0,Si,Estado de México,124800.0
+2017,Mazda,Mazda 3,171000.0,Si,Estado de México,116625.0
+2023,General Motors,Onix,90000.0,Si,Ciudad de México,150183.0
+2017,Audi,Q5,94000.0,Si,Ciudad de México,238400.0
+2018,General Motors,Beat,184000.0,Si,Querétaro,67760.0
+2014,General Motors,Cruze,137000.0,Si,Estado de México,70400.0
+2016,Nissan,Versa,109000.0,Si,Estado de México,92000.0
+2024,Jac,J7,31000.0,Si,Ciudad de México,190800.0
+2014,Chrysler,Compass,102000.0,Si,Ciudad de México,108800.0
+2018,Nissan,Versa,62000.0,Si,Ciudad de México,115200.0
+2014,General Motors,Trax,111000.0,Si,Ciudad de México,100000.0
+2016,General Motors,Cruze,116000.0,Si,Ciudad de México,88000.0
+2014,Buick,Verano,168000.0,Si,Ciudad de México,96800.0
+2019,Kia,RIO,80000.0,Si,Ciudad de México,140800.0
+2017,Hyundai,SONATA,133000.0,Si,Estado de México,137600.0
+2017,General Motors,Spark,250000.0,Si,Ciudad de México,56112.0
+2014,GMC,Acadia,120000.0,Si,Estado de México,162400.0
+2017,Ford,Edge,70000.0,Si,Estado de México,205600.0
+2016,Nissan,Tiida,251000.0,Si,Ciudad de México,52640.0
+2017,Chrysler,Attitude,145000.0,Si,Ciudad de México,76960.0
+2017,Chrysler,Attitude,155000.0,Si,Ciudad de México,72400.0
+2018,Kia,RIO,66000.0,Si,Ciudad de México,132000.0
+2019,Renault,Sandero,110000.0,Si,Puebla,91680.0
+2018,Ford,Figo,179000.0,Si,Ciudad de México,70076.0
+2022,General Motors,Corvette,6000.0,Si,Ciudad de México,1523200.0
+2018,Seat,Leon,86000.0,Si,Hidalgo,154400.0
+2017,Toyota,Yaris,130000.0,Si,Ciudad de México,107200.0
+2022,Volkswagen,Tiguan,38000.0,Si,Estado de México,278400.0
+2017,General Motors,Spark,111000.0,Si,Ciudad de México,80160.0
+2015,Volkswagen,Golf,80000.0,Si,Ciudad de México,132000.0
+2017,Nissan,Sentra,212000.0,Si,Estado de México,91840.0
+2020,Mazda,CX5,55000.0,Si,Ciudad de México,221600.0
+2023,Nissan,Frontier,40000.0,Si,Querétaro,308088.0
+2017,Nissan,Sentra,110000.0,Si,Ciudad de México,116800.0
+2020,Nissan,Versa,185000.0,Si,Estado de México,89600.0
+2018,Volkswagen,Polo,69000.0,Si,Ciudad de México,103200.0
+2018,General Motors,Aveo,195000.0,Si,Estado de México,68264.0
+2014,Volkswagen,Gol,103000.0,Si,Ciudad de México,65600.0
+2017,General Motors,Silverado 3500,55000.0,Si,Ciudad de México,267200.0
+2016,Volkswagen,Jetta Nuevo,120000.0,Si,Estado de México,105600.0
+2014,Mazda,Mazda 2,220000.0,Si,Querétaro,68016.0
+2016,Suzuki,Vitara,218000.0,Si,Querétaro,102016.0
+2022,Volkswagen,Tiguan,43000.0,Si,Estado de México,304800.0
+2014,BMW,Serie 3,165000.0,Si,Ciudad de México,181600.0
+2014,Nissan,Tiida,182000.0,Si,Estado de México,59836.0
+2017,Hyundai,GRAND I10,121000.0,Si,Ciudad de México,88720.0
+2015,General Motors,Malibu,117000.0,Si,Ciudad de México,110400.0
+2023,General Motors,Tracker,25000.0,Si,Ciudad de México,215200.0
+2023,Suzuki,Ignis,75000.0,Si,Puebla,114307.0
+2021,Hyundai,ACCENT,95000.0,Si,Ciudad de México,123506.0
+2021,Mazda,Mazda 3,72000.0,Si,Ciudad de México,187200.0
+2017,Renault,Duster,79000.0,Si,Querétaro,102400.0
+2023,Suzuki,Ertiga,77000.0,Si,Estado de México,165011.0
+2018,Nissan,URVAN VAN,212000.0,Si,Estado de México,122640.0
+2018,Volkswagen,Gol,112000.0,Si,Ciudad de México,99200.0
+2024,M G,MG5,15000.0,Si,Estado de México,153600.0
+2014,Renault,Kangoo Express,222000.0,Si,Ciudad de México,0.0
+2018,General Motors,Beat,101000.0,Si,Estado de México,82400.0
+2016,Honda,City,148000.0,Si,Estado de México,109600.0
+2022,Renault,Koleos,81000.0,Si,Puebla,225907.0
+2014,Nissan,Pathfinder,178000.0,Si,Estado de México,137952.0
+2014,Renault,Sandero,177000.0,Si,Estado de México,66340.0
+2019,Mazda,Mazda 2,88000.0,Si,Estado de México,127200.0
+2018,Volkswagen,Jetta Nuevo,53000.0,Si,Ciudad de México,135200.0
+2016,Ford,Fiesta,130000.0,Si,Ciudad de México,83200.0
+2024,Kia,K3,12000.0,Si,Hidalgo,214400.0
+2023,Mini Cooper,MINI S,14000.0,Si,Hidalgo,389600.0
+2025,Changan,UNI-K,10000.0,Si,Ciudad de México,428720.0
+2015,Volkswagen,Passat,147000.0,Si,Morelos,123200.0
+2018,Nissan,Versa,169000.0,Si,Puebla,78432.0
+2018,General Motors,Aveo,89000.0,Si,Estado de México,100480.0
+2020,Kia,RIO,84000.0,Si,Ciudad de México,149600.0
+2014,Ford,Focus,77000.0,Si,Estado de México,81600.0
+2018,Chrysler,Attitude,133000.0,Si,Estado de México,94575.0
+2016,Hyundai,GRAND I10,166000.0,Si,Ciudad de México,69762.0
+2020,Volkswagen,Vento,91000.0,Si,Ciudad de México,118320.0
+2018,Mazda,Mazda 3,190000.0,Si,Ciudad de México,99120.0
+2016,Toyota,RAV4,88000.0,Si,Ciudad de México,167200.0
+2015,Ford,Explorer,115000.0,Si,Estado de México,167200.0
+2014,General Motors,Spark,140000.0,Si,Ciudad de México,59840.0
+2014,Volkswagen,Vento,101000.0,Si,Ciudad de México,76800.0
+2018,Hyundai,ELANTRA,146000.0,Si,Ciudad de México,128950.0
+2017,Mercedes Benz,Clase E,60000.0,Si,Ciudad de México,259200.0
+2020,Nissan,March,187000.0,Si,Ciudad de México,66080.0
+2015,Ford,F-350,196000.0,Si,Ciudad de México,200409.0
+2021,Honda,CR-V,75000.0,Si,Ciudad de México,293600.0
+2021,Seat,ATECA,45000.0,Si,Estado de México,255200.0
+2017,General Motors,Spark,70000.0,Si,Ciudad de México,100000.0
+2018,Kia,SOUL,71000.0,Si,Ciudad de México,128000.0
+2016,Volkswagen,Polo,180000.0,Si,Ciudad de México,76752.0
+2014,Volvo,XC60,70000.0,Si,Ciudad de México,156000.0
+2014,Seat,Ibiza,172000.0,Si,Ciudad de México,80916.0
+2019,BMW,X2,104000.0,Si,Hidalgo,228774.0
+2014,Volkswagen,Tiguan,103000.0,Si,Ciudad de México,117600.0
+2016,Ford,Fiesta,59000.0,Si,Puebla,84000.0
+2018,hiunday,elantra,130000.0,,,98500.0
+2023,Nissan,Urvan,85000.0,Si,Querétaro,299468.0
+2021,Renault,Kwid,7000.0,Si,Ciudad de México,100800.0
+2015,General Motors,Aveo,189000.0,Si,Ciudad de México,55705.0
+2023,Nissan,Versa,25000.0,Si,Ciudad de México,166400.0
+2022,Volkswagen,Virtus,18000.0,Si,Ciudad de México,175200.0
+2018,Volkswagen,Passat,144000.0,Si,Puebla,156305.0
+2016,Subaru,Forester,204000.0,Si,Querétaro,109616.0
+2022,General Motors,Captiva,42000.0,Si,Ciudad de México,212000.0
+2020,Kia,FORTE,107000.0,Si,Querétaro,147312.0
+2018,Nissan,Versa,217000.0,Si,Ciudad de México,70560.0
+2016,Volkswagen,Tiguan,96000.0,Si,Ciudad de México,142400.0
+2017,Volkswagen,Crafter,108000.0,Si,Ciudad de México,283200.0
+2014,General Motors,Matiz,138000.0,Si,Ciudad de México,45040.0
+2020,BMW,X2,60000.0,Si,Ciudad de México,299200.0
+2015,Audi,A3,115000.0,Si,Ciudad de México,129600.0
+2021,Kia,RIO,68000.0,Si,Ciudad de México,151200.0
+2014,Renault,Fluence,60000.0,Si,Querétaro,72000.0
+2018,Kia,FORTE,88000.0,Si,Ciudad de México,140000.0
+2019,Suzuki,Swift,33000.0,Si,Ciudad de México,124000.0
+2016,Mercedes Benz,Clase C,78000.0,Si,Ciudad de México,193600.0
+2022,Chrysler,Journey,34000.0,Si,Ciudad de México,277600.0
+2015,Audi,A1,150000.0,Si,Ciudad de México,121600.0
+2018,Renault,Logan,166000.0,Si,Ciudad de México,66579.0
+2020,Toyota,Corolla,49000.0,Si,Ciudad de México,172000.0
+2020,Kia,SELTOS,70000.0,Si,Estado de México,175200.0
+2019,Toyota,Avanza,60000.0,Si,Puebla,140800.0
+2014,Seat,Ibiza,180000.0,Si,Estado de México,90440.0
+2017,Chrysler,Grand Cherokee,69000.0,Si,Estado de México,278400.0
+2017,Mercedes Benz,Clase C,79000.0,Si,Ciudad de México,216800.0
+2024,Volkswagen,Virtus,4000.0,Si,Ciudad de México,208000.0
+2015,Ford,Fusion,59000.0,Si,Querétaro,108800.0
+2018,Renault,Captur,58000.0,Si,Ciudad de México,137360.0
+2017,Ford,Explorer,78000.0,Si,Ciudad de México,240000.0
+2017,Nissan,March,155000.0,Si,Estado de México,83260.0
+2018,BMW,Serie 3,56000.0,Si,Morelos,194400.0
+2014,Ford,Explorer,110000.0,Si,Ciudad de México,172800.0
+2014,General Motors,Spark,141000.0,Si,Estado de México,51040.0
+2024,Chrysler,Grand Cherokee,5000.0,Si,Ciudad de México,916000.0
+2015,Buick,Encore,117000.0,Si,Ciudad de México,120800.0
+2014,Volkswagen,Gol,144000.0,Si,Querétaro,64000.0
+2022,Volkswagen,Jetta Nuevo,79000.0,Si,Ciudad de México,168657.0
+2017,Baic,X25,123000.0,Si,Estado de México,95200.0
+2019,Hyundai,TUCSON,72000.0,Si,Ciudad de México,182400.0
+2023,Seat,Formentor,15000.0,Si,Ciudad de México,343200.0
+2020,Hyundai,CRETA,101000.0,Si,Ciudad de México,159084.0
+2015,Volkswagen,Jetta Clasico,133000.0,Si,Puebla,88000.0
+2018,Mazda,Mazda 3,104000.0,Si,Querétaro,140800.0
+2020,Honda,CR-V,60000.0,Si,Ciudad de México,275200.0
+2023,Mazda,CX9,127000.0,Si,Hidalgo,280560.0
+2015,Volkswagen,Beetle,111000.0,Si,Ciudad de México,127200.0
+2020,Volkswagen,Virtus,62000.0,Si,Estado de México,145600.0
+2018,Nissan,Estacas,155000.0,Si,Puebla,136320.0
+2017,Mercedes Benz,Clase B,63000.0,Si,Ciudad de México,160240.0
+2020,Ford,Escape,68000.0,Si,Ciudad de México,264000.0
+2017,General Motors,Sonic,106000.0,Si,Estado de México,96000.0
+2018,Mercedes Benz,Clase GLC,68000.0,Si,Ciudad de México,314400.0
+2025,Tesla,MODELO 3,10000.0,Si,Querétaro,418400.0
+2018,Nissan,KICKS,165000.0,Si,Puebla,113795.0
+2018,Nissan,KICKS,35000.0,Si,Ciudad de México,158400.0
+2023,General Motors,Onix,42000.0,Si,Ciudad de México,162163.0
+2016,General Motors,Camaro,55000.0,Si,Hidalgo,300000.0
+2018,Chrysler,Grand Cherokee,78000.0,Si,Ciudad de México,312800.0
+2017,Chrysler,Pacifica,126000.0,Si,Querétaro,249520.0
+2018,Audi,Q5,90000.0,Si,Querétaro,264800.0
+2019,Nissan,Altima,69000.0,Si,Ciudad de México,213600.0
+2014,Volkswagen,Jetta Nuevo,78000.0,Si,Ciudad de México,86400.0
+2018,Nissan,X Trail,201000.0,Si,Estado de México,116480.0
+2018,Kia,RIO,73000.0,Si,Ciudad de México,120800.0
+2020,Mazda,CX30,74000.0,Si,Ciudad de México,200000.0
+2022,Kia,FORTE,71000.0,Si,Ciudad de México,154844.0
+2020,Toyota,Yaris,105000.0,Si,Morelos,115438.0
+2022,Volkswagen,Tiguan,83000.0,Si,Querétaro,238345.0
+2014,Nissan,March,60000.0,Si,Querétaro,75200.0
+2021,General Motors,Onix,89000.0,Si,Morelos,118816.0
+2024,Jac,Frison,4000.0,Si,Ciudad de México,235200.0
+2015,General Motors,Malibu,151000.0,Si,Estado de México,106400.0
+2018,Hyundai,ELANTRA,141000.0,Si,Estado de México,133479.0
+2025,Volkswagen,Jetta Nuevo,12000.0,Si,Puebla,273600.0
+2014,Fiat,500,102000.0,Si,Ciudad de México,88800.0
+2019,Mazda,Mazda 3,86000.0,Si,Puebla,172800.0
+2017,Audi,Q5,129000.0,Si,Ciudad de México,196000.0
+2018,Kia,OPTIMA,58000.0,Si,Ciudad de México,174400.0
+2021,Kia,SELTOS,108000.0,Si,Ciudad de México,181656.0
+2022,Audi,A1,33000.0,Si,Ciudad de México,285600.0
+2018,General Motors,Beat,180000.0,Si,Ciudad de México,64464.0
+2014,Mitsubishi,Lancer,154000.0,Si,Ciudad de México,77600.0
+2022,Tesla,MODELO 3,87000.0,Si,Ciudad de México,348445.0
+2015,General Motors,Trax,118000.0,Si,Estado de México,110400.0
+2015,Nissan,March,150000.0,Si,Ciudad de México,68000.0
+2014,Nissan,Versa,168000.0,Si,Ciudad de México,80800.0
+2018,Hyundai,ELANTRA,75000.0,Si,Estado de México,126160.0
+2014,General Motors,Sonic,120000.0,Si,Estado de México,71680.0
+2019,Chrysler,Attitude,95000.0,Si,Estado de México,96800.0
+2016,Seat,Leon,81000.0,Si,Ciudad de México,147200.0
+2023,Volkswagen,Tiguan,33000.0,Si,Puebla,308000.0
+2018,Chrysler,Wrangler,113000.0,Si,Ciudad de México,381600.0
+2019,Renault,Kwid,180000.0,Si,Puebla,66640.0
+2020,Seat,ATECA,39000.0,Si,Ciudad de México,231200.0
+2016,Chrysler,Vision,122000.0,Si,Ciudad de México,75200.0
+2016,GMC,Terrain,166000.0,Si,Querétaro,148874.0
+2019,Nissan,March,88000.0,Si,Ciudad de México,102400.0
+2014,Audi,A1,125000.0,Si,Ciudad de México,113600.0
+2017,General Motors,Aveo,200000.0,Si,Ciudad de México,63642.0
+2014,Nissan,Versa,79000.0,Si,Ciudad de México,78400.0
+2017,Ford,F-150,93000.0,Si,Ciudad de México,244000.0
+2014,Mercedes Benz,Clase CLA,225000.0,Si,Ciudad de México,146016.0
+2020,General Motors,Aveo,175000.0,Si,Estado de México,80584.0
+2016,Kia,FORTE,80000.0,Si,Ciudad de México,104800.0
+2020,General Motors,Beat,120000.0,Si,Ciudad de México,91332.0
+2016,Mazda,Mazda 2,143000.0,Si,Ciudad de México,109600.0
+2017,General Motors,Sonic,120000.0,Si,Ciudad de México,95200.0
+2015,Nissan,Versa,170000.0,Si,Estado de México,81357.0
+2018,General Motors,Aveo,114000.0,Si,Ciudad de México,100720.0
+2020,Renault,Kwid,50000.0,Si,Estado de México,88800.0
+2018,Nissan,X Trail,160000.0,Si,Ciudad de México,165115.0
+2014,General Motors,Sonic,128000.0,Si,Ciudad de México,79200.0
+2020,General Motors,Aveo,171000.0,Si,Ciudad de México,75824.0
+2025,BYD,Song,3000.0,Si,Ciudad de México,425600.0
+2014,General Motors,Traverse,146000.0,Si,Ciudad de México,132000.0
+2021,Nissan,March,104000.0,Si,Estado de México,117100.0
+2023,Chrysler,Grand Cherokee,7000.0,Si,Ciudad de México,870400.0
+2018,Ford,Figo,145000.0,Si,Ciudad de México,81775.0
+2021,Fiat,Argo,68000.0,Si,Puebla,126400.0
+2018,Volkswagen,Jetta Nuevo,187000.0,Si,Ciudad de México,98000.0
+2017,General Motors,Aveo,215000.0,Si,Ciudad de México,53200.0
+2017,Kia,SPORTAGE,60000.0,Si,Ciudad de México,162400.0
+2018,General Motors,Beat,149000.0,Si,Ciudad de México,84252.0
+2021,Volkswagen,Taos,102000.0,Si,Puebla,199063.0
+2019,Kia,FORTE,102000.0,Si,Estado de México,141552.0
+2016,General Motors,Sonic,128000.0,Si,Ciudad de México,95200.0
+2014,Chrysler,Journey,278000.0,Si,Ciudad de México,77840.0
+2015,Nissan,X Trail,198000.0,Si,Estado de México,113448.0
+2015,Seat,Toledo,143000.0,Si,Morelos,84800.0
+2014,Infiniti,Q70,56000.0,Si,Ciudad de México,154400.0
+2019,General Motors,Cavalier,64000.0,Si,Ciudad de México,133600.0
+2018,Volkswagen,Gol,61000.0,Si,Ciudad de México,100800.0
+2018,Renault,Stepway,111000.0,Si,Estado de México,103120.0
+2022,Volvo,XC40,49000.0,Si,Ciudad de México,341600.0
+2018,Nissan,Versa,47000.0,Si,Ciudad de México,123200.0
+2019,Mazda,Mazda 3,23000.0,Si,Ciudad de México,167200.0
+2022,Mazda,CX5,51000.0,Si,Ciudad de México,273600.0
+2014,Nissan,Note,179000.0,Si,Ciudad de México,77846.0
+2018,Volkswagen,Tiguan,87000.0,Si,Ciudad de México,254400.0
+2018,BMW,X3,67000.0,Si,Ciudad de México,386400.0
+2022,Infiniti,QX60,25000.0,Si,Ciudad de México,609600.0
+2022,Cadillac,Escalade,23000.0,Si,Estado de México,1116800.0
+2019,GMC,Yukon,75000.0,Si,Ciudad de México,466400.0
+2016,Mercedes Benz,Clase A,141000.0,Si,Ciudad de México,172000.0
+2015,Volkswagen,Golf,75000.0,Si,Estado de México,188000.0
+2016,Ford,Figo,219000.0,Si,Puebla,57384.0
+2019,Nissan,Versa,87000.0,Si,Estado de México,118400.0
+2015,Mitsubishi,Lancer,107000.0,Si,Estado de México,98400.0
+2014,Audi,A5,129000.0,Si,Ciudad de México,140800.0
+2015,Nissan,Versa,115000.0,Si,Estado de México,87200.0
+2019,,,,Si,EDOMEX,124800.0
+2016,Volkswagen,Vento,108000.0,Si,Ciudad de México,96000.0
+2019,Volkswagen,Vento,100000.0,Si,Ciudad de México,109600.0
+2014,Honda,FIT,226000.0,Si,Ciudad de México,88000.0
+2017,Mazda,CX3,103000.0,Si,Ciudad de México,145600.0
+2017,Ford,Focus,76000.0,Si,Ciudad de México,157600.0
+2020,General Motors,Beat,160000.0,Si,Ciudad de México,94400.0
+2014,Ford,Fiesta,42000.0,Si,Ciudad de México,71200.0
+2015,Ford,Escape,106000.0,Si,Puebla,127200.0
+2015,Renault,Kangoo Express,185000.0,Si,Ciudad de México,77600.0
+2018,Fiat,Uno,109000.0,Si,Sinaloa,90400.0
+2016,Seat,Leon,179000.0,Si,Estado de México,148800.0
+2014,Ford,Edge,162000.0,Si,Estado de México,126400.0
+2022,Seat,Formentor,40000.0,Si,Ciudad de México,416000.0
+2024,General Motors,Cavalier,1000.0,Si,Estado de México,204000.0
+2015,Hyundai,SONATA,113000.0,Si,,103200.0
+2022,Kia,SOUL,9000.0,Si,,176800.0
+2018,Nissan,March,140000.0,Si,,84000.0
+2018,Kia,OPTIMA,67000.0,Si,,175200.0
+2018,Nissan,KICKS,76000.0,Si,,158400.0
+2022,Mini Cooper,MINI S,49000.0,Si,,306400.0
+2017,Nissan,Pathfinder,104000.0,Si,,196000.0
+2014,Nissan,Note,70000.0,Si,,80800.0
+2023,Audi,A8,87000.0,Si,,1496000.0
+2020,General Motors,Cavalier,32000.0,Si,,132800.0
+2016,Honda,Civic,180000.0,Si,,157600.0
+2024,Chirey,Tiggo 2 pro,12000.0,Si,,180800.0
+2015,,Jetta Nuevo,151000.0,,,112800.0
+2014,,Altima,126000.0,,,92000.0
+2020,,Virtus,157000.0,,,144800.0
+2018,,Uno,66000.0,,,90400.0
+2015,,Vento,141000.0,,,97600.0
+2016,,Sentra,111000.0,,,108800.0
+2019,,RDX,120000.0,,,289600.0
+2018,,HR-V,66000.0,,,169600.0
+2014,,Tiida,211000.0,,,72800.0
+2015,,Duster,170000.0,,,89600.0
+2021,,JIMNY,93000.0,,,224000.0
+2015,,Clase C,30000.0,,,173600.0
+2019,,Mazda 2,43000.0,,,128000.0
+2017,,Versa,116000.0,,,92800.0
+2018,,Beat,100000.0,,,82400.0
+2015,,Terrain,120000.0,,,149600.0
+2023,,Xpander,54000.0,,,220800.0
+2023,,Saveiro,45000.0,,,141600.0
+2020,,X1,73000.0,,,275200.0
+2015,,March,190000.0,,,48880.0
+2020,,C-HR,133000.0,,,218400.0
+2015,,Polo,127000.0,,,91200.0
+2018,,City,31000.0,,,128000.0
+2016,,Aveo,72000.0,,,73600.0
+2019,,Beat,72000.0,,,88000.0
+2015,,Cruze,,Si,Guanajuato,76800.0
+2023,,Corolla,,Si,Jalisco,256800.0
+2017,,RIO,,Si,EDOMEX,112000.0
+2019,,STINGER,,Si,EDOMEX,297600.0
+2021,,Eco Sport,,Si,CDMX,202400.0
+2014,,Focus,,No,Puebla,78400.0
+2013,,March,,Si,EDOMEX,58400.0
+2018,,Partner,,Si,CDMX,120800.0
+2019,,XC40,,Si,EDOMEX,266400.0
+2014,,Vento,,Si,CDMX,80800.0
+2016,,Jetta Nuevo,,Si,Chihuahua,112800.0
+2024,,Mazda 3,,Si,CDMX,256000.0
+2019,,A3,,Si,Puebla,313600.0
+2024,,Onix,,Si,CDMX,173600.0
+2016,,Swift,,Si,EDOMEX,86400.0
+2016,,City,,Si,CDMX,109600.0
+2014,,Aveo,,Si,CDMX,65200.0
+2017,,Jetta Nuevo,,Si,CDMX,116800.0
+2020,,Vento,,Si,Morelos,131200.0
+2014,,Sienna,,Si,Morelos,153600.0
+2017,,Trax,,Si,EDOMEX,128000.0
+2016,,Spark,,Si,Hidalgo,77600.0
+2013,,Ibiza,,Si,Morelos,74400.0
+2015,,Encore,,Si,CDMX,121600.0
+2020,,City,,No,CDMX,144800.0
+2015,,Clase GLA,,Si,CDMX,181600.0
+2013,,Mazda 6,,Si,CDMX,88000.0
+2018,,Civic,,Si,Morelos,187200.0
+2014,,Serie 5,,Si,CDMX,158400.0
+2017,,Explorer,,Si,Querétaro,249600.0
+2019,,Aveo,,Si,Morelos,104240.0
+2023,,Xpander,,Si,EDOMEX,220800.0
+2022,,Polo,,Si,EDOMEX,150400.0
+2013,,FIT,,Si,CDMX,80000.0
+2014,,Escape,,Si,CDMX,113600.0
+2018,,GRAND I10,,Si,EDOMEX,108400.0
+2015,,RAV4,,No,CDMX,148800.0
+2022,,Tiguan,,Si,CDMX,293600.0
+2013,,F-150,,No,Morelos,192000.0
+2013,,Sentra,,Si,CDMX,78400.0
+2015,,Versa,,Si,EDOMEX,85600.0
+2018,,Beat,,Si,CDMX,78400.0
+2019,,Mirage,,Si,EDOMEX,90400.0
+2013,,Mazda 3,,Si,CDMX,81600.0
+2019,,RIO,,Si,Querétaro,113600.0
+2020,,Polo,,Si,EDOMEX,127200.0
+2016,,Uno,,Si,CDMX,76800.0
+2019,,ACCENT,,Si,Querétaro,123520.0
+2021,,Taos,,Si,Guanajuato,217600.0
+2013,,GOL,,,,32300.0
+2019,,Vento,,Si,Puebla,118400.0
+2015,,Vision,,Si,Querétaro,75200.0
+,,Aveo,,No,EDOMEX,180640.0
+2017,,Vento,,Si,Guanajuato,98400.0
+2021,,RDX,,Si,EDOMEX,373600.0
+2023,,Territory,,Si,EDOMEX,292000.0
+2015,,Aveo,,Si,EDOMEX,68000.0
+2018,,Sentra,,Si,CDMX,120800.0
+2015,,Mirage,,Si,CDMX,65440.0
+2015,,Cruze,,Si,Veracruz,88800.0
+2016,,UP,,Si,Coahuila,78400.0
+2018,,Beat,,Si,Puebla,88000.0
+2021,,Vento,,No,CDMX,152800.0
+2015,,Tundra,,No,CDMX,252800.0
+2015,,Q5,,Si,Morelos,162400.0
+2023,,Mazda 3,,Si,EDOMEX,231200.0
+2022,,Serie 3,,No,EDOMEX,398400.0
+2017,,UP,,Si,Hidalgo,84000.0
+,,Captiva,,Si,CDMX,270400.0
+2015,,Sonic,,Si,EDOMEX,88000.0
+2023,,C5,,Si,CDMX,253840.0
+2016,,SORENTO,,Si,Puebla,148800.0
+2017,,Sentra,,Si,EDOMEX,134400.0
+2014,,Captiva,,Si,CDMX,100000.0
+2017,,Figo,,Si,EDOMEX,82320.0
+2019,,Saveiro,,No,CDMX,119200.0
+2021,,Beat,,No,EDOMEX,103200.0
+2013,,Pathfinder,,Si,CDMX,136800.0
+2018,,Vento,,Si,Puebla,103200.0
+2017,,Sonic,,Si,EDOMEX,96000.0
+2017,,Altima,,Si,CDMX,143200.0
+,,K3,,Si,CDMX,168800.0
+2019,,Versa,,Si,CDMX,111200.0
+2013,,Spark,,Si,EDOMEX,51360.0
+2015,,Expedition,,Si,CDMX,196000.0
+2013,,X Trail,,Si,CDMX,122400.0
+2023,,MG5,,Si,CDMX,141600.0
+2019,,F-250,,Si,Guanajuato,505600.0
+2022,,RIO,,Si,CDMX,172000.0
+2016,,Chrysler 200,,Si,Puebla,120000.0
+2017,,Toledo,,Si,EDOMEX,100800.0
+2022,,X3,,Si,EDOMEX,452000.0
+2016,,CR-V,,Si,CDMX,168800.0
+2017,,SPORTAGE,,Si,CDMX,177600.0
+,,K3,,Si,CDMX,201600.0
+2017,,Sandero,,Si,EDOMEX,80000.0
+2019,,Duster,,Si,CDMX,117600.0
+2019,,Versa,,Si,Puebla,131200.0
+2022,,FORTE,,Si,CDMX,218400.0
+2022,,FORTE,,Si,CDMX,218400.0
+2019,,Vento,,Si,EDOMEX,108000.0
+2023,,Kwid,,Si,EDOMEX,116800.0
+2023,,GT,,Si,CDMX,212800.0
+2022,,Onix,,Si,San Luis Potosí,138400.0
+2016,,HR-V,,Si,CDMX,142400.0
+2021,,Prius,,Si,CDMX,173600.0
+2021,,URVAN VAN,,No,EDOMEX,240000.0
+2015,,Versa,,Si,CDMX,86400.0
+2016,,Vento,,No,CDMX,96800.0
+2015,,Versa,,Si,EDOMEX,90400.0
+2014,,Trax,,Si,CDMX,111200.0
+2018,,GRAND I10,,Si,CDMX,104160.0
+2019,,GRAND I10,,Si,Guanajuato,116320.0
+2014,,ASX,,Si,EDOMEX,105600.0
+2013,,Edge,,Si,Guanajuato,116000.0
+2021,,Durango,,Si,Querétaro,445600.0
+2015,,301,,Si,EDOMEX,64000.0
+2013,,Explorer,,Si,Sinaloa,142400.0
+2016,,Vision,,Si,CDMX,75200.0
+2022,,SEI7,,Si,Puebla,217600.0
+2013,,Avenger,,Si,EDOMEX,60800.0
+2013,,Mazda 5,,Si,CDMX,90400.0
+2017,,ATTITUDE,,Si,EDOMEX,32000.0
+2016,,Jetta Nuevo,,Si,CDMX,104000.0
+2014,,Tiida,,No,Quintana Roo,65040.0
+2020,,Serie 5,,Si,Morelos,357600.0
+2023,,RIO,,Si,EDOMEX,148800.0
+2014,,Doble Cabina,,Si,EDOMEX,131200.0
+2023,,Mazda 3,,Si,CDMX,211200.0
+2016,,Equinox,,No,CDMX,135200.0
+2019,,Vento,,Si,CDMX,108000.0
+2016,,Jetta Nuevo,,Si,CDMX,106400.0
+2016,,Fluence,,Si,CDMX,100000.0
+2021,,Onix,,Si,EDOMEX,149600.0
+2020,,Gol,,Si,Morelos,115200.0
+2016,,Chrysler 200,,Si,Puebla,120000.0
+2016,,A1,,Si,EDOMEX,150400.0
+2014,,Matiz,,Si,EDOMEX,45040.0
+2015,,Sonic,,No,CDMX,80000.0
+2020,,Vento,,Si,CDMX,124800.0
+2015,,Chrysler 200,,Si,EDOMEX,109600.0
+2020,,Versa,,Si,Morelos,148000.0
+2017,,Aveo,,Si,Aguascalientes,77600.0
+2016,,SORENTO,,Si,EDOMEX,163200.0
+2018,,Leon,,Si,Querétaro,152000.0
+2016,,Versa,,No,Querétaro,92000.0
+2018,,Mazda 3,,Si,CDMX,150400.0
+2018,,Versa,,Si,EDOMEX,110400.0
+2017,,Versa,,Si,CDMX,102400.0
+2014,,Lancer,,Si,CDMX,73600.0
+2018,,Altima,,Si,CDMX,155200.0
+2018,,FORTE,,Si,CDMX,120000.0
+2023,,Stepway,,Si,Aguascalientes,170320.0
+2018,,A3,,Si,CDMX,193600.0
+2016,,Jetta Nuevo,,Si,Puebla,112800.0
+2019,,Oroch,,Si,EDOMEX,151200.0
+2015,,Lancer,,Si,CDMX,88000.0
+2018,,Sentra,,Si,CDMX,126400.0
+2015,,Grand Cherokee,,Si,CDMX,218400.0
+2020,,Versa,,Si,CDMX,131200.0
+2018,,CX3,,Si,EDOMEX,164800.0
+2014,,Focus,,Si,Michoacán,88000.0
+2018,,Attitude,,Si,CDMX,92800.0
+2017,,Vento,,Si,Zacatecas,100000.0
+2018,,ACCENT,,Si,CDMX,111600.0
+2018,,Q5,,Si,Morelos,256000.0
+2015,,Lancer,,No,EDOMEX,98400.0
+,,SELTOS,,Si,CDMX,313600.0
+2020,,Versa,,Si,CDMX,142400.0
+2013,,Smart,,Si,Guanajuato,76800.0
+2018,,Swift,,Si,Puebla,117600.0
+2023,,RIO,,Si,Puebla,160000.0
+2017,,Spark,,No,EDOMEX,70160.0
+2019,,Prius,,Si,CDMX,165600.0
+2018,,Escape,,Si,Michoacán,190400.0
+2016,,Passat,,No,Nuevo León,137600.0
+2014,,CR-V,,Si,CDMX,148000.0
+2023,,RIO,,Si,CDMX,168000.0
+,,X3,,Si,EDOMEX,677600.0
+2018,,Gol,,Si,EDOMEX,96000.0
+2020,,Attitude,,No,Veracruz,102400.0
+2014,,Fluence,,Si,Chihuahua,75200.0
+2018,,ACCENT,,Si,EDOMEX,112800.0
+2015,,Pathfinder,,Si,CDMX,160800.0
+2023,,Attitude,,Si,CDMX,128800.0
+2015,,Escape,,Si,EDOMEX,128000.0
+2019,,Altima,,Si,EDOMEX,188800.0
+2016,,Spark,,Si,CDMX,56240.0
+2013,,Swift,,Si,EDOMEX,84000.0
+2019,,Duster,,No,EDOMEX,120000.0
+2023,,MG5,,Si,EDOMEX,151200.0
+2014,,Duster,,Si,EDOMEX,80000.0
+2017,,Ibiza,,Si,CDMX,108000.0
+,,Aveo,,No,EDOMEX,159920.0
+2020,,Aveo,,Si,CDMX,109040.0
+2021,,CX5,,Si,Nuevo León,244800.0
+2023,,X6,,Si,CDMX,799200.0
+2014,,301,,No,Puebla,62400.0
+2021,,Sentra,,Si,CDMX,206400.0
+2016,,Q50,,Si,CDMX,151200.0
+2013,,Fiesta,,Si,EDOMEX,61200.0
+2015,,FIT,,Si,CDMX,100000.0
+2017,,Logan,,Si,CDMX,68000.0
+2016,,SPORTAGE,,Si,CDMX,141600.0
+2019,,Aveo,,Si,Hidalgo,108320.0
+2017,,Mazda 3,,Si,CDMX,148800.0
+2013,,Eco Sport,,Si,EDOMEX,96000.0
+2023,,Taigun,,Si,CDMX,224000.0
+2016,,Journey,,Si,San Luis Potosí,130400.0
+,,CS35 Plus,,No,EDOMEX,200320.0
+2016,,Vento,,Si,EDOMEX,96000.0
+2018,,SOUL,,Si,Tamaulipas,145600.0
+2021,,Vitara,,No,Campeche,198400.0
+2018,,CR-V,,Si,CDMX,218400.0
+2016,,GRAND I10,,Si,CDMX,92000.0
+2023,,Onix,,No,CDMX,180000.0
+2019,,Beat,,Si,Morelos,95200.0
+2015,,Passat,,Si,CDMX,132800.0
+,,Aveo,,No,CDMX,160000.0
+2018,,Hiace,,Si,EDOMEX,214400.0
+2013,,Journey,,Si,EDOMEX,115200.0
+2021,,Sentra,,Si,CDMX,168800.0
+2017,,Tornado,,Si,CDMX,109600.0
+2017,,Versa,,Si,Sinaloa,108800.0
+2016,,Jetta Nuevo,,Si,CDMX,104800.0
+2023,,GRAND I10,,Si,CDMX,121680.0
+2017,,FORTE,,Si,Veracruz,120800.0
+2018,,RIO,,Si,Nuevo León,134400.0
+2016,,FORTE,,Si,CDMX,107200.0
+2018,,Jetta Nuevo,,Si,EDOMEX,122400.0
+2014,,208,,Si,CDMX,73600.0
+2013,,Estacas,,Si,EDOMEX,102400.0
+2020,,Beat,,Si,Jalisco,95200.0
+2013,,Ibiza,,Si,CDMX,80800.0
+2023,,MG5,,Si,CDMX,172000.0
+2023,,Groove,,Si,Morelos,207200.0
+2020,,Aveo,,Si,CDMX,115920.0
+2019,,Cavalier,,Si,EDOMEX,122400.0
+2019,,Ignis,,Si,EDOMEX,110400.0
+2018,,CLASE V,,Si,Morelos,352800.0
+2021,,March,,Si,CDMX,150400.0
+,,Tiggo 4 pro,,No,Puebla,259200.0
+2013,,Ibiza,,Si,Puebla,80000.0
+2013,,CC,,Si,CDMX,112800.0
+2015,,Q50,,Si,EDOMEX,145600.0
+2015,,Vento,,Si,Hidalgo,84000.0
+2015,,Gol,,Si,EDOMEX,72800.0
+2021,,XC60,,Si,EDOMEX,403200.0
+2016,,CX5,,Si,CDMX,155200.0
+2015,,Jetta Clasico,,Si,EDOMEX,92800.0
+2018,,Frontier,,Si,CDMX,188800.0
+2018,,FORTE,,Si,CDMX,130400.0
+2013,,Aveo,,Si,Puebla,55760.0
+2015,,X Trail,,Si,CDMX,147200.0
+2019,,F-250,,Si,EDOMEX,518400.0
+2014,,Focus,,Si,CDMX,80800.0
+2016,,Jetta Nuevo,,Si,EDOMEX,107200.0
+2013,,Fiesta,,Si,EDOMEX,61200.0
+,,CS55 Plus,,Si,Quintana Roo,271680.0
+2018,,Versa,,Si,CDMX,110400.0
+2013,,Evoque,,Si,EDOMEX,192000.0
+2023,,2008,,Si,Tlaxcala,245600.0
+2017,,Versa,,Si,Yucatán,108800.0
+2017,,Aveo,,No,CDMX,76800.0
+2019,,Beat,,Si,Guanajuato,101600.0
+2019,,Versa,,Si,Durango,112000.0
+2021,,Aveo,,No,Yucatán,115760.0
+2016,,Duster,,Si,CDMX,93600.0
+2014,,Vento,,Si,EDOMEX,78400.0
+2020,,Versa,,No,CDMX,133600.0
+2016,,Aveo,,Si,CDMX,72000.0
+2019,,Serie 4,,Si,CDMX,561600.0
+2017,,Urvan,,Si,EDOMEX,218400.0
+2016,,Equinox,,Si,Morelos,137600.0
+2014,,S60,,Si,CDMX,117600.0
+2013,,Range Rover,,Si,CDMX,309600.0
+,,Onix,,No,CDMX,173600.0
+2013,,Town,,Si,CDMX,102400.0
+2014,,Note,,Si,CDMX,79200.0
+2013,,Gol,,Si,EDOMEX,58400.0
+2019,,Figo,,No,EDOMEX,103600.0
+2019,,X Trail,,Si,CDMX,189600.0
+2017,,ILX,,No,CDMX,162400.0
+2013,,Edge,,Si,CDMX,118400.0
+2017,,MX5 RETRACTABLE I SPORT,,,,80000.0
+2022,,GRAND I10,,Si,Chihuahua,127120.0
+2015,,Aveo,,Si,CDMX,64560.0
+2019,,X Trail,,Si,CDMX,252000.0
+,,Blazer,,Si,CDMX,588000.0
+2018,,March,,Si,Oaxaca,90400.0
+2017,,Aveo,,Si,CDMX,76800.0
+2015,,Sonic,,Si,EDOMEX,79200.0
+2023,,Swift,,No,CDMX,150400.0
+2019,,FORTE,,Si,CDMX,136000.0
+2019,,Swift,,Si,EDOMEX,152800.0
+2016,,Ciaz,,Si,CDMX,88000.0
+2019,,Toledo,,Si,EDOMEX,126400.0
+2019,,Avanza,,Si,EDOMEX,141600.0
+2021,,Versa,,Si,EDOMEX,139200.0
+2014,,RAV4,,Si,Morelos,136000.0
+2016,,Ibiza,,Si,Morelos,99200.0
+2023,,Attitude,,Si,CDMX,128800.0
+,,Captiva,,No,CDMX,293600.0
+2016,,Versa,,Si,EDOMEX,92800.0
+2018,,Attitude,,Si,CDMX,93600.0
+2018,,A4,,No,CDMX,257600.0
+2014,,Highlander,,Si,EDOMEX,188000.0
+2020,,Vitara,,Si,CDMX,192800.0
+2014,,Town,,Si,EDOMEX,110400.0
+2013,,Ibiza,,Si,Tlaxcala,74400.0
+2014,,Clase C,,Si,EDOMEX,131200.0
+2020,,Vento,,Si,CDMX,150400.0
+,,HS,,Si,Sonora,245600.0
+2017,,Jetta Nuevo,,Si,CDMX,130400.0
+2020,,Versa,,Si,Morelos,142400.0
+2018,,Cavalier,,Si,CDMX,111120.0
+2017,,GRAND I10,,Si,EDOMEX,89120.0
+2018,,FORTE,,Si,EDOMEX,110400.0
+2016,,March,,Si,CDMX,75200.0
+2021,,Versa,,Si,EDOMEX,139200.0
+2020,,Beat,,Si,CDMX,116000.0
+2022,,Clase GLC,,No,EDOMEX,516000.0
+2020,,Versa,,Si,EDOMEX,133600.0
+2013,,Civic,,Si,CDMX,103200.0
+2020,,SELTOS,,Si,CDMX,178400.0
+2019,,Avanza,,Si,Nuevo León,141600.0
+2017,,Sonic,,Si,Puebla,105600.0
+2019,,A3,,Si,CDMX,319200.0
+2016,,Versa,,Si,EDOMEX,92800.0
+2013,,Maxima,,Si,Durango,103200.0
+2017,,X Trail,,Si,EDOMEX,165600.0
+2019,,Aveo,,No,CDMX,104320.0
+2018,,Tiguan,,Si,Chiapas,185600.0
+2013,,X Trail,,Si,Morelos,110400.0
+2021,,Onix,,Si,EDOMEX,127200.0
+2017,,Mobi,,Si,Guerrero,74400.0
+2017,,March,,Si,CDMX,84800.0
+2014,,Versa,,Si,EDOMEX,81600.0
+2014,,Vento,,Si,CDMX,81600.0
+2022,,RIO,,Si,EDOMEX,154400.0
+2018,,March,,Si,CDMX,85600.0
+2014,,Jetta Nuevo,,Si,EDOMEX,88800.0
+2019,,Beat,,Si,EDOMEX,92000.0
+,,Corolla,,Si,Tamaulipas,243200.0
+2022,,Ignis,,Si,EDOMEX,128800.0
+2013,,RDX,,Si,EDOMEX,128800.0
+2016,,Aveo,,Si,EDOMEX,76000.0
+,,Ertiga,,Si,CDMX,247200.0
+2016,,SORENTO,,Si,CDMX,149600.0
+2018,,CRETA,,Si,CDMX,138640.0
+2015,,ELANTRA,,Si,CDMX,96000.0
+,,Versa,,No,EDOMEX,179200.0
+2014,,Attitude,,Si,Nayarit,67760.0
+2013,,Jetta Nuevo,,Si,CDMX,93600.0
+2015,,Fiesta,,Si,EDOMEX,79200.0
+2021,,Versa,,No,EDOMEX,148800.0
+2020,,SEDONA,,Si,CDMX,324800.0
+2019,,SORENTO,,Si,EDOMEX,205600.0
+2013,,Spark,,Si,CDMX,47680.0
+2015,,Encore,,Si,CDMX,122400.0
+2019,,Frontier,,Si,Hidalgo,205600.0
+2020,,Versa,,No,CDMX,142400.0
+2021,,Vento,,Si,CDMX,132800.0
+2013,,Altima,,Si,EDOMEX,81600.0
+2015,,Prius,,Si,Baja California,116000.0
+2018,,Mazda 2,,Si,EDOMEX,124000.0
+2016,,Jetta Nuevo,,Si,CDMX,111200.0
+2019,,Mazda 3,,Si,Aguascalientes,177600.0
+2016,,March,,Si,CDMX,79200.0
+2017,,Versa,,Si,Querétaro,103200.0
+2020,,Prius,,Si,CDMX,192800.0
+2018,,Mobi,,Si,Querétaro,82400.0
+2017,,CRETA,,Si,CDMX,139200.0
+2018,,Versa,,Si,CDMX,100000.0
+2016,,2008,,Si,EDOMEX,109600.0
+2019,,Versa,,Si,CDMX,136800.0
+2014,,Vento,,Si,EDOMEX,81600.0
+2013,,Town,,Si,EDOMEX,102400.0
+2014,,Eco Sport,,Si,Jalisco,106400.0
+2017,,Serie 2,,Si,CDMX,210400.0
+2018,,SPORTAGE,,Si,CDMX,180000.0
+2013,,Explorer,,Si,EDOMEX,144800.0
+2017,,Prius,,Si,EDOMEX,164800.0
+2014,,Vento,,Si,CDMX,78400.0
+2016,,SPORTAGE,,Si,Puebla,130400.0
+2019,,Attitude,,Si,EDOMEX,98400.0
+2023,,GRAND I10,,No,Michoacán,154240.0
+2018,,SOUL,,Si,CDMX,130400.0
+2016,,Mazda 3,,Si,CDMX,119200.0
+2015,,Verano,,Si,EDOMEX,107200.0
+2013,,Town,,No,EDOMEX,102400.0
+2019,,CLASE V,,Si,EDOMEX,380800.0
+2018,,Jetta Nuevo,,Si,Morelos,124800.0
+2016,,Figo,,Si,Coahuila,73600.0
+2017,,X Trail,,Si,Tamaulipas,175200.0
+2016,,Aveo,,Si,Puebla,70400.0
+2013,,S60,,Si,CDMX,105600.0
+2019,,Polo,,Si,CDMX,120000.0
+2013,,Golf,,Si,EDOMEX,108000.0
+2018,,March,,Si,EDOMEX,64800.0
+2023,,iX1,,Si,Morelos,680000.0
+2016,,Fiesta,,No,EDOMEX,85600.0
+2018,,Sentra,,Si,CDMX,128800.0
+2022,,City,,Si,Puebla,216800.0
+2013,,SRX,,Si,CDMX,125600.0
+2019,,Frontier,,Si,EDOMEX,301600.0
+2015,,Fiesta,,Si,CDMX,79200.0
+2017,,Yaris,,Si,EDOMEX,106400.0
+2013,,Focus,,Si,Querétaro,74400.0
+2018,,Frontier,,Si,EDOMEX,193600.0
+2017,,SOUL,,Si,CDMX,157600.0
+2022,,Onix,,No,CDMX,138400.0
+2018,,X1,,No,Puebla,213600.0
+2014,,Versa,,Si,CDMX,81600.0
+2013,,Attitude,,Si,Puebla,60720.0
+2013,,CR-Z,,Si,CDMX,92800.0
+2016,,Tiida,,Si,CDMX,80000.0
+2019,,HR-V,,Si,CDMX,180800.0
+2018,,Versa,,Si,EDOMEX,100000.0
+2016,,Prius,,Si,EDOMEX,140000.0
+2015,,Versa,,Si,CDMX,87200.0
+2013,,Fiesta,,Si,Coahuila,65600.0
+2018,,CX9,,Si,Morelos,256000.0
+2013,,Altima,,Si,Puebla,90400.0
+2013,,Focus,,Si,Hidalgo,74400.0
+2019,,Jetta Nuevo,,Si,CDMX,159200.0
+2014,,Aveo,,Si,CDMX,61840.0
+2021,,XC40,,Si,EDOMEX,355200.0
+2020,,FORTE,,Si,CDMX,156000.0
+2015,,Duster,,Si,EDOMEX,96800.0
+2019,,Beat,,Si,CDMX,87200.0
+2017,,Spark,,Si,EDOMEX,80640.0
+2017,,Versa,,Si,CDMX,103200.0
+2020,,NIRO,,Si,CDMX,236000.0
+2019,,Aveo,,Si,EDOMEX,114720.0
+2013,,HD,,No,Chihuahua,182000.0
+2013,,Jetta Nuevo,,Si,Morelos,87200.0
+2015,,Fiesta,,Si,CDMX,77600.0
+,,Virtus,,Si,Nuevo León,236800.0
+,,Mazda 3,,No,EDOMEX,244800.0
+2021,,Kwid,,Si,CDMX,101600.0
+,,Tracker,,No,EDOMEX,227200.0
+2013,,Odyssey,,Si,CDMX,162400.0
+2021,,Kwid,,Si,Morelos,105600.0
+2020,,Beat,,Si,CDMX,95200.0
+2019,,Vento,,Si,CDMX,115200.0
+2018,,Figo,,Si,Guerrero,98960.0
+2019,,FORTE,,Si,EDOMEX,144800.0
+2020,,ELANTRA,,Si,EDOMEX,153360.0
+2013,,Aveo,,No,Hidalgo,60480.0
+2015,,Odyssey,,Si,CDMX,171200.0
+2019,,Aveo,,Si,CDMX,104320.0
+2013,,ILX,,Si,EDOMEX,104800.0
+2016,,Vento,,Si,EDOMEX,96000.0
+2019,,Mirage,,Si,CDMX,98080.0
+2013,,March,,Si,EDOMEX,58400.0
+2016,,MINI,,Si,EDOMEX,135200.0
+2023,,MG5,,Si,EDOMEX,151200.0
+2018,,Versa,,Si,EDOMEX,117600.0
+2017,,Neon,,Si,Puebla,99280.0
+2021,,GRAND I10,,Si,Puebla,116320.0
+2016,,Aveo,,Si,Morelos,72000.0
+2023,,Baleno,,Si,CDMX,184800.0
+2013,,Scala,,Si,EDOMEX,50640.0
+2014,,Gol,,Si,CDMX,65600.0
+2019,,VELAR,,Si,EDOMEX,643200.0
+2014,,Ram 2500,,Si,EDOMEX,203200.0
+2016,,Fiesta,,Si,CDMX,88800.0
+2020,,SPORTAGE,,Si,EDOMEX,228800.0
+2013,,Tiida,,Si,CDMX,59840.0
+2014,,500,,Si,Baja California,106400.0
+2020,,Beat,,Si,Puebla,96000.0
+2021,,Duster,,No,Veracruz,169600.0
+2013,,Camry,,Si,EDOMEX,94400.0
+2014,,208,,Si,Puebla,74400.0
+2018,,Prius,,Si,CDMX,157600.0
+2023,,Clase E,,Si,EDOMEX,875200.0
+2019,,Eco Sport,,Si,CDMX,168800.0
+2022,,Vento,,Si,EDOMEX,152800.0
+2014,,Tiida,,Si,EDOMEX,65680.0
+2018,,Stepway,,Si,EDOMEX,108160.0
+2015,,Logan,,Si,CDMX,65120.0
+2023,,KICKS,,Si,CDMX,204800.0
+,,MG5,,Si,EDOMEX,160000.0
+2022,,Renegade,,Si,Hidalgo,241600.0
+2019,,301,,Si,CDMX,111200.0
+2016,,Versa,,Si,Veracruz,98400.0
+2017,,Impreza,,Si,Chihuahua,152000.0
+2016,,Toledo,,Si,Querétaro,94400.0
+2018,,Attitude,,Si,CDMX,92000.0
+2016,,GRAND I10,,Si,EDOMEX,89600.0
+2016,,Tiida,,Si,Puebla,80000.0
+2022,,Ibiza,,Si,CDMX,192000.0
+2016,,TUCSON,,Si,Nuevo León,162400.0
+2019,,MDX,,Si,CDMX,336000.0
+2013,,Clase A,,No,EDOMEX,112000.0
+2016,,Versa,,No,Hidalgo,93600.0
+2018,,Ibiza,,Si,CDMX,132000.0
+2016,,Versa,,No,CDMX,93600.0
+2017,,Neon,,Si,EDOMEX,99360.0
+2022,,Mirage,,Si,Quintana Roo,125840.0
+2018,,Duster,,Si,CDMX,112000.0
+2014,,March,,Si,EDOMEX,76000.0
+2016,,Mazda 3,,Si,EDOMEX,125600.0
+2016,,JETTA TRENDLINE ,,Si,CDMX,56000.0
+2020,,Versa,,Si,CDMX,144000.0
+2018,,FORTE,,Si,CDMX,112800.0
+2017,,XC60,,Si,Hidalgo,186400.0
+2023,,Logan,,Si,Aguascalientes,187200.0
+,,Kwid,,Si,Tamaulipas,126400.0
+2013,,Grand Vitara,,Si,CDMX,103200.0
+2015,,Mazda 3,,Si,CDMX,111200.0
+2015,,Ibiza,,No,EDOMEX,88800.0
+2019,,Swift,,Si,EDOMEX,131200.0
+2018,,Logan,,Si,CDMX,93600.0
+2023,,Pulse,,Si,EDOMEX,200000.0
+2018,,FAW,,No,CDMX,71200.0
+2020,,Civic,,Si,Tlaxcala,205600.0
+2016,,Mazda 3,,Si,EDOMEX,137600.0
+2018,,Vento,,Si,Puebla,108800.0
+2023,,L200,,Si,Sinaloa,404000.0
+2023,,Groove,,Si,CDMX,192800.0
+2021,,URVAN VAN,,Si,EDOMEX,242400.0
+2016,,Mazda 6,,Si,EDOMEX,136000.0
+2015,,Captiva,,Si,EDOMEX,101600.0
+2018,,Jetta Nuevo,,Si,Morelos,131200.0
+2013,,Altima,,Si,Sinaloa,84000.0
+,,V-DRIVE,,Si,EDOMEX,156000.0
+2016,,Spark,,No,CDMX,52920.0
+2014,,Versa,,No,CDMX,69300.0
+2019,,Koleos,,Si,EDOMEX,178500.0
+2020,,Vento,,Si,Morelos,113400.0
+2017,,370Z,,Si,EDOMEX,238700.0
+2020,,Aveo,,Si,CDMX,101710.0
+2017,,SPORTAGE,,No,EDOMEX,160300.0
+2019,,Vento,,Si,CDMX,121600.0
+,,MDX,,Si,Coahuila,350000.0
+2018,,Grand Cherokee,,Si,CDMX,277200.0
+2016,,Jetta Nuevo,,Si,Querétaro,93800.0
+2014,,Sonic,,Si,CDMX,76000.0
+2019,,Kwid,,No,CDMX,89600.0
+2020,,Prius,,Si,CDMX,152600.0
+2018,,Trax,,Si,CDMX,120400.0
+2020,,Vento,,Si,CDMX,103600.0
+2017,,GRAND I10,,Si,Puebla,83370.0
+2020,,A3,,Si,CDMX,253600.0
+2016,,Aveo,,Si,Morelos,63700.0
+2018,,RIO,,Si,EDOMEX,130200.0
+2017,,Aveo,,Si,CDMX,74200.0
+2019,,Aveo,,Si,CDMX,94920.0
+2013,,A5,,Si,CDMX,133000.0
+2015,,Ibiza,,Si,CDMX,82600.0
+2020,,Aveo,,Si,EDOMEX,101710.0
+2019,,ACCENT,,Si,Morelos,106750.0
+,,MG5,,Si,CDMX,163100.0
+2015,,Jetta Clasico,,Si,CDMX,79100.0
+2019,,Figo,,Si,CDMX,99760.0
+2016,,Versa,,Si,CDMX,86100.0
+2013,,Beetle,,Si,EDOMEX,91700.0
+2019,,Versa,,Si,Morelos,98700.0
+2021,,Mazda 3,,Si,Tamaulipas,182000.0
+2013,,Avanza,,Si,EDOMEX,81900.0
+2017,,Regal,,Si,Morelos,154700.0
+2021,,Kwid,,No,EDOMEX,89600.0
+2013,,Corolla,,Si,Baja California,79800.0
+2018,,Versa,,Si,CDMX,86100.0
+2015,,Clase M,,Si,EDOMEX,228900.0
+2015,,Explorer,,Si,EDOMEX,156100.0
+2016,,Gol,,Si,CDMX,67200.0
+2013,,Versa,,Si,EDOMEX,63140.0
+2020,,RIO,,Si,CDMX,121800.0
+2023,,C5,,Si,CDMX,235900.0
+2014,,Captiva,,Si,Morelos,90300.0
+2013,,CONVERTIBLE,,Si,CDMX,139300.0
+2017,,VERSA,,,,84000.0
+2022,,ZS,,Si,EDOMEX,160300.0
+2013,,Civic,,Si,Morelos,88200.0
+2016,,Beetle,,Si,EDOMEX,149800.0
+2017,,Figo,,Si,CDMX,72730.0
+2015,,Tiida,,Si,CDMX,65800.0
+2016,,Leon,,Si,CDMX,117600.0
+2018,,FORTE,,Si,Jalisco,116200.0
+2014,,Fluence,,Si,Hidalgo,65800.0
+2018,,Tiguan,,Si,Puebla,234500.0
+,,Camry,,Si,CDMX,268100.0
+2015,,Versa,,No,CDMX,76300.0
+2019,,Clase GLA,,Si,EDOMEX,255500.0
+2013,,Jetta Nuevo,,Si,CDMX,73500.0
+2019,,Yaris,,Si,CDMX,111300.0
+2019,,Urvan,,No,EDOMEX,239400.0
+,,Compass,,Si,Puebla,316400.0
+2016,,A5,,Si,Tlaxcala,158900.0
+2015,,Lancer,,Si,CDMX,88800.0
+2015,,Vento,,Si,CDMX,73500.0
+2017,,Spark,,Si,EDOMEX,79170.0
+2021,,Versa,,Si,Baja California,138600.0
+2016,,CX5,,Si,CDMX,137200.0
+2013,,Mazda 3,,Si,EDOMEX,72800.0
+2015,,Journey,,Si,CDMX,105700.0
+,,Raize,,No,CDMX,191800.0
+2013,,Altima,,Si,Puebla,72800.0
+2019,,RIO,,Si,EDOMEX,102900.0
+2019,,F-350,,Si,EDOMEX,311500.0
+,,Versa,,No,Puebla,157500.0
+2019,,Toledo,,Si,Tlaxcala,127200.0
+2014,,CBO,,Si,Aguascalientes,41300.0
+2018,,Serie 3,,Si,CDMX,219800.0
+2015,,Swift,,Si,Aguascalientes,94400.0
+2019,,Renegade,,Si,CDMX,158900.0
+2017,,MKZ,,Si,EDOMEX,168700.0
+2013,,Fluence,,Si,CDMX,66500.0
+2013,,Sentra,,Si,EDOMEX,70000.0
+,,Mazda 3,,Si,CDMX,210700.0
+2020,,Avanza,,Si,Yucatán,136500.0
+2018,,FORTE,,Si,CDMX,127400.0
+2019,,Toledo,,Si,Puebla,116900.0
+2018,,Beat,,Si,EDOMEX,79100.0
+2021,,Tiguan,,Si,CDMX,254800.0
+2020,,T-Cross,,Si,EDOMEX,156100.0
+2013,,Patriot,,Si,CDMX,91000.0
+2014,,Focus,,Si,EDOMEX,74900.0
+2017,,Vento,,No,CDMX,87500.0
+2019,,KICKS,,Si,EDOMEX,143500.0
+2018,,Vento,,Si,Hidalgo,91700.0
+2013,,207,,Si,CDMX,57400.0
+2014,,Town,,Si,EDOMEX,86100.0
+,,K3,,Si,CDMX,168800.0
+2013,,Gol,,Si,CDMX,51100.0
+2022,,RIO,,Si,Morelos,135100.0
+2013,,Camaro,,Si,CDMX,178500.0
+2018,,RIO,,Si,EDOMEX,103600.0
+2021,,March,,Si,CDMX,109900.0
+2018,,Vento,,Si,Puebla,100100.0
+2020,,Beat,,Si,CDMX,102200.0
+2022,,Ertiga,,Si,EDOMEX,169400.0
+2019,,Sentra,,Si,EDOMEX,123900.0
+2015,,Ibiza,,No,EDOMEX,77000.0
+2014,,Crafter Pasajeros,,Si,CDMX,190400.0
+2013,,Sentra,,No,Hidalgo,70000.0
+2017,,Vento,,Si,CDMX,99400.0
+2017,,Jetta Nuevo,,Si,Nuevo León,101500.0
+2018,,ATECA,,Si,CDMX,175700.0
+2016,,Aveo,,Si,EDOMEX,62300.0
+2020,,Beat,,Si,CDMX,88900.0
+2013,,Jetta Clasico,,Si,Tlaxcala,65100.0
+,,Versa,,Si,EDOMEX,157500.0
+2016,,A3,,Si,CDMX,136500.0
+2013,,Town,,Si,CDMX,92000.0
+2016,,March,,Si,Guanajuato,63700.0
+2016,,Golf Sport Wagen,,Si,CDMX,115500.0
+2018,,Aveo,,Si,EDOMEX,92820.0
+2017,,Figo,,Si,Jalisco,73640.0
+2015,,Versa,,Si,EDOMEX,75600.0
+,,Jetta Nuevo,,Si,CDMX,219100.0
+2016,,Attitude,,Si,EDOMEX,63000.0
+2016,,Aveo,,Si,CDMX,66500.0
+2013,,RDX,,Si,CDMX,114100.0
+2013,,Ibiza,,Si,Hidalgo,65100.0
+2013,,Spark,,Si,EDOMEX,47680.0
+2020,,March,,Si,CDMX,104300.0
+2013,,Jetta Clasico,,Si,CDMX,71400.0
+2018,,March,,Si,CDMX,94500.0
+,,Enclave,,No,Tlaxcala,350000.0
+2017,,Sentra,,Si,EDOMEX,107100.0
+2017,,Clase GLC,,Si,CDMX,244300.0
+2013,,Jetta Nuevo,,Si,CDMX,81200.0
+2018,,Versa,,No,Guerrero,98000.0
+2023,,Tiggo 8 pro,,Si,San Luis Potosí,267400.0
+2021,,X1,,Si,CDMX,288400.0
+2023,,Clase GLB,,Si,CDMX,350000.0
+2016,,Aveo,,Si,CDMX,65100.0
+2013,,Pathfinder,,Si,CDMX,111300.0
+2016,,Maxima,,Si,Nuevo León,149800.0
+2018,,Aveo,,Si,EDOMEX,92820.0
+2017,,Sonic,,Si,CDMX,85400.0
+2023,,Tracker,,Si,CDMX,196000.0
+2021,,Chasis Cabina,,Si,EDOMEX,194600.0
+2019,,Tiguan,,No,San Luis Potosí,200900.0
+2022,,Journey,,Si,CDMX,252700.0
+2013,,Journey,,Si,EDOMEX,93100.0
+2014,,Journey,,Si,CDMX,96600.0
+2016,,Uno,,Si,Puebla,70000.0
+2019,,Beat,,Si,CDMX,91000.0
+2016,,Fusion,,Si,Veracruz,103600.0
+2013,,Tiida,,No,CDMX,55580.0
+,,CS55 Plus,,No,EDOMEX,240100.0
+2015,,Vision,,Si,Puebla,65800.0
+2017,,Neon,,Si,Morelos,86940.0
+2013,,Q7 ELITE 3.0 TFSI TRIPTONIC,,Si,CDMX,159600.0
+2013,,Sentra,,Si,CDMX,69300.0
+2023,,Clase E,,No,EDOMEX,599200.0
+2018,,ACCENT,,Si,EDOMEX,99820.0
+2019,,GRAND I10,,Si,Nuevo León,95760.0
+2020,,COUNTRYMAN,,Si,Oaxaca,219100.0
+2017,,KICKS,,Si,Aguascalientes,130200.0
+2023,,XT4,,Si,CDMX,350000.0
+2023,,Versa,,Si,EDOMEX,148400.0
+,,Kwid,,No,Jalisco,114100.0
+,,Serie 4,,Si,EDOMEX,350000.0
+,,Onix,,Si,CDMX,152600.0
+2022,,Virtus,,Si,CDMX,147700.0
+2016,,SOUL,,No,CDMX,101500.0
+2014,,Escape,,Si,CDMX,98000.0
+2016,,Toledo,,Si,EDOMEX,82600.0
+2020,,Camry,,Si,CDMX,212100.0
+2014,,Yuan,,Si,CDMX,376000.0
+2014,,Serie 3,,Si,CDMX,130200.0
+2018,,Neon,,Si,EDOMEX,102130.0
+2023,,Alsvin,,Si,CDMX,109620.0
+2015,,Silverado 1500,,Si,EDOMEX,135100.0
+2019,,March,,Si,EDOMEX,104300.0
+2019,,Versa,,Si,EDOMEX,98700.0
+2015,,Chrysler 200,,Si,EDOMEX,84000.0
+2022,,Mustang,,Si,EDOMEX,350000.0
+2013,,Versa,,Si,CDMX,63000.0
+2015,,Jetta Nuevo,,Si,CDMX,86800.0
+2013,,Gol,,Si,Guerrero,51100.0
+2015,,Ibiza,,Si,CDMX,77000.0
+2013,,Fiesta,,Si,Querétaro,53830.0
+2016,,Ciaz,,Si,Puebla,77000.0
+2021,,A1,,Si,EDOMEX,235900.0
+2014,,Cruze,,Si,CDMX,71200.0
+2017,,MX5,,Si,EDOMEX,151900.0
+2013,,Escalade,,Si,CDMX,198800.0
+2021,,Kwid,,Si,Puebla,89600.0
+2020,,D20,,Si,Puebla,74900.0
+2018,,A1,,Si,EDOMEX,175000.0
+2013,,Jetta Nuevo,,Si,EDOMEX,77000.0
+2013,,Tiida,,Si,CDMX,61670.0
+2017,,Prius,,Si,CDMX,147000.0
+2018,,Journey,,Si,CDMX,158900.0
+,,Attitude,,Si,EDOMEX,144200.0
+2018,,Versa,,Si,CDMX,91000.0
+2018,,SOUL,,Si,CDMX,114800.0
+2016,,March,,Si,EDOMEX,87500.0
+2017,,Attitude,,Si,Puebla,72100.0
+2015,,Versa,,Si,CDMX,74900.0
+2020,,Vento,,No,EDOMEX,119000.0
+2017,,Versa,,Si,CDMX,84700.0
+2015,,208,,Si,Puebla,74200.0
+2018,,XT5,,Si,CDMX,226100.0
+2017,,GRAND I10,,Si,CDMX,72660.0
+2020,,Versa,,Si,EDOMEX,118300.0
+2017,,Vento,,Si,Puebla,92400.0
+2015,,Prius,,Si,EDOMEX,116000.0
+2019,,F-150,,Si,EDOMEX,268100.0
+2014,,Mazda 3,,Si,CDMX,95900.0
+2017,,Vento,,Si,Tlaxcala,92400.0
+2020,,Sentra,,Si,EDOMEX,149100.0
+2013,,Accord,,Si,CDMX,96600.0
+2018,,FORTE,,Si,EDOMEX,107800.0
+2017,,Attitude,,Si,Tabasco,72100.0
+2019,,Beat,,Si,EDOMEX,80500.0
+2014,,Passat,,Si,EDOMEX,100800.0
+2018,,March,,No,Morelos,87500.0
+2019,,Mazda 3,,Si,CDMX,153300.0
+2017,,Jetta Nuevo,,No,EDOMEX,101500.0
+2018,,X1,,Si,CDMX,212100.0
+2019,,X2,,Si,CDMX,250600.0
+2018,,Versa,,Si,CDMX,104300.0
+2019,,Figo,,Si,Tlaxcala,88900.0
+2021,,SPORTAGE,,Si,Hidalgo,191800.0
+2014,,Patriot,,Si,EDOMEX,93800.0
+2017,,FORTE,,Si,EDOMEX,119000.0
+2019,,Versa,,Si,EDOMEX,105700.0
+2014,,Avanza,,Si,CDMX,88200.0
+2021,,Aveo,,Si,Jalisco,101640.0
+2017,,Figo,,Si,Chihuahua,70140.0
+2022,,Cayman,,Si,EDOMEX,350000.0
+2018,,Mirage,,Si,EDOMEX,80500.0
+2016,,Attitude,,Si,Hidalgo,63000.0
+2023,,Virtus,,Si,Morelos,174300.0
+2015,,Tiida,,Si,CDMX,62370.0
+2023,,Groove,,Si,CDMX,181300.0
+2016,,Palio,,Si,EDOMEX,72800.0
+2017,,Vento,,Si,CDMX,92400.0
+2016,,Versa,,Si,EDOMEX,81900.0
+2016,,Sonic,,Si,CDMX,80500.0
+2013,,March,,Si,CDMX,55300.0
+2015,,500,,Si,CDMX,81200.0
+2023,,Sienna,,Si,Coahuila,350000.0
+2023,,March,,No,EDOMEX,124600.0
+2013,,Clase B,,Si,CDMX,99400.0
+2014,,Polo,,Si,CDMX,99400.0
+2016,,Montero,,Si,CDMX,191100.0
+2022,,Vento,,Si,Tlaxcala,135100.0
+2016,,Focus,,Si,Chihuahua,100800.0
+2021,,Corolla,,No,EDOMEX,175700.0
+2016,,March,,No,EDOMEX,75600.0
+2019,,Versa,,No,CDMX,105700.0
+2013,,Terrain,,Si,CDMX,116200.0
+2015,,Ibiza,,Si,EDOMEX,79100.0
+2017,,Vento,,Si,Puebla,100100.0
+2015,,Colorado,,Si,Hidalgo,164500.0
+2013,,M,,Si,CDMX,113400.0
+2013,,Gol,,Si,CDMX,51800.0
+2014,,Trax,,Si,CDMX,88200.0
+2020,,FORTE,,Si,CDMX,139300.0
+2020,,T-Cross,,Si,Veracruz,186200.0
+2018,,Beat,,Si,CDMX,88900.0
+2016,,Patriot,,Si,Coahuila,123200.0
+2013,,Versa,,Si,CDMX,64820.0
+2015,,URVAN VAN,,Si,EDOMEX,112000.0
+2017,,301,,Si,EDOMEX,73500.0
+2017,,Sentra,,Si,Querétaro,105700.0
+2020,,KICKS,,Si,EDOMEX,156800.0
+2020,,Mazda 3,,Si,EDOMEX,181300.0
+,,X5,,Si,CDMX,350000.0
+2023,,RIO,,No,CDMX,141400.0
+2014,,SX4,,Si,CDMX,74200.0
+2013,,Mazda 3,,Si,EDOMEX,77700.0
+2023,,RIO,,No,CDMX,159600.0
+2021,,Sentra,,Si,CDMX,193900.0
+2014,,Duster,,Si,CDMX,75600.0
+2018,,GRAND I10,,Si,CDMX,91700.0
+2018,,GRAND I10,,Si,CDMX,91700.0
+2016,,Mazda 3,,Si,Morelos,105700.0
+2015,,Versa,,Si,CDMX,76300.0
+2019,,SOUL,,Si,CDMX,121800.0
+2016,,Cruze,,Si,EDOMEX,90300.0
+2023,,GRAND CHEROKEE ,,Si,CDMX,115000.0
+2013,,Clase GLK,,Si,CDMX,131600.0
+2019,,Jetta Nuevo,,Si,CDMX,142800.0
+2022,,Captiva,,Si,CDMX,201600.0
+2017,,Forester,,Si,CDMX,158900.0
+2015,,Spark,,Si,CDMX,48440.0
+2015,,Camaro,,Si,Tlaxcala,166600.0
+2019,,Avanza,,Si,CDMX,124600.0
+2021,,Duster,,Si,CDMX,127400.0
+2019,,RIO,,Si,Jalisco,116900.0
+2015,,Vento,,Si,EDOMEX,84700.0
+2016,,Duster,,Si,EDOMEX,86800.0
+2015,,Vento,,Si,EDOMEX,77700.0
+2020,,Virtus,,Si,EDOMEX,126700.0
+2015,,Clase C,,Si,EDOMEX,150500.0
+2013,,Clase C,,Si,Hidalgo,101500.0
+2016,,Altima,,Si,EDOMEX,102200.0
+2016,,March,,Si,Puebla,63700.0
+2023,,SELTOS,,No,CDMX,192500.0
+2015,,TLX,,Si,EDOMEX,144000.0
+2013,,COUNTRYMAN,,Si,Hidalgo,119700.0
+2013,,Duster,,Si,CDMX,65100.0
+2014,,Passat,,Si,EDOMEX,100100.0
+2018,,Versa,,Si,CDMX,98700.0
+2020,,FORTE,,Si,EDOMEX,160300.0
+2017,,Journey,,Si,EDOMEX,151900.0
+2016,,Spark,,Si,EDOMEX,67900.0
+2019,,Aveo,,Si,CDMX,95900.0
+2017,,Mobi,,No,Morelos,68600.0
+2019,,Mirage,,Si,EDOMEX,86800.0
+2016,,Serie 3,,Si,Jalisco,131600.0
+2013,,Aveo,,Si,EDOMEX,49980.0
+2014,,Passat,,Si,CDMX,93800.0
+2018,,Gol,,Si,EDOMEX,84700.0
+2017,,Versa,,Si,EDOMEX,85400.0
+2013,,Jetta Nuevo,,Si,EDOMEX,93800.0
+2020,,SOUL,,Si,CDMX,158200.0
+2013,,COUNTRYMAN,,Si,Baja California,109200.0
+2019,,CR-V,,Si,CDMX,209300.0
+2014,,Jetta Clasico,,Si,CDMX,80500.0
+2017,,Equinox,,Si,EDOMEX,142100.0
+2013,,Tiida,,Si,EDOMEX,55930.0
+2017,,Journey,,Si,Veracruz,140000.0
+2018,,Beat,,Si,Aguascalientes,74200.0
+2018,,X Trail,,Si,CDMX,189700.0
+2022,,Onix,,No,EDOMEX,132300.0
+2021,,ZS,,No,CDMX,154000.0
+2018,,Sandero,,Si,CDMX,81900.0
+2015,,Journey,,Si,Tabasco,109200.0
+,,Versa,,No,Jalisco,163100.0
+2018,,Tiguan,,Si,CDMX,170100.0
+2018,,Vento,,Si,CDMX,95900.0
+2015,,Aveo,,Si,Puebla,56910.0
+2016,,Avanza,,Si,EDOMEX,99400.0
+2018,,Aveo,,Si,EDOMEX,77980.0
+2019,,GRAND I10,,Si,CDMX,98000.0
+2016,,Spark,,Si,CDMX,49000.0
+2019,,Aveo,,Si,CDMX,95760.0
+2021,,RIO,,Si,CDMX,136800.0
+2017,,Civic,,Si,Jalisco,151200.0
+2021,,S-Cross,,Si,EDOMEX,184800.0
+2021,,March,,Si,CDMX,133700.0
+2016,,Mazda 3,,Si,Hidalgo,114800.0
+2023,,Range Rover,,Si,CDMX,350000.0
+2017,,Jetta Nuevo,,Si,EDOMEX,101500.0
+2013,,Tiida,,Si,CDMX,53200.0
+2020,,X30,,Si,EDOMEX,121100.0
+2013,,Sprinter,,Si,Tlaxcala,145600.0
+2018,,Versa,,Si,EDOMEX,91700.0
+2013,,Polo,,Si,CDMX,70000.0
+2013,,Corolla,,Si,Tamaulipas,79800.0
+2018,,March,,Si,EDOMEX,88900.0
+2018,,Aveo,,Si,EDOMEX,79170.0
+2019,,Trax,,Si,EDOMEX,149100.0
+2016,,GRAND I10,,Si,CDMX,83300.0
+2014,,A3,,Si,CDMX,115500.0
+,,Mirage,,Si,Hidalgo,135100.0
+,,Escalade,,Si,CDMX,350000.0
+2016,,March,,Si,EDOMEX,70000.0
+,,CR-V,,Si,Tamaulipas,350000.0
+2013,,Matiz,,Si,EDOMEX,36890.0
+2022,,Sentra,,Si,CDMX,161000.0
+2015,,Focus,,No,EDOMEX,86800.0
+2014,,Sonic,,Si,CDMX,64400.0
+2018,,Sentra,,Si,EDOMEX,112000.0
+2020,,Beat,,Si,EDOMEX,93100.0
+2022,,Swift,,Si,CDMX,145600.0
+2020,,Camry,,Si,EDOMEX,190000.0
+,,X7,,Si,EDOMEX,350000.0
+2013,,Ibiza,,Si,EDOMEX,70000.0
+2023,,Jetta Nuevo,,Si,CDMX,262500.0
+2020,,Vento,,Si,CDMX,103600.0
+2020,,Vento,,Si,CDMX,123900.0
+2019,,Mazda 3,,Si,Hidalgo,172200.0
+2018,,Mazda 2,,Si,EDOMEX,107800.0
+2021,,XC40,,Si,CDMX,284900.0
+2020,,SOUL,,No,Veracruz,158200.0
+2023,,Frontier,,Si,EDOMEX,350000.0
+2015,,CR-V,,Si,Morelos,147700.0
+,,Mazda 3,,No,CDMX,196700.0
+2019,,Jetta Nuevo,,Si,Guerrero,133000.0
+2021,,Mazda 3,,Si,Hidalgo,161700.0
+2017,,Sonic,,Si,CDMX,86800.0
+2019,,500,,Si,EDOMEX,204400.0
+2021,,T-Cross,,Si,CDMX,171500.0
+2018,,Sentra,,Si,CDMX,119000.0
+2018,,Compass,,Si,Baja California Sur,169400.0
+2015,,Versa,,Si,EDOMEX,74900.0
+2018,,OPTIMA,,Si,CDMX,155400.0
+,,MG5,,No,EDOMEX,141400.0
+2021,,Figo,,Si,EDOMEX,122570.0
+2014,,Trax,,Si,EDOMEX,95900.0
+2015,,ELANTRA,,Si,EDOMEX,98000.0
+2020,,Vento,,Si,CDMX,103600.0
+2013,,Swift,,Si,EDOMEX,72100.0
+,,Sentra,,No,Sonora,212100.0
+2017,,ELANTRA,,Si,Yucatán,112700.0
+2018,,Renegade,,Si,CDMX,147700.0
+2020,,Spark,,Si,EDOMEX,113890.0
+2013,,Focus,,Si,CDMX,60900.0
+,,Alsvin,,Si,EDOMEX,118160.0
+2019,,Yaris,,Si,CDMX,103600.0
+2017,,KICKS,,Si,EDOMEX,132300.0
+2015,,March,,Si,CDMX,74900.0
+2019,,RIO,,Si,EDOMEX,102200.0
+2014,,Fusion,,Si,EDOMEX,84000.0
+2018,,X Trail,,Si,Veracruz,154700.0
+2014,,Fluence,,Si,CDMX,74900.0
+2015,,Fiesta,,Si,EDOMEX,71400.0
+2016,,Leon,,Si,EDOMEX,163100.0
+2015,,Toledo,,Si,EDOMEX,79100.0
+2015,,March,,Si,Puebla,59500.0
+2017,,Serie 3,,Si,Jalisco,193200.0
+2023,,Tiggo 4 pro,,Si,EDOMEX,175700.0
+2018,,Gol,,Si,Morelos,84700.0
+2018,,RIO,,Si,CDMX,109900.0
+2020,,Vento,,Si,CDMX,133000.0
+2016,,Versa,,Si,EDOMEX,81900.0
+2019,,Beat,,Si,CDMX,81900.0
+2015,,Note,,No,CDMX,73500.0
+2019,,SPORTAGE,,Si,CDMX,199500.0
+2018,,Aveo,,Si,EDOMEX,89110.0
+2015,,Note,,Si,CDMX,75600.0
+2018,,Aveo,,Si,EDOMEX,93100.0
+2020,,ARONA,,Si,EDOMEX,160300.0
+2020,,Aveo,,Si,CDMX,102620.0
+2020,,Aveo,,Si,CDMX,102620.0
+2020,,Ignis,,Si,CDMX,119000.0
+2014,,Sonic,,Si,CDMX,63210.0
+2018,,RIO,,Si,EDOMEX,109900.0
+2013,,Focus,,Si,CDMX,65100.0
+2018,,RIO,,Si,Nayarit,131600.0
+2015,,MINI S,,Si,Hidalgo,122500.0
+2017,,A1,,Si,EDOMEX,138600.0
+2017,,ELANTRA,,Si,CDMX,112700.0
+2017,,CR-V,,Si,Hidalgo,181300.0
+2017,,Spark,,Si,Guerrero,84000.0
+,,CX5,,Si,CDMX,277200.0
+2019,,CR-V,,Si,CDMX,223300.0
+2019,,Lobo,,Si,CDMX,350000.0
+2019,,Mirage,,Si,CDMX,98490.0
+2013,,Crossfox,,Si,EDOMEX,72800.0
+2019,,Toledo,,Si,Chihuahua,112700.0
+2014,,Versa,,Si,CDMX,69300.0
+2013,,Scala,,No,Puebla,44030.0
+2015,,Vento,,Si,Puebla,88200.0
+2021,,RIO,,No,CDMX,134400.0
+2018,,Gol,,Si,Puebla,84700.0
+2014,,Captiva,,Si,EDOMEX,83300.0
+2013,,Swift,,Si,EDOMEX,69300.0
+2017,,Vento,,Si,CDMX,88200.0
+2015,,Toledo,,Si,EDOMEX,85400.0
+2016,,SPORTAGE,,Si,CDMX,133000.0
+2019,,Sentra,,Si,EDOMEX,124600.0
+2023,,Virtus,,No,EDOMEX,160300.0
+2016,,Aveo,,Si,EDOMEX,65800.0
+2013,,Leon,,Si,Puebla,88200.0
+2021,,SPORTAGE,,Si,CDMX,232000.0
+2018,,Vento,,Si,CDMX,101500.0
+2015,,X Trail,,Si,CDMX,118300.0
+2013,,Ram 2500,,Si,Morelos,121100.0
+2019,,City,,Si,CDMX,123200.0
+2019,,March,,No,Puebla,98700.0
+2014,,Camry,,Si,EDOMEX,98000.0
+2015,,Spark,,Si,EDOMEX,58520.0
+2016,,Jetta Nuevo,,No,CDMX,91000.0
+2014,,Tsuru,,Si,EDOMEX,48020.0
+2015,,Odyssey,,Si,Puebla,171500.0
+2017,,Prius,,Si,EDOMEX,138600.0
+2017,,Jetta Nuevo,,Si,CDMX,116200.0
+2018,,ELANTRA,,Si,EDOMEX,115570.0
+2018,,Cavalier,,Si,CDMX,111440.0
+2021,,March,,No,EDOMEX,122500.0
+2015,,Aveo,,Si,CDMX,63700.0
+2018,,Duster,,Si,EDOMEX,109900.0
+,,Avanza,,Si,EDOMEX,189000.0
+2016,,Logan,,Si,EDOMEX,56000.0
+2020,,SOUL,,Si,EDOMEX,135100.0
+2021,,HS,,Si,CDMX,203000.0
+2015,,Mazda 3,,Si,EDOMEX,98000.0
+2013,,Lancer,,Si,CDMX,63000.0
+2018,,Discovery Sport,,Si,CDMX,304500.0
+2016,,Smart,,Si,CDMX,110600.0
+2015,,Terrain,,Si,Querétaro,135800.0
+2013,,Tiida,,Si,Quintana Roo,53200.0
+2019,,Teramont,,Si,CDMX,319900.0
+2013,,Gol,,Si,CDMX,51800.0
+2013,,X5,,Si,Chiapas,164500.0
+2022,,Virtus,,Si,CDMX,163100.0
+2020,,S-Cross,,Si,Chihuahua,192000.0
+2023,,KICKS,,No,EDOMEX,207900.0
+2013,,Touareg,,Si,CDMX,168700.0
+2016,,Caddy,,Si,Quintana Roo,120400.0
+2017,,Attitude,,Si,CDMX,72100.0
+2014,,Compass,,Si,Hidalgo,101500.0
+2013,,H 100,,Si,CDMX,85400.0
+2013,,Dart,,Si,EDOMEX,65800.0
+2017,,Grand Cherokee,,Si,EDOMEX,261100.0
+,,Compass,,Si,CDMX,294700.0
+2018,,March,,Si,Tlaxcala,88900.0
+2020,,Beat,,Si,CDMX,103600.0
+2020,,Ibiza,,Si,CDMX,119000.0
+2013,,Explorer,,Si,Puebla,120400.0
+2020,,Beat,,Si,Puebla,84700.0
+2019,,March,,No,Morelos,78470.0
+2018,,Duster,,Si,CDMX,114800.0
+2019,,Equinox,,Si,CDMX,171500.0
+2015,,Jetta Clasico,,Si,Hidalgo,81200.0
+2013,,Mazda 2,,Si,CDMX,70840.0
+,,K3,,Si,EDOMEX,227500.0
+2015,,Jetta Nuevo,,Si,EDOMEX,84700.0
+2020,,Cavalier,,Si,EDOMEX,119000.0
+2016,,Vento,,Si,EDOMEX,85400.0
+2017,,Mirage,,Si,Nuevo León,72100.0
+2020,,Lobo,,Si,Yucatán,350000.0
+2017,,FIT,,Si,CDMX,104300.0
+2013,,MINI,,Si,CDMX,88900.0
+2015,,Malibu,,Si,Baja California,108500.0
+2017,,RAV4,,Si,Hidalgo,159600.0
+2014,,Enclave,,Si,EDOMEX,135100.0
+2016,,CR-V,,Si,CDMX,161700.0
+2019,,Serie 1,,Si,EDOMEX,224700.0
+2016,,Yaris,,Si,EDOMEX,102900.0
+2018,,Mobi,,Si,Morelos,77000.0
+2014,,Jetta Clasico,,Si,Tabasco,72800.0
+2022,,Vitara,,No,CDMX,199500.0
+2023,,Suburban,,Si,EDOMEX,350000.0
+2019,,Vento,,Si,EDOMEX,101500.0
+2013,,Stepway,,Si,Puebla,56070.0
+2020,,Eco Sport,,Si,EDOMEX,172900.0
+2018,,Polo,,Si,CDMX,102900.0
+,,Groove,,Si,CDMX,185500.0
+2016,,Figo,,Si,Jalisco,66500.0
+,,Kwid,,Si,EDOMEX,119000.0
+2013,,City,,Si,CDMX,79800.0
+2018,,Spark,,Si,CDMX,98560.0
+2023,,Tiggo 4 pro,,Si,CDMX,196700.0
+2013,,Tiguan,,Si,CDMX,127400.0
+2013,,Accord,,Si,CDMX,100100.0
+2013,,Tiida,,Si,CDMX,55930.0
+2016,,Trax,,Si,CDMX,107100.0
+2019,,Captur,,Si,Morelos,129570.0
+2013,,Aveo,,Si,EDOMEX,49140.0
+2013,,Aveo,,Si,EDOMEX,49000.0
+2015,,Ibiza,,Si,EDOMEX,83300.0
+2019,,Versa,,Si,EDOMEX,107100.0
+2015,,Clase C,,Si,Morelos,144200.0
+2014,,Focus,,No,CDMX,70700.0
+2017,,Vento,,Si,Morelos,86800.0
+2013,,Clase E,,Si,CDMX,131600.0
+2019,,Insight,,Si,EDOMEX,214200.0
+2017,,FORTE,,Si,CDMX,105000.0
+2016,,HR-V,,Si,CDMX,131600.0
+2016,,Fluence,,Si,EDOMEX,76300.0
+2018,,Aveo,,Si,CDMX,89250.0
+2016,,Versa,,Si,CDMX,86800.0
+2013,,Explorer,,Si,Puebla,135200.0
+2013,,Ram 2500,,Si,CDMX,156800.0
+2016,,Sonic,,Si,CDMX,79800.0
+2023,,C5,,Si,CDMX,247310.0
+2017,,UP,,Si,CDMX,80500.0
+2016,,370Z,,Si,EDOMEX,217000.0
+2022,,Versa,,Si,CDMX,141400.0
+2020,,SPORTAGE,,Si,CDMX,179900.0
+2015,,Accord,,Si,Puebla,113400.0
+2023,,CRETA,,Si,CDMX,178430.0
+2022,,X3,,Si,Guerrero,350000.0
+2018,,Sentra,,Si,CDMX,110600.0
+2017,,Sonic,,Si,EDOMEX,86100.0
+2017,,Vento,,Si,CDMX,100100.0
+2020,,Versa,,Si,EDOMEX,124600.0
+2022,,Mazda 2,,Si,CDMX,130900.0
+2019,,X35,,Si,EDOMEX,100800.0
+2012,,Sandero,,Si,Veracruz,51660.0
+2016,,March,,Si,CDMX,74900.0
+2020,,Versa,,Si,CDMX,124600.0
+2023,,Wagoneer,,Si,CDMX,350000.0
+2013,,Matiz,,Si,CDMX,37520.0
+2014,,Aveo,,Si,CDMX,52920.0
+2015,,ELANTRA,,Si,CDMX,100100.0
+2017,,301,,Si,CDMX,73500.0
+2016,,FORTE,,Si,CDMX,99400.0
+2023,,MG5,,No,EDOMEX,137200.0
+2022,,X Trail,,No,CDMX,258300.0
+2017,,March,,Si,EDOMEX,81900.0
+2015,,Gol,,Si,Guerrero,61600.0
+2013,,Serie 3,,Si,EDOMEX,130900.0
+2014,,Trax,,Si,EDOMEX,90300.0
+2017,,Aveo,,Si,CDMX,70840.0
+2016,,Tsuru,,Si,EDOMEX,57470.0
+2020,,Aveo,,Si,EDOMEX,96320.0
+2017,,X Trail,,Si,CDMX,153300.0
+2013,,Fluence,,Si,EDOMEX,58100.0
+2016,,TIGUAN,,Si,CDMX,100800.0
+2018,,Leon,,Si,Aguascalientes,198800.0
+2015,,Serie 3,,Si,EDOMEX,144200.0
+2021,,X4,,Si,CDMX,350000.0
+2020,,Grand Cherokee,,Si,EDOMEX,350000.0
+2023,,Teramont,,Si,Puebla,350000.0
+,,Taos,,Si,CDMX,285600.0
+2013,,Town,,Si,CDMX,95900.0
+2018,,Civic,,Si,CDMX,172900.0
+2015,,A7,,No,EDOMEX,294000.0
+2015,,Gol,,Si,CDMX,60900.0
+2013,,X Trail,,Si,CDMX,97300.0
+2015,,Aveo,,Si,EDOMEX,56210.0
+2020,,X1,,Si,EDOMEX,253400.0
+2020,,X1,,Si,EDOMEX,253400.0
+2013,,Edge,,Si,Puebla,105000.0
+2017,,Aveo,,Si,CDMX,67900.0
+2022,,Aveo,,Si,Chihuahua,108640.0
+2021,,Ibiza,,Si,EDOMEX,145600.0
+2019,,Duster,,Si,EDOMEX,124000.0
+2018,,X Trail,,Si,CDMX,154700.0
+2018,,Beat,,Si,EDOMEX,77000.0
+2015,,Clase A,,Si,CDMX,111300.0
+2016,,Q50,,Si,EDOMEX,138600.0
+2019,,Cavalier,,No,CDMX,109900.0
+2014,,Encore,,Si,CDMX,100100.0
+,,Jetta Nuevo,,Si,EDOMEX,89600.0
+2015,,Duster,,Si,CDMX,84000.0
+2015,,Tiida,,Si,CDMX,61880.0
+2015,,Jetta Nuevo,,Si,CDMX,89600.0
+2023,,Logan,,Si,EDOMEX,136500.0
+2023,,Highlander,,Si,CDMX,350000.0
+2019,,FIT,,Si,CDMX,133000.0
+2021,,SPORTAGE,,No,EDOMEX,246400.0
+2018,,CTS,,Si,Hidalgo,350000.0
+2018,,Swift,,Si,CDMX,107100.0
+2018,,UP,,Si,CDMX,91700.0
+2018,,UP,,Si,CDMX,91700.0
+2020,,Vento,,Si,CDMX,109200.0
+2017,,Figo,,Si,Tabasco,72100.0
+2015,,Town,,No,EDOMEX,117600.0
+,,Avanza,,Si,Durango,172900.0
+2016,,Fusion,,Si,EDOMEX,114800.0
+2013,,Clase M,,Si,EDOMEX,170800.0
+2016,,Figo,,Si,CDMX,69300.0
+2013,,Liberty,,Si,EDOMEX,102200.0
+2017,,Suburban,,Si,EDOMEX,347900.0
+2014,,Versa,,Si,EDOMEX,68880.0
+2015,,Versa,,Si,EDOMEX,76300.0
+2021,,Leon,,Si,CDMX,287700.0
+2013,,CR-V,,No,EDOMEX,116200.0
+2019,,Explorer,,Si,EDOMEX,275800.0
+2013,,MKX,,Si,EDOMEX,112000.0
+2014,,500,,Si,EDOMEX,83300.0
+2017,,Vento,,Si,CDMX,100100.0
+2017,,Figo,,No,CDMX,73360.0
+2019,,Jetta Nuevo,,Si,Hidalgo,162400.0
+2013,,Fiesta,,Si,CDMX,54390.0
+2018,,Note,,Si,EDOMEX,109200.0
+2022,,X4,,Si,CDMX,350000.0
+,,CS55 Plus,,Si,Tlaxcala,241920.0
+2020,,March,,Si,EDOMEX,94500.0
+2018,,Serie 4,,Si,EDOMEX,222600.0
+2020,,RIO,,Si,Puebla,109200.0
+2021,,Tiguan,,Si,CDMX,232400.0
+2014,,Ikon,,Si,CDMX,51870.0
+2014,,Chrysler 200,,Si,CDMX,67200.0
+2020,,Sentra,,Si,CDMX,144900.0
+2021,,Onix,,Si,EDOMEX,121800.0
+2017,,Gol,,No,CDMX,76300.0
+2023,,Kwid,,Si,CDMX,118300.0
+2015,,Hilux,,Si,EDOMEX,149100.0
+2016,,Versa,,Si,CDMX,82600.0
+2022,,Clase GLE,,Si,CDMX,350000.0
+2023,,March,,Si,Puebla,149800.0
+2016,,HR-V,,Si,EDOMEX,134400.0
+2021,,Taos,,Si,CDMX,215600.0
+2021,,Ibiza,,Si,CDMX,154700.0
+2013,,Q7,,Si,EDOMEX,159600.0
+2023,,MG5,,Si,EDOMEX,137200.0
+2016,,Patriot,,Si,CDMX,114800.0
+2017,,Jetta Nuevo,,Si,EDOMEX,160300.0
+2013,,Sonic,,Si,EDOMEX,59080.0
+2014,,Clase GLK,,Si,CDMX,151200.0
+2014,,Versa,,Si,CDMX,82400.0
+2018,,ACCENT,,Si,EDOMEX,106470.0
+2013,,Aveo,,Si,EDOMEX,49000.0
+2013,,Mazda 3,,Si,Aguascalientes,72100.0
+2019,,Serie 4,,Si,CDMX,252000.0
+,,Mazda 3,,Si,EDOMEX,250600.0
+2017,,Aveo,,Si,CDMX,74900.0
+2017,,Q50,,Si,CDMX,155400.0
+2018,,SORENTO,,Si,Puebla,210000.0
+2014,,Clase CLA,,Si,EDOMEX,145600.0
+2021,,Versa,,No,CDMX,133000.0
+2018,,Tiguan,,No,CDMX,176400.0
+2020,,Beat,,Si,EDOMEX,93800.0
+2019,,Avanza,,Si,CDMX,114800.0
+2018,,Clase CLA,,Si,EDOMEX,254100.0
+2015,,Mazda 3,,Si,EDOMEX,113400.0
+2013,,Fiesta,,Si,EDOMEX,58100.0
+2014,,March,,Si,EDOMEX,54600.0
+2017,,Sentra,,Si,CDMX,107100.0
+2018,,Mazda 3,,Si,CDMX,139300.0
+2021,,Ibiza,,Si,CDMX,145600.0
+2014,,CR-V,,Si,EDOMEX,125300.0
+2018,,Aveo,,Si,CDMX,93240.0
+2017,,Versa,,Si,Puebla,86100.0
+2018,,CX5,,Si,Querétaro,171500.0
+2023,,SEI3,,No,CDMX,175700.0
+2017,,Serie 1,,Si,CDMX,162400.0
+2018,,SOUL,,Si,Morelos,130900.0
+2016,,Fiesta,,Si,EDOMEX,79800.0
+2014,,Sonic,,Si,EDOMEX,70700.0
+2019,,Aveo,,Si,CDMX,108320.0
+2017,,Patriot,,No,Puebla,132300.0
+2022,,Captiva,,Si,Puebla,192500.0
+2013,,Beetle,,Si,CDMX,93100.0
+2020,,Wrangler,,Si,CDMX,350000.0
+2013,,X Trail,,Si,CDMX,102900.0
+2015,,Golf,,Si,EDOMEX,123900.0
+2020,,SPORTAGE,,Si,EDOMEX,179900.0
+2013,,Sonic,,Si,CDMX,61600.0
+2014,,Aveo,,Si,EDOMEX,56910.0
+2017,,Jetta Nuevo,,Si,EDOMEX,119700.0
+2019,,Versa,,No,Morelos,107100.0
+2021,,MG5,,No,CDMX,116200.0
+2014,,Palio,,Si,Chiapas,64400.0
+2018,,Logan,,Si,CDMX,71400.0
+2017,,Figo,,Si,CDMX,75320.0
+2020,,Beat,,Si,EDOMEX,94500.0
+2019,,Versa,,Si,CDMX,107100.0
+2023,,Integra,,Si,Coahuila,338800.0
+2017,,Serie 500,,Si,Baja California Sur,319900.0
+2022,,Duster,,Si,CDMX,150500.0
+2017,,RIO,,Si,CDMX,96600.0
+2013,,Matiz,,Si,CDMX,37520.0
+2016,,Spark,,Si,Puebla,53130.0
+2017,,GRAND I10,,Si,CDMX,87640.0
+2020,,Rifter,,Si,CDMX,153300.0
+2013,,Clase A,,Si,CDMX,107100.0
+2014,,Escape,,Si,CDMX,107100.0
+2017,,Aveo,,Si,EDOMEX,75600.0
+2017,,Gol,,Si,CDMX,77000.0
+2019,,Versa,,Si,Morelos,88200.0
+2013,,TL,,Si,CDMX,88200.0
+2019,,CR-V,,Si,CDMX,230300.0
+2014,,X1,,Si,CDMX,117600.0
+2018,,Versa,,Si,EDOMEX,88200.0
+2017,,Polo,,Si,EDOMEX,100800.0
+2022,,CONVERTIBLE,,Si,EDOMEX,305900.0
+2019,,Trax,,Si,EDOMEX,136500.0
+2020,,Vento,,Si,Chiapas,103600.0
+2018,,FORTE,,Si,CDMX,102200.0
+2015,,Challenger,,Si,Morelos,203700.0
+2015,,A3,,Si,EDOMEX,139300.0
+2017,,Versa,,No,CDMX,93100.0
+2019,,Sentra,,Si,Michoacán,128800.0
+2016,,Fiesta,,Si,CDMX,82600.0
+2023,,Onix,,Si,CDMX,170100.0
+2018,,Ibiza,,Si,CDMX,105700.0
+2013,,March,,Si,CDMX,60200.0
+,,Hilux,,Si,Durango,262500.0
+2019,,HR-V,,Si,EDOMEX,187600.0
+2015,,Mazda 3,,Si,CDMX,100100.0
+2017,,Tiida,,Si,EDOMEX,77000.0
+2021,,Vento,,Si,EDOMEX,117600.0
+2018,,Versa,,Si,Nayarit,110400.0
+,,Xpander,,Si,CDMX,228200.0
+,,Supra,,Si,Baja California,350000.0
+2015,,March,,Si,EDOMEX,70000.0
+2019,,ACCENT,,Si,CDMX,106960.0
+2020,,Swift,,Si,CDMX,154000.0
+2022,,SORENTO,,Si,CDMX,296800.0
+2017,,ATECA,,No,CDMX,150500.0
+2019,,XT4,,Si,Chiapas,266000.0
+2018,,Tundra,,Si,Baja California,350000.0
+2017,,City,,No,EDOMEX,111300.0
+,,Attitude,,Si,EDOMEX,152600.0
+2022,,CX3,,Si,EDOMEX,176400.0
+2018,,GRAND I10,,Si,EDOMEX,87220.0
+2014,,CX5,,Si,CDMX,133700.0
+2019,,Cavalier,,Si,EDOMEX,129600.0
+2021,,Leon,,Si,EDOMEX,212800.0
+2015,,Passat,,Si,EDOMEX,100800.0
+2018,,Jetta Nuevo,,No,CDMX,110600.0
+,,Ducato Van,,Si,Aguascalientes,350000.0
+,,Tacoma,,Si,Sinaloa,350000.0
+2013,,Focus,,Si,Oaxaca,61600.0
+2018,,Clase A,,Si,CDMX,190400.0
+2014,,Town,,Si,CDMX,100800.0
+2017,,Hilux,,Si,CDMX,156100.0
+2014,,Spark,,No,CDMX,53620.0
+2016,,Passat,,Si,Puebla,116200.0
+2018,,Mobi,,Si,Morelos,77700.0
+2015,,Explorer,,Si,CDMX,161000.0
+2020,,Beat,,Si,EDOMEX,104300.0
+2021,,Versa,,No,Sonora,123900.0
+2017,,Serie 1,,Si,EDOMEX,163800.0
+2013,,RAV4,,Si,CDMX,114800.0
+2015,,Vento,,No,EDOMEX,72800.0
+,,MINI S,,Si,CDMX,340900.0
+2023,,RIO,,Si,EDOMEX,172200.0
+2018,,Tiguan,,Si,Hidalgo,240800.0
+2018,,CRETA,,Si,EDOMEX,130480.0
+2015,,Aveo,,Si,CDMX,56350.0
+2016,,Versa,,Si,Jalisco,82600.0
+2015,,Mazda 3,,Si,EDOMEX,100100.0
+2020,,SOUL,,Si,Hidalgo,184800.0
+2019,,Vento,,Si,CDMX,109900.0
+,,XM,,Si,Chiapas,350000.0
+2018,,Duster,,Si,CDMX,101500.0
+2017,,FORTE,,Si,EDOMEX,109200.0
+2018,,Altima,,Si,CDMX,132300.0
+2018,,Ibiza,,Si,CDMX,130900.0
+2016,,Grand Cherokee,,Si,Morelos,235900.0
+2019,,Kangoo Express,,Si,CDMX,102900.0
+2020,,Aveo,,Si,CDMX,108500.0
+2018,,Passat,,Si,CDMX,145600.0
+2017,,Sonic,,Si,CDMX,87500.0
+2015,,Sonic,,Si,EDOMEX,72100.0
+2015,,Hilux,,Si,Baja California,144900.0
+2013,,Spark,,Si,EDOMEX,47180.0
+2013,,Versa,,Si,EDOMEX,63910.0
+,,Camry,,No,Baja California,292600.0
+,,Creta Grand,,No,Aguascalientes,263200.0
+2015,,Jetta Nuevo,,Si,Morelos,119700.0
+2023,,2008,,Si,EDOMEX,237300.0
+,,Kwid,,Si,EDOMEX,106400.0
+2016,,Fiesta,,Si,EDOMEX,79800.0
+2017,,Versa,,No,Coahuila,98000.0
+2019,,FORTE,,Si,CDMX,151200.0
+2022,,Vento,,Si,EDOMEX,127400.0
+2014,,Tiida,,Si,EDOMEX,60690.0
+2020,,Virtus,,Si,CDMX,144800.0
+2019,,Cavalier,,No,CDMX,110600.0
+2013,,Edge,,No,CDMX,102200.0
+2019,,Ibiza,,Si,EDOMEX,148800.0
+2021,,Kwid,,No,Hidalgo,91000.0
+2015,,Matiz,,Si,EDOMEX,42420.0
+2017,,Jetta Nuevo,,No,Guanajuato,113400.0
+2023,,Raize,,Si,CDMX,172900.0
+2016,,Sentra,,No,Veracruz,91000.0
+2014,,Journey,,No,EDOMEX,100800.0
+2018,,Yaris,,Si,EDOMEX,100800.0
+,,Polo,,No,EDOMEX,146300.0
+2017,,Versa,,Si,EDOMEX,86800.0
+2013,,Corolla,,Si,Yucatán,82600.0
+2023,,Onix,,No,EDOMEX,170100.0
+2021,,MG5,,Si,Puebla,128800.0
+2017,,Versa,,Si,EDOMEX,86800.0
+2015,,Sonic,,Si,EDOMEX,72100.0
+2016,,OPTIMA,,Si,CDMX,128800.0
+2015,,Explorer,,Si,EDOMEX,161000.0
+2018,,City,,Si,Puebla,123900.0
+2016,,Beetle,,Si,CDMX,126000.0
+2019,,Figo,,Si,EDOMEX,91770.0
+2015,,Malibu,,Si,EDOMEX,110400.0
+2016,,Versa,,Si,CDMX,91000.0
+,,Alsvin,,Si,EDOMEX,139790.0
+2017,,Urvan,,Si,EDOMEX,193200.0
+2015,,Jetta Clasico,,Si,Querétaro,79100.0
+2017,,TUCSON,,Si,Puebla,144900.0
+2019,,ARONA,,Si,EDOMEX,142100.0
+,,Mazda 2,,Si,CDMX,155400.0
+2014,,Jetta Nuevo,,No,CDMX,79800.0
+2016,,FIT,,Si,EDOMEX,100100.0
+2018,,TUCSON,,Si,EDOMEX,160300.0
+2018,,Ibiza,,Si,CDMX,112000.0
+2019,,SEI2,,Si,EDOMEX,93800.0
+2017,,GRAND I10,,Si,CDMX,75390.0
+2018,,Aveo,,Si,CDMX,80710.0
+2015,,Versa,,Si,Jalisco,76300.0
+2014,,Sentra,,Si,EDOMEX,76300.0
+2020,,GRAND I10,,Si,Hidalgo,103600.0
+,,Versa,,No,CDMX,199500.0
+2015,,Aveo,,No,CDMX,60340.0
+2016,,FORTE,,Si,CDMX,108500.0
+2014,,Clase M,,Si,EDOMEX,189000.0
+2019,,March,,Si,CDMX,98700.0
+2014,,Encore,,Si,CDMX,101500.0
+2017,,Stepway,,Si,CDMX,82600.0
+2020,,V-DRIVE,,Si,EDOMEX,102900.0
+2020,,Versa,,Si,Chihuahua,137200.0
+2017,,Yaris,,Si,EDOMEX,93800.0
+2014,,Serie 5,,Si,Tamaulipas,131600.0
+2018,,Beat,,Si,Puebla,87500.0
+2019,,Swift,,Si,EDOMEX,116900.0
+2019,,Versa,,Si,Morelos,107800.0
+2018,,Clase CLS,,Si,CDMX,389600.0
+2018,,Tiida,,Si,EDOMEX,86100.0
+,,Q3,,Si,EDOMEX,350000.0
+2017,,X1,,Si,CDMX,185500.0
+2018,,Serie 3,,Si,EDOMEX,185500.0
+2017,,Serie 1,,Si,CDMX,151900.0
+2018,,BRV,,Si,CDMX,140000.0
+2018,,Mazda 3,,Si,EDOMEX,137900.0
+2014,,SX4,,Si,CDMX,76300.0
+2015,,Tiida,,Si,EDOMEX,70000.0
+2019,,Avanza,,Si,Coahuila,124600.0
+2018,,Mazda 3,,Si,CDMX,145600.0
+2018,,Vento,,Si,Hidalgo,104300.0
+2013,,Clase C,,Si,EDOMEX,102900.0
+2019,,Vento,,Si,CDMX,98700.0
+,,CX30,,Si,Aguascalientes,252000.0
+2015,,Fiesta,,Si,CDMX,73500.0
+2016,,Leon,,Si,Morelos,135800.0
+2014,,Traverse,,Si,CDMX,130200.0
+2018,,FIT,,Si,EDOMEX,116900.0
+2023,,SPORTAGE,,Si,CDMX,308700.0
+2018,,KICKS,,Si,CDMX,147200.0
+2016,,Fiesta,,Si,EDOMEX,81900.0
+2020,,Wrangler,,Si,EDOMEX,350000.0
+2019,,S-Cross,,Si,EDOMEX,151900.0
+2017,,Doble Cabina,,Si,EDOMEX,156800.0
+2019,,Clase G,,Si,CDMX,350000.0
+2019,,Vento,,Si,EDOMEX,102200.0
+2017,,Aveo,,Si,EDOMEX,71820.0
+2021,,RIO,,Si,Chiapas,136500.0
+2021,,KICKS,,Si,CDMX,165900.0
+2022,,Q2,,No,CDMX,281400.0
+2016,,Partner Maxi,,No,CDMX,84700.0
+2019,,CX3,,No,CDMX,165900.0
+2023,,MG5,,Si,EDOMEX,128800.0
+2016,,Vento,,Si,EDOMEX,85400.0
+2020,,Attitude,,Si,EDOMEX,93100.0
+2016,,Mazda 3,,Si,CDMX,110600.0
+2015,,Fiesta,,Si,CDMX,73500.0
+2022,,Tiguan,,Si,CDMX,270900.0
+2019,,Vento,,Si,Chihuahua,102200.0
+2015,,Avanza,,Si,Yucatán,91000.0
+2013,,Gol,,Si,CDMX,60200.0
+2015,,FIT,,Si,EDOMEX,100000.0
+2018,,A4,,Si,Morelos,244300.0
+2016,,Sentra,,Si,Hidalgo,95900.0
+2015,,Grand Cherokee,,Si,CDMX,197400.0
+2015,,i3,,Si,Aguascalientes,189000.0
+2016,,QX60,,Si,EDOMEX,192500.0
+2019,,SPORTAGE,,Si,CDMX,203700.0
+2016,,Traverse,,Si,CDMX,159600.0
+2015,,Sienna,,No,CDMX,213500.0
+2019,,RIO,,Si,CDMX,130200.0
+2016,,Duster,,Si,CDMX,93100.0
+2021,,Charger,,Si,Michoacán,350000.0
+2021,,Polo,,No,EDOMEX,117600.0
+2020,,Oroch,,Si,CDMX,157500.0
+2023,,Versa,,No,Veracruz,144900.0
+2023,,Journey,,Si,EDOMEX,295400.0
+2016,,Mazda 3,,Si,CDMX,126000.0
+2012,,Swift,,No,CDMX,65800.0
+2022,,Aveo,,No,Veracruz,109060.0
+2018,,Journey,,Si,EDOMEX,150500.0
+2016,,Mazda 3,,Si,CDMX,120400.0
+2016,,Fluence,,Si,CDMX,77000.0
+2014,,Spark,,Si,CDMX,48230.0
+2020,,Aveo,,Si,CDMX,96530.0
+2015,,Sentra,,Si,CDMX,84700.0
+2016,,Fiesta,,Si,CDMX,79800.0
+2020,,ARONA,,Si,CDMX,162400.0
+2018,,Civic,,Si,EDOMEX,163800.0
+2020,,Kwid,,Si,Durango,81900.0
+2020,,Ibiza,,No,EDOMEX,121800.0
+2016,,Versa,,Si,CDMX,82600.0
+2020,,Mazda 3,,Si,Chiapas,161000.0
+2014,,Sonic,,No,CDMX,64400.0
+2020,,Camry,,Si,CDMX,187600.0
+2016,,City,,Si,EDOMEX,102900.0
+2016,,Sentra,,Si,EDOMEX,92400.0
+2019,,A3,,Si,EDOMEX,197400.0
+2020,,Beat,,Si,CDMX,101500.0
+2017,,Cayenne,,Si,EDOMEX,350000.0
+2014,,Focus,,Si,EDOMEX,75600.0
+2017,,Attitude,,Si,CDMX,75600.0
+2022,,Tornado,,Si,Guanajuato,126700.0
+2013,,Versa,,Si,CDMX,66220.0
+2014,,Pilot,,Si,CDMX,144900.0
+2023,,Nivus,,Si,CDMX,214900.0
+2017,,Macan,,Si,CDMX,350000.0
+2018,,March,,Si,EDOMEX,81900.0
+,,Captiva,,Si,CDMX,270900.0
+2018,,Vento,,Si,EDOMEX,100800.0
+2013,,Jetta Clasico,,Si,CDMX,74200.0
+2020,,Beat,,Si,CDMX,83300.0
+2022,,S60,,Si,CDMX,343000.0
+2019,,Clase CLA,,No,EDOMEX,275800.0
+2019,,Ibiza,,Si,EDOMEX,141400.0
+2022,,MG5,,Si,Chiapas,137900.0
+2016,,Gol,,Si,CDMX,73500.0
+2014,,Sentra,,Si,CDMX,81200.0
+2016,,UP,,Si,CDMX,70000.0
+2015,,March,,Si,EDOMEX,59500.0
+2013,,Aveo,,Si,Veracruz,49280.0
+2016,,Fiesta,,Si,CDMX,77700.0
+2014,,Patriot,,Si,CDMX,93800.0
+,,Mazda 3,,Si,EDOMEX,196700.0
+2020,,Aveo,,No,EDOMEX,96810.0
+2022,,Saveiro,,Si,CDMX,116900.0
+2013,,Jetta Clasico,,Si,Puebla,81200.0
+2017,,S-Cross,,Si,CDMX,114100.0
+2016,,208,,Si,EDOMEX,76300.0
+2019,,RAV4,,No,EDOMEX,275800.0
+2015,,Ibiza,,Si,CDMX,80500.0
+2022,,Escape,,Si,CDMX,298900.0
+2023,,Tacoma,,Si,CDMX,350000.0
+2014,,208,,Si,Hidalgo,62300.0
+2017,,Clase E,,Si,CDMX,303100.0
+2016,,Koleos,,Si,CDMX,105000.0
+2015,,Note,,Si,CDMX,84700.0
+2019,,Clase GLC,,Si,CDMX,334600.0
+2014,,Versa,,No,CDMX,69160.0
+2019,,X Trail,,Si,CDMX,185500.0
+2018,,March,,Si,CDMX,90300.0
+2013,,M,,Si,CDMX,110600.0
+2015,,A3,,Si,CDMX,133700.0
+2019,,X Trail,,Si,Querétaro,216300.0
+2018,,CX3,,Si,CDMX,149800.0
+2018,,Cavalier,,Si,EDOMEX,114380.0
+2017,,Yaris,,Si,EDOMEX,98000.0
+2013,,Highlander,,Si,CDMX,129500.0
+2018,,Jetta Nuevo,,Si,CDMX,126700.0
+2021,,RIO,,Si,CDMX,160300.0
+2020,,Leon,,Si,EDOMEX,165900.0
+2023,,Ignis,,Si,CDMX,130200.0
+2017,,Serie 6,,Si,CDMX,350000.0
+2022,,Onix,,Si,CDMX,134400.0
+,,TUCSON,,Si,Morelos,350000.0
+2018,,March,,Si,Tabasco,81900.0
+2023,,MG5,,No,CDMX,148400.0
+2021,,GRAND I10,,Si,CDMX,111090.0
+2014,,March,,Si,CDMX,64400.0
+2021,,FORTE,,Si,EDOMEX,188300.0
+2014,,Grand Cherokee,,Si,Jalisco,184100.0
+2014,,March,,Si,CDMX,64400.0
+2013,,Aveo,,Si,CDMX,55510.0
+2014,,Tiguan,,Si,CDMX,122500.0
+2021,,Cavalier,,Si,CDMX,132300.0
+2018,,RIO,,Si,Nuevo León,104300.0
+2016,,QX70,,No,CDMX,200900.0
+2014,,Versa,,Si,CDMX,70000.0
+2017,,Eco Sport,,Si,Tlaxcala,121100.0
+2015,,A4,,Si,CDMX,122500.0
+2018,,Figo,,Si,EDOMEX,80990.0
+2013,,Serie 3,,Si,CDMX,118300.0
+2018,,A3,,Si,EDOMEX,178500.0
+2015,,GRAND I10,,Si,Puebla,65730.0
+2014,,Town,,Si,Chihuahua,100800.0
+2014,,Vento,,Si,CDMX,68600.0
+2019,,Tiguan,,Si,Puebla,215600.0
+2019,,Vento,,No,Aguascalientes,99400.0
+2020,,Versa,,Si,CDMX,129500.0
+2019,,URVAN VAN,,Si,EDOMEX,173600.0
+2013,,Tahoe,,Si,CDMX,164500.0
+2019,,CRETA,,Si,CDMX,165690.0
+2013,,Estacas,,Si,EDOMEX,90300.0
+2018,,X3,,Si,CDMX,350000.0
+2013,,Q3,,Si,CDMX,130900.0
+2013,,Jetta Clasico,,No,EDOMEX,82600.0
+2018,,XC60,,Si,EDOMEX,264600.0
+2014,,Jetta Nuevo,,Si,CDMX,79800.0
+2017,,Prius,,Si,EDOMEX,155400.0
+2013,,Regal,,Si,Colima,94500.0
+2021,,Serie Z,,Si,CDMX,350000.0
+2016,,A4,,Si,CDMX,110600.0
+2019,,CX3,,Si,Nuevo León,154700.0
+2021,,Mobi,,Si,CDMX,96600.0
+2015,,Jetta Nuevo,,No,CDMX,102900.0
+2013,,Q3,,Si,CDMX,116900.0
+2019,,SEI2,,Si,CDMX,95200.0
+2013,,Mazda 3,,Si,Tlaxcala,74900.0
+2019,,Ciaz,,Si,CDMX,101500.0
+2015,,Aveo,,Si,CDMX,57470.0
+2018,,Vento,,Si,CDMX,105000.0
+2015,,Captiva,,Si,CDMX,91700.0
+2016,,Cherokee,,Si,CDMX,158900.0
+2014,,Versa,,No,CDMX,69160.0
+2016,,Golf,,Si,EDOMEX,180600.0
+2018,,Ibiza,,Si,CDMX,117600.0
+2017,,Gol,,No,EDOMEX,77000.0
+,,Onix,,Si,CDMX,197400.0
+2022,,RIO,,Si,CDMX,154700.0
+2019,,Mazda 3,,Si,CDMX,158200.0
+2019,,Duster,,Si,CDMX,113400.0
+2021,,Cavalier,,No,CDMX,152600.0
+2015,,Avanza,,Si,Veracruz,90300.0
+2020,,FORTE,,Si,EDOMEX,151900.0
+2022,,CRETA,,Si,EDOMEX,179200.0
+2018,,Leon,,Si,Querétaro,136500.0
+,,Onix,,Si,CDMX,197400.0
+2019,,ACCENT,,Si,Puebla,106750.0
+2016,,Figo,,Si,EDOMEX,65100.0
+2016,,Pilot,,Si,EDOMEX,206400.0
+2020,,Cavalier,,No,EDOMEX,123200.0
+2015,,Vento,,Si,EDOMEX,81200.0
+2017,,RIO,,Si,CDMX,107100.0
+2018,,CX9,,Si,CDMX,240100.0
+2020,,KICKS,,Si,Morelos,159600.0
+2017,,Jetta Nuevo,,Si,CDMX,114800.0
+2015,,Gol,,Si,EDOMEX,66500.0
+2013,,Gol,,Si,CDMX,58100.0
+2018,,Uno,,No,EDOMEX,88200.0
+2016,,Tsuru,,Si,Campeche,57400.0
+2016,,Sonic,,Si,EDOMEX,81900.0
+2021,,Attitude,,Si,Morelos,109900.0
+2014,,Altima,,Si,CDMX,83300.0
+2018,,Malibu,,Si,CDMX,135800.0
+2019,,Beat,,Si,CDMX,89600.0
+2016,,CR-V,,Si,CDMX,152600.0
+2016,,Aveo,,Si,CDMX,70700.0
+2020,,V-DRIVE,,Si,EDOMEX,102900.0
+2017,,Mirage,,Si,CDMX,68600.0
+2023,,Kwid,,Si,Puebla,112000.0
+2016,,Sonic,,Si,EDOMEX,85400.0
+2019,,Mazda 2,,Si,CDMX,115500.0
+2019,,Jetta Nuevo,,Si,CDMX,148400.0
+2020,,Figo,,No,EDOMEX,99890.0
+2017,,Jetta Nuevo,,No,EDOMEX,108500.0
+,,Integra,,Si,CDMX,350000.0
+2014,,Focus,,Si,CDMX,71400.0
+2013,,Koleos,,Si,CDMX,83300.0
+2016,,Sonic,,Si,EDOMEX,85400.0
+2018,,Polo,,Si,EDOMEX,98700.0
+2017,,Figo,,Si,EDOMEX,77280.0
+2016,,Spark,,Si,CDMX,73500.0
+2020,,Cavalier,,No,Michoacán,130200.0
+2013,,Challenger,,Si,CDMX,223300.0
+2016,,QX70,,Si,EDOMEX,209300.0
+2020,,Gol,,Si,CDMX,106400.0
+2021,,RIO,,Si,CDMX,137200.0
+2021,,GRAND I10,,Si,CDMX,120960.0
+2017,,Gol,,Si,EDOMEX,82600.0
+2019,,Versa,,Si,CDMX,94500.0
+2016,,Sonic,,Si,EDOMEX,85400.0
+2016,,Sonic,,Si,EDOMEX,77000.0
+2017,,Aveo,,Si,EDOMEX,67900.0
+2018,,Odyssey,,Si,CDMX,293300.0
+2017,,Sonic,,No,EDOMEX,88900.0
+2017,,Duster,,Si,Baja California,110600.0
+2016,,SOUL,,Si,CDMX,105700.0
+2016,,Vision,,No,EDOMEX,70700.0
+2014,,Chrysler 200,,Si,EDOMEX,69300.0
+2013,,Duster,,Si,EDOMEX,71400.0
+2022,,Versa,,No,CDMX,144200.0
+2020,,Aveo,,Si,EDOMEX,97020.0
+2023,,CX30,,Si,CDMX,236600.0
+2020,,Mazda 3,,Si,CDMX,184100.0
+2023,,MG5,,Si,CDMX,138600.0
+2018,,Beat,,Si,Morelos,80500.0
+2018,,Vento,,Si,CDMX,92400.0
+2013,,Corolla,,Si,EDOMEX,79800.0
+2013,,Clase E,,Si,CDMX,134400.0
+2017,,Polo,,Si,EDOMEX,106400.0
+2022,,SELTOS,,Si,Yucatán,200200.0
+2019,,Versa,,Si,EDOMEX,109200.0
+2023,,Versa,,Si,Puebla,147000.0
+2018,,Aveo,,Si,CDMX,89670.0
+2018,,SEI3,,Si,EDOMEX,110600.0
+2014,,Aveo,,Si,EDOMEX,58240.0
+2019,,Mazda 2,,Si,EDOMEX,119000.0
+2015,,Sonic,,Si,Guerrero,72100.0
+2014,,Versa,,Si,CDMX,73500.0
+2020,,March,,Si,EDOMEX,94500.0
+2013,,Escape,,Si,EDOMEX,95900.0
+2014,,Odyssey,,Si,CDMX,165200.0
+2019,,Jetta Nuevo,,Si,CDMX,179200.0
+2013,,Sienna,,No,EDOMEX,125300.0
+2013,,Duster,,Si,Guerrero,65800.0
+2018,,Passat,,Si,Morelos,178500.0
+2013,,Fiesta,,Si,EDOMEX,58800.0
+2019,,Kwid,,No,CDMX,82600.0
+2013,,Suburban,,Si,EDOMEX,212100.0
+2015,,Ibiza,,Si,Puebla,77700.0
+2013,,Aveo,,Si,CDMX,52850.0
+2014,,Chrysler 300,,Si,CDMX,123200.0
+2020,,Civic,,Si,EDOMEX,192500.0
+2021,,ZS,,Si,Puebla,136500.0
+2016,,Hiace,,Si,EDOMEX,190400.0
+2016,,Fiesta,,Si,EDOMEX,82600.0
+2017,,Journey,,Si,CDMX,142100.0
+2019,,Vitara,,No,CDMX,168700.0
+2013,,Mazda 6,,No,CDMX,79100.0
+2017,,Polo,,No,Hidalgo,101500.0
+2016,,Vento,,Si,EDOMEX,85400.0
+2018,,Vento,,Si,CDMX,92400.0
+2020,,March,,Si,CDMX,102900.0
+2019,,Mazda 2,,No,CDMX,115500.0
+2014,,Aveo,,Si,EDOMEX,53200.0
+2022,,SEI4,,Si,Morelos,153300.0
+2021,,Aveo,,Si,EDOMEX,110320.0
+2018,,Mazda 3,,Si,EDOMEX,141400.0
+2023,,JIMNY,,No,Quintana Roo,215600.0
+2017,,Avanza,,No,CDMX,100100.0
+2015,,Duster,,Si,CDMX,81900.0
+2016,,A3,,Si,CDMX,164500.0
+2018,,Gol,,Si,Morelos,88200.0
+2016,,Sentra,,Si,Tlaxcala,93100.0
+2021,,HR-V,,No,Jalisco,210000.0
+2014,,Explorer,,Si,CDMX,134400.0
+,,GT,,Si,EDOMEX,189000.0
+2018,,March,,Si,CDMX,98000.0
+2020,,SPORTAGE,,No,EDOMEX,226800.0
+2013,,Swift,,Si,EDOMEX,73500.0
+2019,,Swift,,Si,EDOMEX,130200.0
+2016,,Yaris,,Si,Querétaro,89600.0
+2013,,Passat,,Si,Puebla,95900.0
+2022,,March,,Si,Puebla,116200.0
+2016,,FIT,,Si,CDMX,101500.0
+2015,,URVAN VAN,,Si,CDMX,128800.0
+2018,,Tiida,,Si,EDOMEX,86100.0
+2020,,Avanza,,Si,Nuevo León,139300.0
+2017,,Aveo,,Si,EDOMEX,70000.0
+2017,,Sonic,,Si,EDOMEX,97300.0
+2015,,Stepway,,Si,CDMX,70000.0
+2020,,CX30,,Si,EDOMEX,200200.0
+2020,,Uno,,Si,CDMX,105700.0
+2018,,Cavalier,,Si,CDMX,108990.0
+2013,,Sentra,,Si,EDOMEX,71400.0
+2015,,Evoque,,No,CDMX,249200.0
+2017,,Spark,,Si,CDMX,85610.0
+2021,,Virtus,,Si,EDOMEX,147700.0
+2020,,Lobo,,No,EDOMEX,350000.0
+2018,,Escape,,Si,CDMX,177800.0
+2014,,Trax,,Si,CDMX,92400.0
+2019,,Logan,,Si,EDOMEX,88200.0
+2016,,Ibiza,,No,EDOMEX,101500.0
+2019,,Beat,,Si,CDMX,96600.0
+2017,,Sonic,,Si,CDMX,88900.0
+2017,,Wrangler,,Si,EDOMEX,345100.0
+2013,,Jetta Nuevo,,Si,CDMX,105000.0
+2023,,MG5,,Si,Chiapas,130200.0
+2014,,Sentra,,Si,Puebla,82600.0
+2015,,Sonic,,Si,EDOMEX,71400.0
+2018,,Aveo,,Si,CDMX,94080.0
+2023,,Tang,,Si,EDOMEX,560800.0
+2020,,Kwid,,No,Aguascalientes,81900.0
+2017,,Sentra,,Si,Veracruz,112000.0
+2013,,Mark LT,,Si,Tlaxcala,188300.0
+2016,,Amarok,,Si,CDMX,161000.0
+2015,,Spark,,Si,CDMX,53340.0
+2020,,Vento,,No,EDOMEX,109900.0
+2017,,Sentra,,Si,Morelos,108500.0
+2019,,Stepway,,No,CDMX,108220.0
+2019,,Jetta Nuevo,,Si,EDOMEX,142100.0
+2016,,Civic,,Si,Morelos,138600.0
+2015,,Kangoo Express,,Si,Puebla,73500.0
+2023,,Aveo,,No,CDMX,121660.0
+2022,,SOUL,,Si,EDOMEX,187600.0
+2018,,F Pace,,Si,CDMX,350000.0
+2022,,Versa,,Si,Morelos,144900.0
+2023,,Odyssey,,No,CDMX,350000.0
+2018,,CX5,,Si,CDMX,182700.0
+2020,,Versa,,No,EDOMEX,121100.0
+2020,,Cavalier,,No,EDOMEX,130900.0
+2022,,Kwid,,Si,EDOMEX,98000.0
+2014,,Versa,,Si,EDOMEX,72800.0
+2013,,Odyssey,,Si,CDMX,149100.0
+2013,,March,,Si,EDOMEX,56000.0
+2018,,Ciaz,,Si,EDOMEX,98000.0
+2014,,Versa,,Si,CDMX,69790.0
+2017,,Encore,,Si,EDOMEX,147700.0
+2017,,FORTE,,Si,Guanajuato,103600.0
+2017,,Mazda 2,,Si,EDOMEX,101500.0
+2023,,Groove,,Si,CDMX,164500.0
+2017,,X Trail,,Si,EDOMEX,165200.0
+2017,,FORTE,,Si,CDMX,111300.0
+2021,,RIO,,Si,CDMX,168000.0
+2013,,March,,Si,EDOMEX,56000.0
+2019,,MX5,,Si,EDOMEX,171500.0
+2020,,March,,Si,CDMX,114100.0
+2020,,Polo,,No,EDOMEX,111300.0
+2018,,March,,Si,CDMX,80500.0
+2018,,Cavalier,,No,Hidalgo,116340.0
+2017,,Vento,,Si,CDMX,93800.0
+2015,,Tiida,,Si,EDOMEX,62930.0
+2015,,Trax,,Si,Hidalgo,99400.0
+2016,,Gol,,Si,EDOMEX,72100.0
+2017,,Spark,,Si,EDOMEX,65590.0
+2019,,ACCENT,,Si,Guanajuato,115080.0
+2016,,Aveo,,Si,EDOMEX,76000.0
+2018,,Beat,,No,CDMX,90300.0
+2018,,Figo,,Si,EDOMEX,79170.0
+2018,,Vento,,Si,CDMX,93100.0
+2014,,301,,Si,CDMX,59500.0
+2019,,Vento,,Si,Puebla,102900.0
+2015,,Mazda 3,,No,EDOMEX,103600.0
+2016,,Fiesta,,Si,EDOMEX,75600.0
+2015,,Versa,,Si,EDOMEX,78400.0
+2014,,Compass,,Si,Oaxaca,104300.0
+2018,,Beat,,No,CDMX,77700.0
+2017,,Figo,,Si,EDOMEX,73150.0
+2016,,HR-V,,Si,CDMX,135800.0
+2014,,CX5,,Si,EDOMEX,122500.0
+2021,,Serie Z,,Si,Yucatán,350000.0
+2016,,Prius,,Si,EDOMEX,128800.0
+2020,,Beat,,Si,Puebla,107800.0
+2018,,Journey,,Si,EDOMEX,161700.0
+2018,,Passat,,Si,EDOMEX,149100.0
+,,Aveo,,Si,EDOMEX,149310.0
+2020,,Ibiza,,Si,Morelos,123200.0
+2018,,Aveo,,Si,CDMX,94080.0
+2017,,Gol,,No,EDOMEX,79800.0
+2016,,Clase A,,Si,EDOMEX,142800.0
+2016,,Enclave,,Si,Nuevo León,173600.0
+2018,,Beat,,Si,Puebla,77700.0
+2013,,Versa,,Si,EDOMEX,64820.0
+2018,,Versa,,Si,Querétaro,94500.0
+2019,,Starex,,Si,EDOMEX,192500.0
+2013,,City,,No,EDOMEX,80500.0
+2016,,Focus,,Si,EDOMEX,102900.0
+2017,,GRAND I10,,Si,CDMX,78470.0
+2020,,V-DRIVE,,Si,EDOMEX,103600.0
+2014,,Aveo,,Si,CDMX,58730.0
+2020,,Vento,,Si,EDOMEX,120400.0
+2016,,A3,,Si,CDMX,137900.0
+2023,,March,,No,EDOMEX,129500.0
+2016,,Trax,,Si,EDOMEX,107100.0
+2017,,Clase CLA,,Si,EDOMEX,235900.0
+2014,,Versa,,Si,EDOMEX,70490.0
+2017,,Gol,,Si,EDOMEX,79800.0
+2015,,March,,Si,EDOMEX,70700.0
+2016,,Sonic,,No,EDOMEX,86100.0
+2021,,Vento,,No,CDMX,130200.0
+2015,,Edge,,No,EDOMEX,149800.0
+2015,,Trax,,Si,CDMX,100800.0
+2020,,Versa,,No,EDOMEX,126000.0
+2016,,SPORTAGE,,Si,EDOMEX,144200.0
+2020,,Aveo,,Si,CDMX,105140.0
+2019,,RIO,,No,EDOMEX,104300.0
+2013,,Focus,,Si,Chihuahua,81200.0
+2017,,Spark,,Si,Baja California,66360.0
+2019,,Cavalier,,Si,EDOMEX,130900.0
+2016,,Gol,,Si,Querétaro,70000.0
+2023,,Avanza,,No,EDOMEX,157500.0
+2015,,Trax,,Si,EDOMEX,100800.0
+2017,,CX3,,Si,Tlaxcala,142800.0
+2013,,Gol,,Si,CDMX,51800.0
+2023,,Logan,,No,CDMX,142100.0
+2017,,Golf,,Si,Puebla,144900.0
+2017,,Versa,,Si,CDMX,95200.0
+2018,,Aveo,,Si,EDOMEX,80640.0
+2020,,2008,,Si,Puebla,154000.0
+2015,,Sentra,,No,CDMX,85400.0
+2019,,BRV,,No,CDMX,151200.0
+2015,,Versa,,Si,Querétaro,77700.0
+2022,,Aveo,,Si,CDMX,118650.0
+2018,,Versa,,Si,CDMX,95900.0
+2018,,Yaris,,Si,EDOMEX,107800.0
+2017,,City,,Si,CDMX,114800.0
+2022,,Aveo,,Si,EDOMEX,117600.0
+2018,,HR-V,,Si,Quintana Roo,151900.0
+2018,,A3,,Si,CDMX,230300.0
+2015,,Kangoo Express,,Si,EDOMEX,74200.0
+2017,,Aveo,,Si,Veracruz,76800.0
+2018,,Versa,,Si,CDMX,95900.0
+2016,,Jetta Nuevo,,Si,Baja California,146300.0
+2023,,Versa,,Si,CDMX,184800.0
+2022,,Duster,,No,EDOMEX,156100.0
+2019,,Yaris,,No,CDMX,117600.0
+2013,,Leon,,Si,CDMX,86800.0
+2013,,Sentra,,Si,CDMX,78400.0
+2014,,Chasis Cabina,,Si,CDMX,93800.0
+2016,,Figo,,No,EDOMEX,66500.0
+2019,,FORTE,,Si,EDOMEX,142800.0
+2015,,Sentra,,Si,Morelos,93800.0
+2015,,Civic,,Si,Jalisco,112700.0
+2018,,Vento,,No,EDOMEX,98000.0
+2019,,Camry,,Si,EDOMEX,179900.0
+2014,,Serie 5,,Si,EDOMEX,146300.0
+2018,,Beat,,Si,EDOMEX,81200.0
+2023,,Rifter,,Si,CDMX,245700.0
+,,STELVIO,,Si,Aguascalientes,350000.0
+2023,,Aveo,,No,EDOMEX,135380.0
+2023,,NEW FORTE,,Si,EDOMEX,200000.0
+2014,,Vento,,Si,EDOMEX,77000.0
+2015,,SRX,,Si,EDOMEX,156800.0
+2018,,L200,,Si,EDOMEX,162400.0
+2023,,RDX,,No,Baja California Sur,350000.0
+2016,,Saveiro,,Si,CDMX,79800.0
+2015,,Vision,,Si,CDMX,67900.0
+,,i4,,Si,Chiapas,350000.0
+2018,,Mazda 3,,Si,EDOMEX,143500.0
+2020,,A3,,No,Yucatán,310100.0
+2016,,Cherokee,,Si,EDOMEX,177100.0
+2020,,XC60,,Si,CDMX,350000.0
+2017,,Sonic,,Si,Puebla,88200.0
+2015,,Sonic,,Si,EDOMEX,71400.0
+2020,,ACCENT,,No,EDOMEX,121240.0
+2019,,Tiguan,,Si,CDMX,240800.0
+2017,,Vento,,Si,EDOMEX,88900.0
+2022,,QX80,,Si,EDOMEX,350000.0
+2019,,Clase GLA,,Si,CDMX,261100.0
+2018,,Mazda 3,,Si,EDOMEX,143500.0
+2023,,Attitude,,Si,Hidalgo,135800.0
+2019,,SEI3,,Si,EDOMEX,129500.0
+2013,,Chrysler 200,,Si,EDOMEX,74200.0
+2014,,Vento,,Si,EDOMEX,68600.0
+2015,,Accord,,Si,EDOMEX,122500.0
+2018,,CX5,,Si,CDMX,184800.0
+2015,,Fiesta,,Si,Veracruz,69300.0
+2013,,Kizashi,,Si,CDMX,81200.0
+2017,,Aveo,,No,EDOMEX,70490.0
+2015,,Q5,,No,Puebla,178500.0
+2017,,Tiida,,Si,Morelos,72800.0
+2019,,City,,Si,Guanajuato,130900.0
+2022,,Edge,,Si,EDOMEX,350000.0
+2014,,Leon,,Si,Hidalgo,100100.0
+2016,,Pick Up,,Si,Veracruz,133700.0
+2014,,Traverse,,Si,EDOMEX,137900.0
+2017,,Figo,,Si,Jalisco,77700.0
+2020,,F-150,,Si,Puebla,322000.0
+2015,,Versa,,Si,EDOMEX,79100.0
+2020,,March,,Si,EDOMEX,105700.0
+2014,,Aveo,,Si,EDOMEX,53410.0
+2021,,Onix,,No,Veracruz,119000.0
+2013,,Golf,,Si,San Luis Potosí,95900.0
+2018,,CRETA,,Si,Puebla,139860.0
+2015,,Mazda 6,,No,Jalisco,112700.0
+2016,,Outlander,,Si,Morelos,137900.0
+2017,,Equinox,,Si,EDOMEX,139300.0
+2019,,Ibiza,,No,CDMX,136500.0
+2016,,Jetta Nuevo,,No,EDOMEX,114100.0
+2018,,Serie 3,,Si,CDMX,196700.0
+2016,,Sentra,,No,EDOMEX,93100.0
+2019,,Cavalier,,Si,CDMX,121100.0
+2017,,CRETA,,Si,CDMX,140000.0
+2015,,Logan,,Si,EDOMEX,60200.0
+2018,,Beat,,Si,EDOMEX,78400.0
+2015,,Aveo,,Si,CDMX,58100.0
+2017,,Versa,,Si,EDOMEX,100100.0
+2018,,Cavalier,,Si,EDOMEX,109900.0
+2015,,Ibiza,,Si,CDMX,93100.0
+2021,,Versa,,Si,Guanajuato,124600.0
+2020,,SORENTO,,Si,CDMX,226800.0
+2013,,Town,,Si,CDMX,95900.0
+2020,,Vento,,Si,Puebla,120400.0
+2013,,Mazda 5,,Si,Hidalgo,83300.0
+2014,,Chrysler 300,,Si,Baja California,152600.0
+2017,,Versa,,Si,CDMX,95200.0
+2016,,Sonic,,Si,CDMX,76300.0
+2021,,Ibiza,,Si,Tlaxcala,151900.0
+2023,,Captiva,,Si,Veracruz,233800.0
+2016,,Odyssey,,Si,CDMX,211400.0
+2018,,CR-V,,Si,CDMX,224000.0
+2017,,Yaris,,Si,Nuevo León,97300.0
+2020,,KICKS,,Si,EDOMEX,174300.0
+2016,,Sonic,,Si,EDOMEX,78400.0
+2022,,V-DRIVE,,Si,CDMX,114100.0
+2013,,Fiesta,,Si,CDMX,57400.0
+2016,,Clase A,,No,CDMX,143500.0
+2017,,March,,Si,Tlaxcala,89600.0
+2023,,Ibiza,,Si,CDMX,184800.0
+2014,,Polo,,Si,Puebla,79800.0
+2016,,Acadia,,Si,CDMX,198100.0
+2018,,Duster,,Si,Chihuahua,108500.0
+2018,,FORTE,,Si,CDMX,143500.0
+2021,,Onix,,Si,EDOMEX,137600.0
+2023,,Mazda 3,,Si,CDMX,245000.0
+2020,,Q2,,Si,CDMX,247100.0
+2013,,Clase C,,Si,CDMX,116200.0
+2013,,Serie 1,,Si,CDMX,119000.0
+2015,,Clase C,,No,CDMX,175000.0
+2022,,RIO,,Si,Tlaxcala,144900.0
+,,X Trail,,Si,EDOMEX,39130.0
+2018,,Vento,,Si,San Luis Potosí,93800.0
+2019,,SOUL,,Si,Querétaro,164500.0
+2023,,Tracker,,Si,EDOMEX,196000.0
+2014,,Spark,,Si,EDOMEX,42140.0
+2014,,X3,,Si,EDOMEX,154700.0
+2013,,Focus,,Si,CDMX,63700.0
+2019,,Trax,,Si,Guerrero,158200.0
+2017,,Ibiza,,Si,CDMX,116200.0
+2015,,Sentra,,Si,EDOMEX,88900.0
+2015,,Focus,,Si,EDOMEX,87500.0
+2023,,Kwid,,No,CDMX,100100.0
+2015,,Golf,,Si,EDOMEX,125300.0
+2014,,Focus,,Si,CDMX,81200.0
+2017,,Sonic,,Si,EDOMEX,100100.0
+,,Tiggo 7 pro,,Si,CDMX,305200.0
+2018,,Trax,,Si,CDMX,135100.0
+2013,,Spark,,Si,CDMX,52920.0
+2015,,Matiz,,Si,Guerrero,43190.0
+2013,,Versa,,Si,CDMX,64960.0
+2022,,Kwid,,Si,CDMX,101500.0
+2015,,CR-V,,Si,EDOMEX,149100.0
+2019,,Tiguan,,Si,CDMX,224700.0
+2020,,Kwid,,Si,CDMX,88200.0
+2021,,Mazda 3,,Si,EDOMEX,171500.0
+2014,,Vento,,Si,EDOMEX,77000.0
+2021,,Ignis,,Si,CDMX,133000.0
+2018,,Vento,,No,CDMX,93800.0
+2015,,Serie 3,,Si,CDMX,174300.0
+2019,,ARONA,,Si,Puebla,163100.0
+2015,,Fusion,,Si,EDOMEX,116900.0
+2013,,Mazda 3,,Si,EDOMEX,82600.0
+2015,,City,,Si,CDMX,92400.0
+,,K3,,Si,CDMX,185500.0
+2020,,Versa,,Si,Jalisco,123200.0
+2019,,FORTE,,Si,Guanajuato,136500.0
+2017,,Yaris,,Si,CDMX,106400.0
+2014,,Camaro,,Si,EDOMEX,196000.0
+2014,,Suburban,,No,Guanajuato,200900.0
+2014,,Passat,,No,EDOMEX,94500.0
+2023,,Frison,,Si,EDOMEX,193200.0
+2018,,FORTE,,Si,EDOMEX,109900.0
+2017,,RIO,,Si,CDMX,101500.0
+,,SELTOS,,Si,CDMX,221200.0
+2015,,Versa,,Si,Chihuahua,77700.0
+2015,,Mazda 3,,Si,EDOMEX,108000.0
+2022,,Frontier,,Si,EDOMEX,293300.0
+2016,,Fiesta,,Si,Hidalgo,81900.0
+2015,,Jetta Nuevo,,Si,CDMX,88900.0
+2017,,Spark,,Si,EDOMEX,66780.0
+2017,,FORTE,,Si,EDOMEX,128100.0
+2014,,CC,,Si,CDMX,112700.0
+2013,,Saveiro,,Si,EDOMEX,66500.0
+2015,,FIT,,Si,CDMX,92400.0
+2014,,Sonic,,No,EDOMEX,67900.0
+2022,,Serie 3,,Si,CDMX,350000.0
+2017,,Vento,,Si,CDMX,90300.0
+2022,,Xpander,,Si,EDOMEX,182700.0
+2023,,MDX,,Si,Tabasco,350000.0
+2013,,Escape,,Si,Tlaxcala,91700.0
+2018,,Versa,,Si,Nayarit,103600.0
+2017,,Camry,,Si,EDOMEX,161700.0
+2017,,Stepway,,Si,CDMX,86100.0
+2018,,Aveo,,Si,CDMX,90370.0
+2017,,Vento,,Si,EDOMEX,98700.0
+2018,,Versa,,Si,Nuevo León,96600.0
+2015,,Vento,,Si,EDOMEX,86100.0
+2021,,Onix,,Si,CDMX,132300.0
+2019,,Cavalier,,Si,Chihuahua,117600.0
+2014,,Fluence,,No,EDOMEX,65800.0
+2016,,XV,,Si,Hidalgo,142800.0
+2015,,FIT,,No,EDOMEX,99400.0
+2018,,Accord,,Si,CDMX,223300.0
+2014,,Aveo,,Si,CDMX,57610.0
+2018,,Beat,,Si,Tlaxcala,88900.0
+2020,,CX5,,Si,Campeche,210000.0
+2020,,RIO,,Si,Guanajuato,112700.0
+2018,,Beat,,Si,EDOMEX,88900.0
+2018,,KICKS,,Si,Morelos,149100.0
+2020,,MODELO 3,,Si,Baja California Sur,350000.0
+2013,,Lobo,,Si,EDOMEX,158200.0
+2021,,Tiguan,,Si,CDMX,259700.0
+2013,,March,,Si,EDOMEX,56700.0
+2015,,Fluence,,Si,CDMX,72100.0
+2018,,FORTE,,Si,EDOMEX,129500.0
+2017,,Jetta Nuevo,,Si,CDMX,123900.0
+2021,,SORENTO,,Si,CDMX,282800.0
+2020,,Mobi,,No,Guanajuato,97300.0
+2018,,CRETA,,Si,EDOMEX,140070.0
+2019,,Yaris,,Si,Jalisco,107800.0
+2015,,ELANTRA,,Si,CDMX,98700.0
+2017,,Jetta Nuevo,,Si,CDMX,110600.0
+2018,,City,,No,Nuevo León,127400.0
+2016,,Vision,,Si,CDMX,73500.0
+2013,,March,,Si,EDOMEX,56700.0
+2015,,Trax,,Si,Hidalgo,102200.0
+2015,,Explorer,,Si,Puebla,171500.0
+2018,,Vento,,Si,CDMX,112000.0
+2017,,Vento,,No,EDOMEX,89600.0
+2019,,Mazda 2,,Si,Puebla,128100.0
+2013,,Swift,,Si,Querétaro,74900.0
+2014,,Jetta Nuevo,,Si,Querétaro,109900.0
+,,Kwid,,Si,Hidalgo,123900.0
+2019,,Oroch,,Si,Tlaxcala,145600.0
+2023,,Onix,,Si,CDMX,182700.0
+2016,,MKX,,No,CDMX,203700.0
+2016,,MKX,,Si,EDOMEX,203700.0
+2022,,SOUL,,Si,Coahuila,167300.0
+,,CR-V,,Si,CDMX,350000.0
+2013,,Focus,,No,EDOMEX,67900.0
+2015,,ELANTRA,,Si,EDOMEX,92400.0
+2015,,Vento,,Si,EDOMEX,79800.0
+2021,,Mazda 3,,No,EDOMEX,191100.0
+2016,,Figo,,No,CDMX,70700.0
+2016,,Mazda 6,,Si,EDOMEX,123200.0
+2017,,Sonic,,Si,EDOMEX,93100.0
+2018,,BRV,,Si,Morelos,140000.0
+2018,,Aveo,,Si,EDOMEX,94640.0
+2020,,Aveo,,Si,CDMX,99400.0
+2022,,KICKS,,Si,Querétaro,186200.0
+2018,,Uno,,Si,Chihuahua,83300.0
+2016,,Avanza,,No,CDMX,93800.0
+2019,,X Trail,,Si,EDOMEX,219800.0
+2022,,Civic,,No,CDMX,275100.0
+2020,,Jetta Nuevo,,Si,CDMX,147700.0
+2017,,Sandero,,Si,CDMX,94500.0
+2017,,Pick Up,,Si,Jalisco,142100.0
+2023,,RIO,,Si,EDOMEX,145600.0
+2020,,CRETA,,Si,CDMX,157360.0
+2018,,Aveo,,Si,Morelos,94640.0
+2019,,March,,No,Veracruz,62300.0
+2014,,Cruze,,Si,EDOMEX,65100.0
+2013,,Aveo,,Si,CDMX,54530.0
+2020,,Aveo,,No,Nuevo León,112560.0
+2014,,Traverse,,Si,EDOMEX,140000.0
+2020,,Kwid,,Si,EDOMEX,88200.0
+2013,,Gol,,Si,CDMX,51800.0
+2023,,Onix,,Si,Querétaro,143500.0
+2017,,Ibiza,,Si,CDMX,101500.0
+2018,,FORTE,,Si,EDOMEX,109900.0
+2019,,Cavalier,,Si,EDOMEX,114800.0
+2020,,Aveo,,Si,CDMX,112560.0
+2019,,Versa,,Si,,124600.0
+2017,,Mazda 3,,Si,CDMX,125300.0
+2013,,Fiesta,,Si,EDOMEX,58100.0
+2018,,Tiguan,,No,CDMX,224700.0
+2022,,Virtus,,No,CDMX,158200.0
+2013,,Tsuru,,Si,CDMX,47390.0
+2013,,Saveiro,,Si,CDMX,63700.0
+2013,,Jetta Clasico,,Si,,67200.0
+2018,,Avanza,,Si,,119700.0
+2020,,Figo,,Si,,103810.0
+2013,,Spark,,Si,EDOMEX,47670.0
+2023,,Groove,,Si,,168700.0
+2020,,Virtus,,Si,EDOMEX,135100.0
+2015,,Civic,,Si,,113400.0
+2019,,March,,Si,Chihuahua,95200.0
+2017,,208,,Si,CDMX,98700.0
+2015,,X Trail,,Si,,119700.0
+2017,,Spark,,Si,EDOMEX,73710.0
+2018,,Aveo,,Si,CDMX,95130.0
+,,CX3,,Si,EDOMEX,186900.0
+2018,,Vento,,Si,,107100.0
+2016,,Logan,,Si,,58800.0
+2013,,Fluence,,No,CDMX,58450.0
+2018,,March,,No,CDMX,76300.0
+2016,,Sonic,,Si,EDOMEX,79100.0
+2015,,Duster,,Si,CDMX,81900.0
+2016,,Sonic,,Si,EDOMEX,79100.0
+2014,,Altima,,No,CDMX,87500.0
+2018,,Duster,,Si,CDMX,105700.0
+2016,,Fusion,,No,EDOMEX,112000.0
+2021,,Virtus,,Si,EDOMEX,142100.0
+2016,,Versa,,Si,,81900.0
+2014,,Focus,,Si,CDMX,70000.0
+2018,,Sentra,,Si,,115500.0
+2016,,Avanza,,Si,,102200.0
+2014,,Focus,,Si,CDMX,102900.0
+2013,,Aveo,,Si,,54530.0
+2018,,Beat,,Si,CDMX,70000.0
+,,Jetta Nuevo,,Si,CDMX,312200.0
+2016,,Vento,,Si,EDOMEX,81200.0
+2019,,Cavalier,,Si,EDOMEX,133700.0
+2017,,Attitude,,Si,CDMX,76300.0
+2018,,Oroch,,Si,,123200.0
+2020,,Accord,,Si,Jalisco,258300.0
+2021,,Onix,,Si,Jalisco,121100.0
+2017,,Passat,,Si,CDMX,131600.0
+,,Virtus,,Si,,210700.0
+2017,,Versa,,Si,EDOMEX,100100.0
+2017,,Gol,,Si,Veracruz,80500.0
+2015,,March,,Si,CDMX,77700.0
+2014,,Fluence,,Si,Querétaro,65100.0
+2014,,Mazda 2,,No,,77000.0
+2018,,KICKS,,Si,CDMX,156100.0
+2014,,Tiida,,No,,58660.0
+2021,,Aveo,,Si,Jalisco,111440.0
+2017,,Spark,,Si,,76300.0
+2017,,HR-V,,Si,CDMX,139300.0
+2013,,Mazda 3,,Si,EDOMEX,82600.0
+2019,,Beat,,Si,CDMX,102200.0
+2018,,Attitude,,Si,Jalisco,90300.0
+2017,,Gol,,Si,CDMX,77000.0
+2017,,CR-V,,Si,,193200.0
+2015,,SRX,,Si,,160300.0
+2023,,CR-V,,Si,Tamaulipas,350000.0
+2013,,March,,Si,CDMX,64400.0
+2017,,Sentra,,Si,,107100.0
+2021,,JIMNY,,Si,CDMX,209300.0
+2015,,Versa,,Si,,77700.0
+2018,,Duster,,Si,,109900.0
+2022,,MG5,,No,CDMX,144900.0
+2022,,ACCENT,,Si,CDMX,143710.0
+2019,,Figo,,Si,EDOMEX,108500.0
+2021,,Vento,,No,EDOMEX,119000.0
+2019,,CRETA,,Si,CDMX,152530.0
+2017,,Attitude,,Si,CDMX,76300.0
+2023,,i4,,Si,Colima,350000.0
+2019,,FIT,,Si,EDOMEX,129500.0
+2023,,Versa,,Si,Guanajuato,172900.0
+2019,,CX5,,Si,CDMX,212800.0
+2015,,Logan,,Si,EDOMEX,57890.0
+2014,,Fiesta,,Si,CDMX,72800.0
+2016,,Vision,,No,CDMX,73500.0
+2013,,Sonic,,Si,CDMX,63000.0
+2018,,HR-V,,Si,CDMX,176400.0
+2021,,Mazda 3,,Si,CDMX,197400.0
+2017,,UP,,Si,CDMX,88200.0
+2015,,Versa,,Si,,81900.0
+2022,,RAV4,,Si,EDOMEX,317100.0
+2013,,Enclave,,Si,CDMX,130200.0
+2014,,Aveo,,Si,EDOMEX,54880.0
+2018,,Versa,,Si,Morelos,96600.0
+2013,,Tiida,,Si,EDOMEX,56980.0
+,,K3,,Si,,167300.0
+2013,,Aveo,,No,CDMX,50820.0
+2019,,Jetta Nuevo,,Si,,154000.0
+2016,,Jetta Nuevo,,Si,,147700.0
+2013,,Focus,,No,,74200.0
+2020,,Versa,,Si,CDMX,128800.0
+2016,,Sonic,,Si,CDMX,87500.0
+2018,,Gol,,Si,,88900.0
+2017,,Grand Cherokee,,Si,Hidalgo,292800.0
+2013,,Leon,,Si,EDOMEX,87500.0
+2017,,ELANTRA,,Si,EDOMEX,127400.0
+2013,,Outlander,,Si,EDOMEX,102400.0
+2017,,Spark,,Si,EDOMEX,57750.0
+2021,,Figo,,Si,Veracruz,135030.0
+2019,,Swift,,Si,Querétaro,122500.0
+2013,,Gol,,Si,EDOMEX,53900.0
+2018,,Beat,,Si,CDMX,81200.0
+2019,,Jetta Nuevo,,Si,CDMX,154000.0
+2013,,Jetta Clasico,,Si,Morelos,67200.0
+2018,,Aveo,,Si,Tlaxcala,87360.0
+2021,,BRV,,Si,EDOMEX,194600.0
+2018,,X Trail,,Si,CDMX,165900.0
+2023,,RAV4,,Si,EDOMEX,350000.0
+2018,,RIO,,Si,EDOMEX,116200.0
+2017,,Attitude,,Si,CDMX,76300.0
+2013,,March,,No,CDMX,56700.0
+2020,,Aveo,,Si,EDOMEX,120750.0
+,,Onix,,Si,,177800.0
+2017,,Clase GLC,,Si,CDMX,263900.0
+2023,,Aveo,,Si,,130830.0
+2015,,Sentra,,Si,CDMX,84700.0
+2016,,Mazda 3,,Si,CDMX,131600.0
+2016,,Versa,,Si,CDMX,83300.0
+2017,,Mirage,,Si,CDMX,75600.0
+2015,,Vento,,Si,EDOMEX,72800.0
+2018,,TUCSON,,Si,CDMX,186200.0
+2015,,Sentra,,Si,EDOMEX,88900.0
+2021,,HS,,Si,CDMX,223300.0
+2014,,March,,Si,,71400.0
+2016,,RAM 700,,Si,EDOMEX,105700.0
+2015,,Tiguan,,Si,EDOMEX,119000.0
+2013,,Duster,,Si,,68600.0
+2013,,Chrysler 200,,Si,CDMX,74200.0
+2014,,Trax,,Si,,95200.0
+2016,,Tsuru,,Si,EDOMEX,59010.0
+2016,,Jetta Nuevo,,Si,EDOMEX,97300.0
+2012,,CX7,,Si,,86100.0
+2012,,Versa,,No,CDMX,60060.0
+2021,,Jetta Nuevo,,Si,CDMX,156800.0
+2015,,Pilot,,Si,CDMX,165900.0
+2019,,Jetta Nuevo,,Si,CDMX,189000.0
+2015,,Vento,,Si,CDMX,79800.0
+2016,,Serie 3,,Si,EDOMEX,163100.0
+2016,,Versa,,Si,EDOMEX,88900.0
+2017,,ILX,,Si,CDMX,162400.0
+2013,,Urvan,,No,,115500.0
+2016,,Gol,,Si,,66500.0
+2017,,Vento,,Si,CDMX,95200.0
+2015,,Captiva,,No,CDMX,106400.0
+2012,,Versa,,No,CDMX,60060.0
+2019,,Ibiza,,Si,,141400.0
+2014,,Cruze,,No,EDOMEX,69300.0
+2016,,Polo,,Si,CDMX,94500.0
+2014,,Matiz,,Si,Hidalgo,38990.0
+2015,,Terrain,,Si,CDMX,149800.0
+2020,,Avanza,,Si,Guanajuato,139300.0
+,,MG5,,Si,,157500.0
+2018,,Figo,,Si,,89180.0
+2015,,S-Cross,,Si,,95900.0
+2016,,Jetta Nuevo,,No,,103600.0
+2018,,Figo,,Si,CDMX,96740.0
+2016,,Vento,,Si,CDMX,81200.0
+2017,,Versa,,Si,CDMX,100800.0
+2018,,Versa,,Si,CDMX,98000.0
+2021,,Taos,,Si,Morelos,226100.0
+2017,,Equinox,,Si,EDOMEX,147700.0
+2014,,301,,Si,,62300.0
+2023,,Ertiga,,Si,CDMX,203000.0
+2014,,Vento,,No,CDMX,72800.0
+2020,,Kwid,,Si,CDMX,89600.0
+2021,,March,,Si,CDMX,116900.0
+2019,,Chasis Cabina,,Si,CDMX,153300.0
+2017,,Sentra,,No,CDMX,116200.0
+2014,,Jetta Nuevo,,Si,CDMX,88900.0
+2013,,Lobo,,Si,,211400.0
+2019,,Versa,,Si,CDMX,115500.0
+2017,,Spark,,Si,EDOMEX,67900.0
+2023,,RIO,,Si,,154700.0
+2015,,Cherokee,,Si,,144200.0
+2020,,CX3,,No,,165200.0
+2016,,Fiesta,,Si,CDMX,87500.0
+2012,,Mazda 3,,Si,CDMX,75600.0
+2017,,Spark,,Si,Chihuahua,77630.0
+2016,,Fiesta,,Si,CDMX,87500.0
+2017,,Sandero,,Si,CDMX,72100.0
+2016,,Sonic,,Si,EDOMEX,81200.0
+2015,,Versa,,Si,CDMX,81900.0
+2016,,Polo,,Si,CDMX,88900.0
+2013,,Trax,,Si,CDMX,99400.0
+2017,,Fiesta,,Si,CDMX,101500.0
+2012,,Mazda 3,,Si,Michoacán,74200.0
+2020,,Aveo,,Si,EDOMEX,101010.0
+2020,,Beat,,Si,,100800.0
+2013,,Tiguan,,Si,Morelos,123200.0
+2017,,Tiida,,No,CDMX,74900.0
+2014,,Aveo,,Si,EDOMEX,53690.0
+2019,,Versa,,Si,Guanajuato,107800.0
+2013,,Swift,,Si,EDOMEX,72800.0
+2014,,Altima,,Si,CDMX,89600.0
+2016,,March,,Si,CDMX,67900.0
+2018,,Focus,,Si,CDMX,136500.0
+2018,,Figo,,Si,,85470.0
+2016,,Ciaz,,Si,,84000.0
+2012,,Aveo,,Si,Querétaro,51240.0
+2019,,STELVIO,,Si,EDOMEX,350000.0
+2017,,City,,Si,,111300.0
+2022,,City,,Si,CDMX,197400.0
+2017,,Escape,,Si,,158900.0
+2022,,Baleno,,Si,CDMX,157500.0
+2016,,GRAND I10,,Si,CDMX,87500.0
+2018,,KICKS,,Si,CDMX,144900.0
+2019,,Aveo,,Si,EDOMEX,106540.0
+2016,,HR-V,,Si,CDMX,135100.0
+2014,,i10,,No,EDOMEX,46410.0
+2016,,Spark,,Si,EDOMEX,72800.0
+2021,,RIO,,Si,EDOMEX,133700.0
+2014,,Accord,,Si,EDOMEX,123200.0
+2015,,Sonic,,Si,,74900.0
+2015,,Versa,,Si,,77000.0
+2022,,CRETA,,Si,CDMX,173390.0
+2020,,XC40,,No,CDMX,322000.0
+2016,,Grand Cherokee,,Si,Puebla,238000.0
+2016,,SPORTAGE,,Si,EDOMEX,128100.0
+2022,,City,,Si,,186200.0
+2016,,CR-V,,Si,CDMX,160300.0
+2012,,Tiguan,,Si,CDMX,123200.0
+2013,,Aveo,,Si,CDMX,56910.0
+2018,,Smart,,Si,CDMX,162400.0
+2022,,Ertiga,,Si,CDMX,188300.0
+2019,,Duster,,Si,EDOMEX,130900.0
+2014,,Stepway,,Si,EDOMEX,64400.0
+2019,,Versa,,Si,,100100.0
+,,GRAND I10,,Si,CDMX,150640.0
+2015,,CX5,,Si,CDMX,132300.0
+2017,,City,,Si,CDMX,116200.0
+2018,,Frontier,,Si,,180600.0
+2015,,CX5,,Si,EDOMEX,132300.0
+2017,,Vento,,Si,CDMX,89600.0
+2017,,Polo,,Si,CDMX,100100.0
+2020,,Clase CLA,,Si,CDMX,350000.0
+2013,,Clase A,,Si,EDOMEX,102900.0
+2022,,Journey,,No,CDMX,259700.0
+2017,,Vento,,Si,,89600.0
+2018,,Jetta Nuevo,,Si,CDMX,116200.0
+2017,,Toledo,,Si,CDMX,107100.0
+2012,,Tiida,,Si,Tlaxcala,52500.0
+2014,,Clase E,,Si,,163100.0
+2012,,Jetta Clasico,,Si,CDMX,70700.0
+2015,,Navigator,,Si,CDMX,244300.0
+2023,,GT,,Si,CDMX,179200.0
+2019,,Prius,,Si,CDMX,149800.0
+2013,,City,,Si,CDMX,82600.0
+2019,,RIO,,Si,,116200.0
+2023,,Sentra,,Si,CDMX,173600.0
+2017,,Spark,,Si,EDOMEX,76300.0
+2012,,Scala,,Si,EDOMEX,45150.0
+2018,,Ibiza,,Si,,147700.0
+2016,,Serie 5,,Si,,193900.0
+2012,,Cruze,,No,EDOMEX,56700.0
+2015,,Sentra,,Si,CDMX,93800.0
+2020,,Vento,,No,,110600.0
+2015,,Versa,,Si,CDMX,77000.0
+2013,,Escape,,Si,CDMX,94500.0
+2022,,Versa,,Si,,152600.0
+2018,,RIO,,Si,CDMX,102200.0
+2020,,Aveo,,Si,Guanajuato,96320.0
+2012,,Camry,,Si,CDMX,85400.0
+2013,,Focus,,Si,EDOMEX,62300.0
+2017,,Grand Caravan,,Si,CDMX,146300.0
+2018,,Jetta Nuevo,,No,CDMX,148400.0
+2012,,Chrysler 200,,Si,CDMX,57400.0
+2012,,Aveo,,Si,CDMX,45780.0
+2018,,Corolla,,Si,CDMX,136500.0
+2018,,GRAND I10,,Si,CDMX,96250.0
+2019,,Kwid,,Si,EDOMEX,79100.0
+2018,,Cavalier,,Si,EDOMEX,110110.0
+2016,,Gol,,No,EDOMEX,65800.0
+2018,,March,,No,,57400.0
+2018,,Vento,,Si,CDMX,112700.0
+2017,,March,,No,CDMX,84000.0
+2017,,Sentra,,Si,EDOMEX,109900.0
+2013,,Koleos,,Si,,87500.0
+2015,,Matiz,,Si,Querétaro,43190.0
+2015,,Mazda 3,,Si,EDOMEX,107100.0
+2012,,Fusion,,Si,CDMX,60900.0
+2016,,ELANTRA,,Si,CDMX,115500.0
+2017,,Spark,,No,,64050.0
+2016,,Sonic,,Si,CDMX,89600.0
+2019,,Mazda 2,,Si,CDMX,130200.0
+2019,,Versa,,Si,CDMX,100100.0
+2012,,Journey,,Si,CDMX,91000.0
+2016,,Fiesta,,Si,CDMX,87500.0
+2017,,Attitude,,Si,CDMX,73500.0
+2017,,FIT,,Si,CDMX,117600.0
+2018,,Clase CLA,,Si,EDOMEX,233100.0
+2017,,Trax,,Si,,119000.0
+2012,,Tsuru,,Si,,45290.0
+2023,,Taigun,,Si,Morelos,206500.0
+2018,,Vitara,,Si,CDMX,154700.0
+2015,,Vento,,No,EDOMEX,79800.0
+2018,,GRAND I10,,Si,,94780.0
+2021,,Insight,,Si,CDMX,263200.0
+2019,,X Trail,,Si,CDMX,200900.0
+2014,,Serie 3,,Si,CDMX,130200.0
+2017,,Aveo,,Si,CDMX,69300.0
+2013,,Swift,,Si,CDMX,67200.0
+2019,,Versa,,Si,,105700.0
+2020,,Vento,,No,EDOMEX,114100.0
+2018,,ACCENT,,Si,,107520.0
+2018,,BRV,,Si,,140700.0
+2022,,Aveo,,Si,CDMX,114310.0
+2018,,Serie 3,,Si,CDMX,195300.0
+2019,,Duster,,Si,,117600.0
+2018,,Attitude,,No,,91700.0
+2021,,Versa,,Si,EDOMEX,125300.0
+2020,,CRETA,,Si,EDOMEX,166320.0
+2013,,Focus,,Si,CDMX,64400.0
+2012,,Chrysler 200,,No,CDMX,60900.0
+2022,,BRV,,Si,CDMX,218400.0
+2015,,Odyssey,,Si,CDMX,178500.0
+2018,,Vento,,Si,EDOMEX,93800.0
+2012,,Tsuru,,Si,EDOMEX,43540.0
+2015,,Ibiza,,Si,CDMX,80500.0
+2019,,Versa,,Si,,115500.0
+2019,,Expedition,,Si,CDMX,350000.0
+2012,,RAV4,,Si,EDOMEX,102200.0
+2016,,Spark,,Si,CDMX,60900.0
+2020,,Aveo,,Si,Morelos,95690.0
+2019,,Vento,,Si,CDMX,103600.0
+2021,,Avanza,,Si,CDMX,156800.0
+2020,,Mazda 3,,Si,EDOMEX,189700.0
+2016,,Gol,,Si,Puebla,65800.0
+2013,,Malibu,,Si,Puebla,97600.0
+2018,,Ciaz,,Si,CDMX,95200.0
+2014,,Cruze,,Si,EDOMEX,71200.0
+2017,,Mirage,,Si,CDMX,71400.0
+2014,,Journey,,Si,EDOMEX,102200.0
+2019,,Aveo,,Si,Querétaro,104930.0
+2016,,Vento,,No,Morelos,79800.0
+2015,,Camry,,Si,EDOMEX,109200.0
+2013,,Jetta Nuevo,,Si,EDOMEX,81900.0
+2019,,Vento,,Si,Puebla,112000.0
+2015,,Swift,,Si,CDMX,76300.0
+2018,,Vento,,Si,Puebla,93800.0
+2020,,Beat,,Si,CDMX,106400.0
+2016,,FIT,,Si,CDMX,101500.0
+2017,,ELANTRA,,Si,CDMX,130900.0
+2018,,March,,Si,,84700.0
+,,Kwid,,Si,CDMX,111300.0
+2018,,Sentra,,Si,,127400.0
+2012,,Smart,,No,CDMX,69300.0
+2013,,RAV4,,Si,EDOMEX,125300.0
+2017,,Civic,,Si,,145600.0
+2015,,Duster,,No,CDMX,84700.0
+2017,,Fluence,,Si,CDMX,98000.0
+2013,,Serie 1,,Si,CDMX,93800.0
+2012,,CX7,,Si,CDMX,86100.0
+2017,,A3,,Si,CDMX,169400.0
+2017,,Spark,,Si,,64820.0
+2015,,Trax,,Si,,108500.0
+2018,,Aveo,,Si,CDMX,97440.0
+2013,,Civic,,Si,CDMX,93100.0
+2017,,Spark,,Si,CDMX,90020.0
+2018,,Doble Cabina,,Si,,165900.0
+2016,,Ibiza,,Si,EDOMEX,110600.0
+2023,,V-DRIVE,,No,,129500.0
+2020,,Versa,,Si,,135100.0
+2018,,Attitude,,Si,CDMX,82600.0
+2015,,Aveo,,Si,,60620.0
+2015,,Serie 1,,Si,EDOMEX,112700.0
+2013,,Sentra,,Si,,82600.0
+2018,,Attitude,,No,CDMX,82600.0
+2019,,Explorer,,Si,EDOMEX,332000.0
+2020,,Figo,,Si,CDMX,109900.0
+2020,,Kwid,,Si,CDMX,91700.0
+2017,,Grand Caravan,,Si,Puebla,154700.0
+2013,,Matiz,,Si,CDMX,36890.0
+2012,,Tiida,,Si,CDMX,52710.0
+2017,,Sonic,,Si,CDMX,97300.0
+2020,,KICKS,,No,EDOMEX,154700.0
+2018,,Polo,,Si,CDMX,99400.0
+2015,,Gol,,Si,CDMX,70000.0
+2017,,Vitara,,Si,CDMX,133000.0
+2019,,RIO,,Si,CDMX,125300.0
+2017,,A3,,No,CDMX,177800.0
+2015,,X Trail,,Si,,133000.0
+2015,,Grand Cherokee,,Si,EDOMEX,228900.0
+2015,,CR-V,,Si,CDMX,154000.0
+2019,,Aveo,,No,CDMX,95690.0
+2020,,Stepway,,Si,CDMX,124390.0
+2012,,HD,,No,,143500.0
+2013,,Cruze,,Si,CDMX,60200.0
+2017,,Figo,,Si,CDMX,76440.0
+2012,,Chevy,,Si,CDMX,38990.0
+2018,,Stepway,,Si,CDMX,104440.0
+2017,,Duster,,Si,,103600.0
+,,Enclave,,No,CDMX,317100.0
+2021,,Cavalier,,Si,CDMX,142100.0
+2016,,Spark,,Si,CDMX,77700.0
+2014,,Versa,,Si,CDMX,74900.0
+2020,,Duster,,No,,126700.0
+2017,,Aveo,,Si,EDOMEX,72800.0
+2019,,KICKS,,Si,EDOMEX,149100.0
+2019,,Yaris,,Si,,119700.0
+2020,,Versa,,Si,,135100.0
+2016,,500,,Si,CDMX,107100.0
+2012,,F-150,,Si,,172900.0
+2019,,Gol,,No,Puebla,101500.0
+2012,,Beetle,,Si,Querétaro,86100.0
+2018,,Vento,,Si,EDOMEX,94500.0
+2017,,Sonic,,No,CDMX,102900.0
+2018,,Compass,,No,CDMX,187600.0
+2017,,TUCSON,,Si,,177800.0
+2014,,Serie 3,,Si,CDMX,143500.0
+2016,,Focus,,Si,CDMX,214200.0
+2012,,Focus,,Si,Hidalgo,60900.0
+2014,,Fiesta,,Si,Querétaro,71400.0
+2018,,Vento,,Si,CDMX,95900.0
+2022,,Xpander,,Si,CDMX,182700.0
+2013,,Focus,,Si,EDOMEX,65800.0
+2016,,Sonic,,Si,CDMX,82600.0
+2020,,Edge,,Si,CDMX,308700.0
+2013,,Corolla,,No,CDMX,80500.0
+2018,,Aveo,,Si,CDMX,97440.0
+2015,,Logan,,No,CDMX,61600.0
+2018,,Toledo,,No,Hidalgo,117600.0
+2016,,Sentra,,Si,Querétaro,103600.0
+2013,,A4,,Si,CDMX,122500.0
+2020,,Kwid,,No,CDMX,85400.0
+2012,,Escape,,Si,CDMX,88200.0
+2014,,Traverse,,Si,EDOMEX,143500.0
+2015,,Clase GLK,,Si,CDMX,188300.0
+2014,,Tiida,,Si,CDMX,58030.0
+2017,,Vento,,Si,CDMX,90300.0
+2015,,Tiida,,Si,CDMX,63490.0
+2018,,Duster,,Si,CDMX,107100.0
+2016,,Jetta Nuevo,,Si,,112000.0
+2019,,Clase GLE,,Si,CDMX,350000.0
+2020,,Aveo,,Si,CDMX,117110.0
+2014,,Suburban,,No,CDMX,205800.0
+2017,,Ibiza,,Si,CDMX,118300.0
+2012,,Aveo,,Si,EDOMEX,47740.0
+2023,,Logan,,Si,CDMX,144900.0
+2017,,Toledo,,Si,CDMX,109200.0
+2023,,GT,,Si,CDMX,200900.0
+2018,,Versa,,Si,CDMX,98700.0
+2020,,FORTE,,Si,CDMX,148400.0
+2023,,Yaris,,Si,,157500.0
+2017,,Stepway,,Si,EDOMEX,89600.0
+2019,,March,,No,CDMX,99400.0
+2016,,Avanza,,Si,EDOMEX,102900.0
+2015,,Golf,,Si,CDMX,133600.0
+2017,,301,,Si,CDMX,80500.0
+2020,,Beat,,No,EDOMEX,97600.0
+2015,,Sonic,,Si,EDOMEX,84000.0
+2013,,Mazda 6,,Si,EDOMEX,87500.0
+2019,,City,,Si,CDMX,141600.0
+2019,,Spark,,Si,CDMX,121170.0
+2021,,Envision,,Si,CDMX,350000.0
+2021,,1000,,Si,Coahuila,119000.0
+2013,,Scala,,Si,CDMX,47600.0
+2018,,Koleos,,Si,,173600.0
+2018,,AUDI A5 SPORT BACK,,Si,CDMX,280770.0
+2014,,Jetta Nuevo,,Si,Morelos,81900.0
+2016,,Figo,,Si,EDOMEX,72800.0
+2015,,Mazda 3,,Si,,123200.0
+2014,,Camry,,No,Puebla,115500.0
+2019,,Aveo,,No,CDMX,100940.0
+2023,,Ertiga,,Si,CDMX,184100.0
+2013,,Gol,,Si,EDOMEX,51800.0
+2017,,Attitude,,Si,CDMX,74200.0
+2019,,BRV,,Si,Querétaro,161700.0
+2020,,Virtus,,Si,CDMX,130900.0
+2013,,Jetta Nuevo,,Si,CDMX,91700.0
+2016,,Sonic,,Si,Querétaro,82600.0
+2020,,Gol,,Si,CDMX,109200.0
+2015,,Sentra,,Si,,93100.0
+2018,,Captur,,Si,EDOMEX,142380.0
+2012,,Fluence,,Si,CDMX,55580.0
+2014,,Jetta Nuevo,,Si,,94500.0
+2023,,MG5,,Si,EDOMEX,149800.0
+2016,,Uno,,Si,EDOMEX,73500.0
+2013,,Spark,,Si,CDMX,48790.0
+2022,,Tornado,,Si,CDMX,128800.0
+2016,,Ibiza,,Si,CDMX,93800.0
+2022,,ACCENT,,Si,EDOMEX,173320.0
+2018,,Jetta Nuevo,,Si,Hidalgo,140700.0
+2019,,Versa,,No,EDOMEX,109900.0
+2013,,Focus,,Si,Querétaro,70000.0
+2022,,2008,,Si,Guanajuato,218400.0
+2018,,Mazda 2,,Si,EDOMEX,114100.0
+2017,,Serie 3,,Si,,193200.0
+2021,,Sprinter,,Si,CDMX,350000.0
+2015,,Vento,,Si,EDOMEX,74900.0
+2015,,Jetta Nuevo,,Si,CDMX,99400.0
+2015,,Tiida,,Si,EDOMEX,63490.0
+2017,,SPORTAGE,,Si,CDMX,172900.0
+2021,,Mazda 3,,No,,165900.0
+2013,,COUPE,,Si,CDMX,107100.0
+2016,,Patriot,,No,CDMX,128800.0
+2014,,Altima,,Si,EDOMEX,102200.0
+2019,,Accord,,Si,CDMX,244300.0
+2012,,Tiida,,Si,CDMX,53340.0
+2014,,Vento,,Si,CDMX,75600.0
+2018,,Prius,,Si,CDMX,147000.0
+2012,,Versa,,Si,,63770.0
+2015,,Ikon,,Si,CDMX,59710.0
+2016,,Jetta Nuevo,,Si,,102200.0
+2019,,Camry,,Si,EDOMEX,182700.0
+2012,,Focus,,Si,CDMX,56140.0
+2017,,Aveo,,Si,,72800.0
+2015,,Sonic,,Si,CDMX,77000.0
+2017,,RIO,,No,CDMX,114100.0
+2017,,Sonic,,Si,CDMX,93100.0
+2012,,Beetle,,Si,Puebla,85400.0
+2020,,Beat,,Si,,112700.0
+2015,,Trax,,Si,Querétaro,107800.0
+2018,,D20,,Si,,63700.0
+2012,,Tiida,,Si,CDMX,49560.0
+2020,,Trax,,Si,CDMX,168700.0
+2013,,A4,,Si,CDMX,109900.0
+2017,,GRAND I10,,Si,CDMX,89950.0
+2019,,Swift,,Si,CDMX,121100.0
+2023,,MG5,,No,CDMX,140000.0
+2012,,Jetta Clasico,,Si,,75600.0
+2015,,Spark,,Si,CDMX,63770.0
+2022,,Ciaz,,Si,,147000.0
+2019,,Encore,,Si,CDMX,192500.0
+2015,,Mazda 6,,No,,107100.0
+2015,,Tiida,,Si,EDOMEX,64050.0
+2017,,Figo,,Si,,83230.0
+2014,,Jetta Nuevo,,No,EDOMEX,103600.0
+2020,,KICKS,,Si,,173600.0
+2020,,FORTE,,Si,EDOMEX,137900.0
+2019,,Avanza,,No,Puebla,137200.0
+2022,,X2,,Si,EDOMEX,350000.0
+2016,,Mirage,,Si,CDMX,70000.0
+2020,,Aveo,,Si,,103110.0
+2020,,Beat,,Si,CDMX,102200.0
+2012,,Tiguan,,Si,CDMX,126700.0
+2016,,Discovery Sport,,Si,CDMX,240800.0
+,,Kwid,,No,CDMX,127400.0
+2014,,Sandero,,Si,CDMX,60830.0
+2019,,Vento,,Si,,101500.0
+2020,,Spark,,Si,CDMX,105980.0
+2016,,TUCSON,,Si,CDMX,152600.0
+2015,,Spark,,Si,,55860.0
+2022,,STINGER,,No,,350000.0
+2017,,Vento,,Si,,91700.0
+2012,,Civic,,Si,,87500.0
+2017,,Cruze,,Si,Puebla,108500.0
+2015,,Mazda 3,,No,CDMX,123900.0
+2023,,SEI2,,Si,CDMX,148400.0
+2014,,Fiesta,,Si,EDOMEX,69300.0
+2018,,Logan,,Si,CDMX,88200.0
+2016,,Versa,,Si,EDOMEX,81900.0
+2020,,RIO,,No,EDOMEX,117600.0
+2017,,Sentra,,Si,CDMX,113400.0
+2012,,Jetta Clasico,,No,,66500.0
+2014,,March,,Si,CDMX,77700.0
+2020,,Koleos,,Si,,214900.0
+2014,,Aveo,,Si,EDOMEX,53340.0
+2020,,Tiguan,,Si,Hidalgo,250600.0
+2018,,Mobi,,Si,CDMX,87360.0
+2012,,Explorer,,Si,CDMX,116900.0
+2021,,Avanza,,No,,147700.0
+2018,,Civic,,No,CDMX,160300.0
+2021,,Vento,,Si,,135800.0
+2012,,SX4,,Si,,64400.0
+2023,,Sentra,,Si,CDMX,182000.0
+2018,,Cavalier,,Si,Tlaxcala,113050.0
+2012,,Mustang,,Si,CDMX,128100.0
+2017,,Attitude,,Si,,74900.0
+2018,,Spark,,Si,Guanajuato,99750.0
+2016,,Tiida,,Si,EDOMEX,68600.0
+2016,,Spark,,Si,EDOMEX,75600.0
+2013,,Swift,,Si,CDMX,74200.0
+2015,,Cruze,,No,CDMX,74200.0
+2022,,Q3,,Si,,350000.0
+2018,,Yaris,,Si,,128100.0
+2018,,KICKS,,Si,,147000.0
+2017,,SOUL,,Si,Hidalgo,119700.0
+2014,,Tsuru,,Si,,50820.0
+2018,,Civic,,Si,CDMX,178500.0
+2018,,Civic,,Si,CDMX,178500.0
+2019,,Mazda 6,,Si,,200200.0
+2015,,Sonic,,Si,CDMX,85400.0
+2021,,Figo,,Si,CDMX,138950.0
+2020,,Vento,,Si,Hidalgo,125300.0
+2020,,Versa,,Si,CDMX,161000.0
+2017,,Aveo,,No,CDMX,79800.0
+2020,,Stepway,,Si,CDMX,124390.0
+2017,,Sentra,,No,,116200.0
+2018,,Urvan,,Si,,238000.0
+2020,,Versa,,Si,EDOMEX,152600.0
+2018,,Versa,,Si,CDMX,99400.0
+2020,,Eco Sport,,Si,,167720.0
+2016,,Spark,,Si,CDMX,58100.0
+2018,,Aveo,,Si,EDOMEX,92750.0
+2013,,Sienna,,Si,Guanajuato,140000.0
+2015,,Cruze,,Si,EDOMEX,80500.0
+2017,,March,,Si,CDMX,86380.0
+2014,,Tiida,,Si,,67200.0
+2014,,Fiesta,,Si,EDOMEX,72800.0
+2015,,Jetta Clasico,,No,EDOMEX,84700.0
+2014,,Sandero,,No,CDMX,63630.0
+2015,,500,,Si,EDOMEX,125300.0
+2013,,Duster,,Si,CDMX,74200.0
+2014,,Tsuru,,Si,,50890.0
+2013,,Escape,,Si,EDOMEX,97300.0
+2018,,KICKS,,Si,CDMX,162190.0
+2018,,KICKS,,Si,CDMX,162190.0
+2016,,Vento,,Si,CDMX,89600.0
+2012,,Odyssey,,Si,CDMX,117600.0
+2018,,FORTE,,Si,CDMX,120400.0
+2018,,Golf,,Si,CDMX,168700.0
+2023,,Mazda 2,,Si,,172200.0
+2014,,Serie 3,,Si,,154700.0
+2017,,Prius,,Si,CDMX,154700.0
+2017,,Sonic,,Si,EDOMEX,93100.0
+2014,,Yaris,,Si,CDMX,80500.0
+2018,,RIO,,Si,CDMX,130900.0
+2014,,Fiesta,,No,,67900.0
+2021,,Ibiza,,Si,CDMX,161700.0
+2016,,Vento,,Si,CDMX,83300.0
+2012,,Town,,No,CDMX,81900.0
+2018,,Vento,,Si,EDOMEX,99400.0
+2012,,Sienna,,Si,CDMX,119700.0
+2020,,Aveo,,Si,Nuevo León,118300.0
+2020,,Beat,,Si,Querétaro,98000.0
+2020,,SEDONA,,Si,,255500.0
+2018,,Figo,,Si,CDMX,88200.0
+2023,,Aveo,,Si,CDMX,145950.0
+2012,,Serie 1,,Si,EDOMEX,88200.0
+2015,,Chrysler 200,,Si,EDOMEX,106400.0
+2012,,Scala,,Si,CDMX,45220.0
+2019,,Versa,,No,EDOMEX,111300.0
+2023,,RIO,,Si,CDMX,149800.0
+2013,,Sonic,,Si,CDMX,59850.0
+2013,,Aveo,,Si,EDOMEX,50470.0
+2023,,Mirage,,Si,CDMX,126700.0
+2018,,RIO,,Si,EDOMEX,130900.0
+2016,,FORTE,,Si,,113400.0
+2019,,Eco Sport,,Si,EDOMEX,154980.0
+2013,,Pilot,,Si,,140000.0
+2017,,Versa,,Si,Morelos,88200.0
+2019,,SPORTAGE,,Si,,205800.0
+2013,,Corolla,,Si,,88200.0
+2012,,Focus,,No,EDOMEX,56140.0
+2014,,Gol,,No,CDMX,64400.0
+2023,,Highlander,,No,CDMX,350000.0
+2020,,Aveo,,No,,110810.0
+2021,,Beat,,No,,89600.0
+2021,,Camry,,Si,Puebla,287700.0
+2016,,Aveo,,Si,,66500.0
+2018,,TUCSON,,Si,CDMX,196000.0
+2015,,Logan,,Si,CDMX,62300.0
+2018,,Ibiza,,Si,CDMX,126000.0
+2020,,Sentra,,Si,EDOMEX,165200.0
+2015,,Versa,,Si,,79100.0
+2022,,V-DRIVE,,Si,,114800.0
+2013,,Aveo,,Si,CDMX,50470.0
+2013,,Duster,,No,CDMX,72100.0
+2014,,Jetta Nuevo,,Si,EDOMEX,99400.0
+2016,,Aveo,,Si,CDMX,63700.0
+2017,,Vento,,Si,CDMX,89600.0
+2017,,Logan,,Si,,72100.0
+2015,,Sonic,,Si,,85400.0
+2014,,Serie 4,,Si,CDMX,174300.0
+2013,,Scala,,Si,CDMX,53900.0
+2017,,Fiesta,,Si,,94500.0
+2012,,Aveo,,Si,EDOMEX,46060.0
+2013,,Jetta Clasico,,No,CDMX,79100.0
+2017,,Sonic,,No,EDOMEX,98700.0
+2019,,F-150,,Si,Querétaro,275100.0
+2013,,Toledo,,Si,,82600.0
+2013,,Sonic,,No,,67900.0
+2023,,Captur,,Si,Tamaulipas,241080.0
+2013,,A6,,Si,EDOMEX,145600.0
+2014,,Jetta Nuevo,,Si,CDMX,117600.0
+2012,,Jetta Clasico,,Si,Querétaro,81900.0
+2019,,Cavalier,,Si,,121800.0
+2013,,Swift,,Si,EDOMEX,89600.0
+2016,,Jetta Nuevo,,No,Querétaro,119000.0
+2013,,Jetta Nuevo,,Si,EDOMEX,94500.0
+2017,,Fiesta,,Si,CDMX,153300.0
+2015,,Matiz,,Si,Guanajuato,43190.0
+2012,,Town,,No,,105000.0
+2014,,Mazda 3,,Si,CDMX,114800.0
+2013,,Fiesta,,Si,CDMX,67200.0
+2018,,Serie 3,,Si,,231700.0
+2013,,MINI,,No,CDMX,98700.0
+2014,,Jetta Nuevo,,Si,EDOMEX,99400.0
+2014,,Versa,,Si,EDOMEX,77700.0
+2021,,Vento,,No,CDMX,135800.0
+2017,,Clase C,,Si,CDMX,235900.0
+2019,,Figo,,Si,,99610.0
+2014,,Spark,,No,,50330.0
+2017,,FIT,,Si,CDMX,112700.0
+2015,,CR-V,,Si,Tlaxcala,141400.0
+2012,,Town,,Si,EDOMEX,91700.0
+2012,,Odyssey,,Si,EDOMEX,142800.0
+2015,,CR-V,,Si,EDOMEX,164500.0
+2018,,Hilux,,Si,EDOMEX,195300.0
+2017,,RIO,,Si,CDMX,104300.0
+2015,,CC,,Si,CDMX,125300.0
+2018,,Aveo,,Si,CDMX,89950.0
+2012,,Aveo,,Si,CDMX,51730.0
+2021,,Sentra,,Si,CDMX,176400.0
+2016,,Compass,,Si,,146300.0
+2013,,Duster,,Si,CDMX,76300.0
+2013,,Spark,,Si,CDMX,45500.0
+2013,,Avanza,,No,CDMX,85400.0
+2017,,Versa,,Si,,96600.0
+2018,,GRAND I10,,Si,EDOMEX,85890.0
+2018,,Lobo,,Si,CDMX,350000.0
+2020,,March,,Si,CDMX,83370.0
+2016,,Equinox,,Si,CDMX,149800.0
+2013,,Ibiza,,No,EDOMEX,79100.0
+2012,,Spark,,Si,CDMX,48580.0
+2016,,Mazda 3,,Si,CDMX,134400.0
+2021,,GRAND I10,,Si,CDMX,104020.0
+2017,,Vento,,Si,EDOMEX,105000.0
+2019,,BRV,,Si,EDOMEX,161700.0
+2012,,Cruze,,Si,,57400.0
+2019,,GRAND I10,,Si,,115500.0
+2019,,Jetta Nuevo,,No,EDOMEX,151900.0
+2020,,Expedition,,Si,CDMX,350000.0
+2013,,Jetta Clasico,,Si,CDMX,72800.0
+2016,,Jetta Nuevo,,Si,,102200.0
+2019,,Aveo,,Si,,107100.0
+2017,,CRETA,,Si,,137200.0
+2015,,Journey,,No,CDMX,137900.0
+2015,,Versa,,Si,CDMX,82600.0
+2019,,Vitara,,No,CDMX,172900.0
+2020,,Versa,,No,CDMX,135800.0
+2020,,HR-V,,Si,CDMX,199200.0
+2013,,CR-V,,Si,CDMX,126700.0
+2018,,X Trail,,Si,Nuevo León,216300.0
+2019,,Polo,,Si,EDOMEX,112000.0
+2020,,Aveo,,No,,126490.0
+2019,,Sentra,,Si,EDOMEX,151900.0
+2017,,Prius,,No,CDMX,170800.0
+2019,,Beat,,Si,CDMX,88800.0
+2018,,RDX,,Si,,238700.0
+2017,,Transporter,,Si,EDOMEX,141400.0
+2019,,Escape,,No,CDMX,202300.0
+2018,,X4,,Si,CDMX,314300.0
+2016,,Jetta Nuevo,,Si,EDOMEX,124600.0
+2021,,SPORTAGE,,No,CDMX,203700.0
+2021,,SPORTAGE,,No,CDMX,203700.0
+2016,,SPORTAGE,,Si,CDMX,136500.0
+2017,,Mazda 3,,Si,,151200.0
+2015,,Fiesta,,Si,CDMX,80500.0
+2020,,Versa,,Si,EDOMEX,135800.0
+2020,,Aveo,,Si,,118580.0
+2017,,Sandero,,No,CDMX,72100.0
+2014,,Explorer,,Si,CDMX,167300.0
+2020,,Duster,,Si,CDMX,119000.0
+2023,,Bronco,,No,,350000.0
+2017,,SORENTO,,Si,,184100.0
+2016,,Aveo,,Si,,73500.0
+2016,,Edge,,Si,CDMX,189700.0
+2015,,Sentra,,Si,,93100.0
+2018,,Versa,,Si,CDMX,93100.0
+2012,,i10,,Si,EDOMEX,38290.0
+2023,,RIO,,Si,CDMX,172900.0
+2013,,Edge,,Si,,110600.0
+2020,,CRETA,,Si,CDMX,170030.0
+2012,,S40,,No,CDMX,78400.0
+2018,,RIO,,Si,CDMX,119700.0
+2013,,Uno,,Si,EDOMEX,53060.0
+2017,,Vento,,No,EDOMEX,92400.0
+2013,,Aveo,,No,Morelos,57680.0
+2022,,911,,Si,CDMX,350000.0
+2016,,Versa,,Si,EDOMEX,83300.0
+2017,,Attitude,,Si,CDMX,79800.0
+2018,,Vento,,Si,,115500.0
+2016,,Aveo,,Si,CDMX,66500.0
+2019,,Expert,,Si,EDOMEX,183400.0
+2017,,Avanza,,Si,,122500.0
+2014,,F-350,,No,EDOMEX,194600.0
+2022,,FORTE,,Si,CDMX,185500.0
+2019,,Versa,,No,,111300.0
+2022,,Vento,,Si,,130900.0
+2018,,Versa,,Si,CDMX,100100.0
+2021,,Onix,,Si,CDMX,126700.0
+2012,,Chevy,,Si,CDMX,36050.0
+2012,,Chevy,,Si,CDMX,38360.0
+2016,,MINI S,,Si,CDMX,150500.0
+2012,,Versa,,Si,EDOMEX,61250.0
+2014,,Corolla,,Si,,92400.0
+2017,,Sentra,,Si,,117600.0
+2012,,Jetta Nuevo,,No,,85400.0
+2013,,MINI,,Si,EDOMEX,109200.0
+2013,,March,,Si,EDOMEX,67200.0
+2020,,Eco Sport,,Si,CDMX,193970.0
+2022,,HR-V,,No,,249200.0
+2020,,Aveo,,Si,CDMX,110390.0
+2014,,Passat,,Si,Veracruz,95200.0
+2014,,Accord,,Si,,116200.0
+2015,,Passat,,Si,CDMX,105700.0
+2016,,FORTE,,No,,123200.0
+2016,,Tiida,,Si,CDMX,77700.0
+2021,,Yaris,,Si,CDMX,147000.0
+2018,,Logan,,No,,94500.0
+2016,,Versa,,Si,CDMX,93100.0
+2018,,March,,Si,,85400.0
+2015,,Pathfinder,,Si,EDOMEX,179200.0
+2017,,Spark,,Si,CDMX,58240.0
+2019,,Encore,,Si,EDOMEX,191100.0
+2013,,Civic,,Si,EDOMEX,98700.0
+2013,,Civic,,Si,EDOMEX,98700.0
+2014,,Odyssey,,Si,CDMX,183400.0
+2016,,Figo,,Si,CDMX,84000.0
+2018,,Pathfinder,,Si,,252700.0
+2018,,City,,No,CDMX,128100.0
+2017,,Tiguan,,Si,,146300.0
+2015,,CR-V,,Si,,167300.0
+2017,,Versa,,Si,,90300.0
+2016,,Duster,,Si,EDOMEX,99400.0
+2019,,Beat,,Si,Puebla,90300.0
+2018,,Attitude,,Si,,89600.0
+2014,,Q5,,Si,,175000.0
+2021,,V-DRIVE,,Si,EDOMEX,107100.0
+2017,,Aveo,,Si,,70700.0
+2012,,Versa,,Si,CDMX,61810.0
+2014,,Tiguan,,No,EDOMEX,114100.0
+2017,,Versa,,Si,EDOMEX,97300.0
+2019,,Sentra,,No,CDMX,135100.0
+2017,,Logan,,Si,CDMX,74900.0
+2018,,Mobi,,No,,76160.0
+2017,,Sonic,,Si,CDMX,96600.0
+2022,,FORTE,,Si,CDMX,263200.0
+2022,,Journey,,Si,CDMX,268800.0
+2017,,Neon,,Si,,100450.0
+2023,,March,,Si,EDOMEX,147630.0
+2017,,Versa,,Si,,90300.0
+2014,,Jetta Clasico,,Si,,80500.0
+2013,,Fiesta,,No,CDMX,61200.0
+2020,,Vento,,Si,,121100.0
+2015,,Lobo,,No,,249200.0
+2016,,Spark,,Si,CDMX,58520.0
+2017,,Yaris,,Si,CDMX,98700.0
+2021,,Versa,,No,,153300.0
+2014,,Cruze,,Si,CDMX,78400.0
+2013,,March,,Si,EDOMEX,62510.0
+2018,,Vento,,Si,,109900.0
+2015,,Polo,,Si,,83300.0
+2012,,Journey,,Si,,89600.0
+2018,,Vento,,Si,,108500.0
+2015,,Sonic,,Si,Morelos,86800.0
+2014,,Versa,,Si,CDMX,74200.0
+2015,,Eco Sport,,Si,CDMX,112700.0
+2018,,RIO,,Si,CDMX,130900.0
+2016,,Figo,,Si,,79100.0
+2012,,Sequoia,,Si,EDOMEX,190400.0
+2016,,FORTE,,Si,CDMX,123200.0
+2023,,Creta Grand,,Si,CDMX,273000.0
+2018,,City,,Si,CDMX,127400.0
+2016,,Eco Sport,,Si,,121800.0
+2019,,Vento,,Si,CDMX,115500.0
+2019,,Aveo,,Si,,101290.0
+2017,,Altima,,Si,EDOMEX,137200.0
+2014,,Journey,,Si,CDMX,108500.0
+2013,,March,,No,CDMX,73220.0
+2018,,Gol,,Si,CDMX,90300.0
+2014,,Fiesta,,Si,EDOMEX,72100.0
+2013,,Jetta Clasico,,Si,CDMX,70700.0
+2019,,Frontier,,Si,EDOMEX,221200.0
+2021,,T-Cross,,Si,Morelos,196700.0
+2016,,City,,Si,CDMX,106400.0
+2013,,Sentra,,Si,EDOMEX,86100.0
+2023,,Attitude,,Si,CDMX,141400.0
+2012,,Fiesta,,Si,CDMX,58100.0
+2021,,Onix,,Si,CDMX,152600.0
+2012,,Ikon,,Si,CDMX,49630.0
+2018,,Q2,,Si,CDMX,203700.0
+2017,,Mirage,,Si,CDMX,88900.0
+2017,,Mobi,,Si,EDOMEX,74550.0
+2017,,Sonic,,No,CDMX,107100.0
+2013,,Aveo,,Si,EDOMEX,50400.0
+2012,,XC60,,Si,,102200.0
+2016,,March,,Si,CDMX,95200.0
+2018,,Ibiza,,Si,EDOMEX,142800.0
+2013,,A4,,Si,CDMX,123200.0
+2018,,Vento,,No,EDOMEX,99400.0
+2014,,Kangoo Express,,Si,,72100.0
+2018,,Cavalier,,Si,EDOMEX,121100.0
+2020,,Beat,,Si,CDMX,110600.0
+2023,,RIO,,No,EDOMEX,143500.0
+2016,,Jetta Nuevo,,Si,,102900.0
+2015,,Civic,,Si,CDMX,117600.0
+2019,,Sentra,,Si,CDMX,142100.0
+2019,,Aveo,,Si,Hidalgo,101500.0
+2018,,GRAND I10,,Si,EDOMEX,108990.0
+2014,,Swift,,Si,CDMX,79100.0
+2021,,FORTE,,Si,,161000.0
+2015,,X3,,Si,CDMX,181300.0
+2016,,Spark,,Si,CDMX,50470.0
+2014,,Fiesta,,Si,CDMX,73500.0
+2014,,Accord,,Si,CDMX,111300.0
+2014,,Town,,Si,CDMX,100800.0
+2014,,Civic,,Si,EDOMEX,105000.0
+2019,,Pathfinder,,Si,CDMX,317100.0
+2015,,Logan,,Si,,59220.0
+2013,,Captiva,,Si,CDMX,93100.0
+2019,,Versa,,Si,EDOMEX,112000.0
+2013,,Trax,,Si,,93800.0
+2016,,Fluence,,Si,CDMX,90300.0
+2016,,Sonic,,Si,CDMX,84700.0
+2021,,Versa,,Si,,145600.0
+2013,,Passat,,Si,EDOMEX,105700.0
+2015,,Sienna,,Si,CDMX,236000.0
+2023,,Groove,,Si,CDMX,191800.0
+2017,,Versa,,Si,Hidalgo,107100.0
+2019,,Figo,,Si,EDOMEX,115150.0
+2014,,Versa,,Si,,74200.0
+2016,,Sonic,,Si,CDMX,86100.0
+2018,,City,,Si,EDOMEX,135100.0
+2018,,Spark,,Si,CDMX,99960.0
+2019,,Versa,,No,Querétaro,102900.0
+2012,,Versa,,Si,CDMX,61810.0
+2023,,HR-V,,Si,,296800.0
+2016,,Vento,,Si,,90300.0
+2012,,Traverse,,No,,107100.0
+2012,,Koleos,,Si,CDMX,83300.0
+2021,,J7,,Si,CDMX,142800.0
+2017,,March,,Si,CDMX,86380.0
+2012,,Compass,,Si,CDMX,93100.0
+2016,,Avanza,,Si,,105000.0
+2018,,Vento,,Si,EDOMEX,99400.0
+2016,,Aveo,,Si,CDMX,72100.0
+2013,,Evoque,,Si,CDMX,184100.0
+2015,,FIT,,Si,,102900.0
+2017,,SPORTAGE,,Si,CDMX,194600.0
+2015,,Tiida,,Si,CDMX,64050.0
+,,3008,,Si,CDMX,350000.0
+2013,,Trax,,Si,CDMX,104300.0
+2016,,GIULIETTA,,Si,EDOMEX,142100.0
+2019,,Renegade,,Si,CDMX,180600.0
+2023,,Taigun,,Si,EDOMEX,214900.0
+2015,,Trax,,Si,CDMX,126700.0
+2013,,Focus,,Si,CDMX,86100.0
+2016,,Vento,,Si,EDOMEX,87500.0
+2017,,Sentra,,Si,Querétaro,121100.0
+2013,,Avenger,,Si,CDMX,63700.0
+2014,,FIT,,Si,,83300.0
+2020,,Eco Sport,,Si,EDOMEX,162400.0
+2014,,Sonic,,No,Querétaro,68600.0
+2018,,Mazda 3,,Si,Querétaro,139300.0
+2016,,Tiida,,Si,EDOMEX,67200.0
+2020,,Beat,,Si,EDOMEX,101500.0
+2018,,Sentra,,Si,Hidalgo,119000.0
+2013,,Versa,,Si,CDMX,71400.0
+2012,,Avanza,,Si,CDMX,84000.0
+2017,,Spark,,Si,,66220.0
+2015,,Jetta Nuevo,,No,,126000.0
+2023,,ZS,,No,,231700.0
+2016,,CR-V,,Si,CDMX,186200.0
+2017,,Sentra,,No,CDMX,114100.0
+2018,,Versa,,Si,CDMX,100100.0
+2018,,Vitara,,Si,EDOMEX,154700.0
+2017,,TUCSON,,Si,CDMX,177800.0
+2021,,MG5,,Si,,130200.0
+2018,,Toledo,,Si,EDOMEX,111300.0
+2017,,Vento,,Si,EDOMEX,92400.0
+2015,,Aveo,,Si,EDOMEX,58170.0
+2012,,Focus,,Si,CDMX,60900.0
+2018,,Aveo,,Si,CDMX,98280.0
+2021,,Vento,,Si,CDMX,136500.0
+2020,,Vento,,No,CDMX,103600.0
+2015,,Fiesta,,Si,,80500.0
+2022,,MG5,,Si,CDMX,138600.0
+2017,,CRETA,,No,,135800.0
+2022,,Vento,,No,,130900.0
+2017,,S-Cross,,Si,EDOMEX,121100.0
+2018,,Clase GLC,,Si,EDOMEX,350000.0
+2013,,Armada,,Si,CDMX,130200.0
+2017,,TUCSON,,Si,CDMX,183400.0
+2016,,Versa,,No,CDMX,86100.0
+2016,,Beetle,,No,CDMX,136500.0
+2019,,Pick Up,,No,CDMX,170100.0
+2017,,Trax,,Si,EDOMEX,126700.0
+2019,,Avanza,,Si,CDMX,142800.0
+2016,,FORTE,,Si,CDMX,114800.0
+2022,,ZS,,No,CDMX,156800.0
+2015,,Versa,,Si,EDOMEX,79800.0
+2019,,Hiace,,Si,CDMX,249200.0
+2015,,Kangoo Express,,Si,EDOMEX,76300.0
+2017,,Vento,,Si,EDOMEX,92400.0
+2012,,Acadia,,Si,,121100.0
+2020,,V-DRIVE,,Si,,105700.0
+2020,,Aveo,,Si,CDMX,103460.0
+2015,,Verano,,Si,,98700.0
+2018,,Gol,,Si,Morelos,87500.0
+2017,,Sentra,,Si,CDMX,121800.0
+2016,,Versa,,No,,88200.0
+2017,,Sentra,,No,,114100.0
+2012,,Routan,,Si,,86800.0
+2019,,208,,Si,CDMX,122500.0
+2013,,Jetta Nuevo,,Si,EDOMEX,107100.0
+2021,,Vento,,Si,,134400.0
+2023,,Journey,,Si,CDMX,324800.0
+2017,,Trax,,Si,EDOMEX,147000.0
+2015,,Cruze,,No,CDMX,79100.0
+2012,,Aveo,,Si,Guerrero,46690.0
+2021,,Stepway,,No,EDOMEX,139790.0
+2017,,Tiida,,Si,EDOMEX,77700.0
+2016,,Trax,,Si,EDOMEX,121100.0
+2015,,Jetta Nuevo,,No,,116200.0
+Antes del 2010,,Avenger,,Si,CDMX,57400.0
+2014,,Versa,,Si,CDMX,78400.0
+2013,,Tsuru,,Si,,47740.0
+2018,,City,,Si,CDMX,135100.0
+2012,,Chevy,,Si,CDMX,40600.0
+2016,,Versa,,Si,CDMX,88200.0
+2018,,Vento,,Si,CDMX,109900.0
+2018,,Versa,,Si,Querétaro,93100.0
+2015,,March,,Si,EDOMEX,69370.0
+2018,,Sienna,,Si,CDMX,269500.0
+2017,,Sentra,,Si,CDMX,117600.0
+2017,,Spark,,Si,CDMX,58310.0
+2013,,Versa,,Si,CDMX,68110.0
+2015,,Sonic,,Si,CDMX,76300.0
+2018,,Aveo,,Si,EDOMEX,86030.0
+2015,,Sonic,,No,CDMX,86800.0
+2016,,Fusion,,Si,CDMX,119700.0
+2018,,SOUL,,Si,CDMX,160300.0
+2015,,MINI,,Si,Guanajuato,142100.0
+2017,,TLX,,Si,,182000.0
+,,F-250,,Si,,57120.0
+2018,,SPORTAGE,,Si,CDMX,177100.0
+2015,,March,,Si,CDMX,67900.0
+2017,,Yaris,,Si,EDOMEX,100100.0
+2021,,Corolla,,Si,EDOMEX,214900.0
+2014,,Sandero,,Si,CDMX,61390.0
+2018,,Stepway,,Si,EDOMEX,108360.0
+2013,,Lacrosse,,No,CDMX,105000.0
+2017,,X4,,Si,CDMX,289800.0
+2021,,IONIQ,,No,,249200.0
+2017,,Versa,,No,EDOMEX,88200.0
+2023,,GT,,Si,,215600.0
+2017,,Serie 4,,Si,CDMX,249200.0
+2016,,Versa,,Si,CDMX,88200.0
+2021,,Mobi,,Si,EDOMEX,110460.0
+2017,,Spark,,Si,,97720.0
+2014,,Q7,,Si,,205100.0
+2017,,Vento,,Si,EDOMEX,105700.0
+2013,,Tiida,,Si,CDMX,55020.0
+2016,,Tiida,,Si,CDMX,67200.0
+2017,,Sentra,,No,EDOMEX,122500.0
+2017,,Mobi,,Si,CDMX,70490.0
+2020,,GRAND I10,,Si,CDMX,115500.0
+2017,,Regal,,Si,EDOMEX,173600.0
+2014,,Clase A,,Si,EDOMEX,128100.0
+2017,,Versa,,No,CDMX,98000.0
+2020,,Versa,,Si,CDMX,136500.0
+2015,,Civic,,Si,EDOMEX,117600.0
+2023,,RIO,,Si,CDMX,153300.0
+2019,,Acadia,,Si,CDMX,322700.0
+2019,,Spark,,Si,CDMX,117530.0
+2014,,370Z,,Si,,182000.0
+2022,,Aveo,,No,CDMX,130900.0
+2019,,RIO,,No,CDMX,119000.0
+2014,,Ibiza,,No,CDMX,91000.0
+2018,,Mazda 3,,Si,EDOMEX,137900.0
+2014,,Versa,,Si,CDMX,77700.0
+2018,,Mobi,,No,,82460.0
+2014,,Altea,,Si,CDMX,89600.0
+2012,,CX9,,Si,CDMX,100800.0
+2018,,Aveo,,Si,EDOMEX,103040.0
+2018,,Duster,,Si,CDMX,118300.0
+2012,,Versa,,Si,CDMX,61880.0
+2013,,Mazda 3,,Si,CDMX,84000.0
+2014,,Town,,Si,EDOMEX,113400.0
+2012,,207,,Si,,52710.0
+2016,,Fiesta,,Si,,86800.0
+2013,,Gol,,Si,,55300.0
+2018,,March,,No,CDMX,104300.0
+2021,,Teramont,,Si,CDMX,350000.0
+2012,,Journey,,Si,EDOMEX,89600.0
+2020,,Corolla,,Si,EDOMEX,172900.0
+2019,,Stepway,,No,CDMX,111860.0
+2012,,Jetta Nuevo,,Si,EDOMEX,86800.0
+2013,,Fiesta,,Si,CDMX,64400.0
+2012,,Spark,,Si,CDMX,43400.0
+2021,,Versa,,Si,CDMX,133000.0
+2021,,Grand Cherokee,,Si,CDMX,350000.0
+2018,,Versa,,Si,,100800.0
+2013,,Aveo,,Si,,50680.0
+2016,,Aveo,,Si,Querétaro,77000.0
+2016,,Sentra,,Si,,102200.0
+2020,,Pick Up,,No,Hidalgo,179900.0
+2015,,Mazda 3,,Si,CDMX,117600.0
+2019,,GRAND I10,,Si,Hidalgo,94220.0
+2019,,Aveo,,Si,CDMX,108500.0
+2021,,Captur,,No,EDOMEX,202860.0
+2013,,Pilot,,Si,CDMX,144200.0
+Antes del 2010,,CR-V,,Si,,121800.0
+2017,,Sonic,,Si,EDOMEX,108500.0
+2015,,Fiesta,,Si,,74200.0
+2019,,Vento,,No,EDOMEX,105700.0
+2013,,March,,Si,,59430.0
+2017,,Vento,,Si,,89600.0
+2016,,Fiesta,,Si,EDOMEX,86800.0
+2015,,Mazda 3,,Si,CDMX,107800.0
+2012,,Fiesta,,Si,Hidalgo,56560.0
+2014,,Journey,,Si,CDMX,101500.0
+2019,,Vento,,Si,Querétaro,105700.0
+2015,,March,,No,Puebla,63210.0
+2012,,Focus,,Si,,66500.0
+2016,,Versa,,Si,EDOMEX,88200.0
+2016,,Sentra,,Si,CDMX,93800.0
+2016,,FIT,,Si,CDMX,119700.0
+2020,,FORTE,,Si,,168000.0
+2019,,Civic,,Si,CDMX,186900.0
+2016,,Golf Sport Wagen,,Si,CDMX,113400.0
+2015,,Sentra,,Si,EDOMEX,88200.0
+2013,,Aveo,,Si,,52010.0
+2018,,Jetta Nuevo,,Si,CDMX,123200.0
+2023,,HR-V,,No,CDMX,298200.0
+2012,,Chrysler 300,,Si,CDMX,117600.0
+2018,,SPORTAGE,,Si,,190400.0
+2017,,March,,Si,,88060.0
+2017,,Attitude,,Si,CDMX,75600.0
+2016,,Serie 5,,Si,CDMX,193900.0
+2017,,CR-V,,Si,EDOMEX,230300.0
+2017,,CRETA,,Si,CDMX,136500.0
+2017,,Aveo,,Si,CDMX,70700.0
+2016,,Aveo,,Si,CDMX,67900.0
+2013,,GIULIETTA,,Si,EDOMEX,93800.0
+2012,,Ibiza,,Si,,73500.0
+2015,,Versa,,Si,,82600.0
+2017,,FORTE,,Si,CDMX,142100.0
+2023,,SELTOS,,Si,EDOMEX,236600.0
+2019,,Versa,,Si,CDMX,128100.0
+2017,,Sonic,,Si,CDMX,97300.0
+2017,,Colorado,,Si,,266700.0
+2018,,Beat,,Si,CDMX,95200.0
+2015,,Spark,,Si,CDMX,46200.0
+2016,,Tiida,,Si,EDOMEX,68600.0
+2016,,Yaris,,Si,EDOMEX,111300.0
+2014,,Serie 3,,Si,,130900.0
+2016,,CX3,,Si,,147000.0
+2013,,Clase C,,Si,CDMX,116900.0
+2020,,Aveo,,Si,EDOMEX,119070.0
+2017,,Sonic,,Si,EDOMEX,97300.0
+2018,,Avanza,,No,CDMX,123900.0
+2018,,Versa,,No,CDMX,114800.0
+2019,,Hilux,,Si,,174300.0
+2018,,Aveo,,Si,CDMX,89180.0
+2018,,Cruze,,Si,CDMX,128800.0
+2017,,Aveo,,Si,EDOMEX,67200.0
+2018,,Vento,,No,CDMX,100100.0
+2015,,Tiida,,Si,CDMX,64190.0
+2018,,Beat,,Si,CDMX,79100.0
+2015,,Tiguan,,Si,,125300.0
+2016,,X Trail,,Si,CDMX,158900.0
+2013,,Sonic,,Si,CDMX,62860.0
+2021,,Onix,,Si,CDMX,135800.0
+2013,,Gol,,Si,EDOMEX,53900.0
+2013,,Versa,,Si,EDOMEX,68110.0
+2015,,301,,Si,CDMX,74200.0
+2020,,Ertiga,,No,CDMX,147700.0
+2019,,Pick Up,,Si,,170800.0
+2018,,Gol,,Si,CDMX,87500.0
+2013,,Tiida,,No,,54180.0
+2015,,Versa,,Si,CDMX,81200.0
+2013,,Versa,,Si,,65660.0
+2021,,ACCENT,,Si,,133560.0
+2021,,Beat,,Si,CDMX,119000.0
+2018,,Aveo,,No,CDMX,89180.0
+2013,,Maxima,,Si,CDMX,96600.0
+2015,,Journey,,Si,EDOMEX,117600.0
+2017,,Attitude,,Si,,75600.0
+2013,,Transporter,,No,CDMX,107800.0
+2020,,Clase A,,Si,CDMX,333900.0
+2017,,Versa,,Si,CDMX,90300.0
+2017,,Civic,,No,,146300.0
+2017,,X25,,Si,,83300.0
+2016,,Gol,,Si,,72800.0
+2014,,Versa,,Si,,78400.0
+2012,,Clase E,,Si,EDOMEX,153300.0
+2019,,Figo,,Si,EDOMEX,91770.0
+2012,,Ibiza,,Si,EDOMEX,72800.0
+2019,,Kwid,,Si,,94500.0
+2019,,CX5,,Si,EDOMEX,239400.0
+2017,,Jetta Nuevo,,No,EDOMEX,136500.0
+2019,,Trax,,No,CDMX,178500.0
+2015,,Tiida,,Si,CDMX,64190.0
+2016,,Corolla,,Si,CDMX,126000.0
+2019,,RIO,,Si,,139300.0
+2020,,SEI3,,Si,EDOMEX,141400.0
+2018,,Montero,,Si,CDMX,263200.0
+2014,,500,,Si,,86800.0
+2015,,Duster,,Si,EDOMEX,94500.0
+2015,,Fiesta,,Si,,98700.0
+2015,,Aveo,,Si,EDOMEX,61390.0
+2017,,Aveo,,Si,CDMX,70700.0
+2019,,X35,,Si,,114100.0
+2016,,SPORTAGE,,Si,CDMX,171500.0
+2020,,Versa,,Si,CDMX,125300.0
+2017,,Beetle,,Si,EDOMEX,143500.0
+2018,,March,,Si,CDMX,85610.0
+2018,,Cavalier,,No,CDMX,128030.0
+2014,,Rogue,,Si,EDOMEX,99400.0
+2017,,Spark,,Si,CDMX,92190.0
+2021,,Argo,,Si,Veracruz,136500.0
+2013,,Sentra,,No,EDOMEX,76300.0
+2021,,Onix,,Si,CDMX,153300.0
+2018,,Chasis Cabina,,Si,CDMX,153600.0
+2018,,Attitude,,Si,,93800.0
+2012,,Avenger,,No,CDMX,57400.0
+2015,,Sonic,,Si,EDOMEX,78400.0
+,,Kwid,,Si,CDMX,157500.0
+2018,,Tiida,,Si,Querétaro,88200.0
+2016,,Mazda 3,,Si,CDMX,119000.0
+2016,,Sonic,,Si,CDMX,84000.0
+2012,,Jetta Clasico,,Si,CDMX,74200.0
+2014,,S60,,No,,107800.0
+2017,,Vento,,Si,CDMX,90300.0
+2016,,Vento,,Si,,80500.0
+2017,,Mazda 3,,Si,CDMX,142100.0
+2012,,Aveo,,Si,CDMX,53550.0
+2018,,Avanza,,Si,Hidalgo,123900.0
+2017,,Versa,,Si,CDMX,98000.0
+2022,,ZS,,Si,,157500.0
+2017,,Vento,,Si,EDOMEX,95200.0
+2014,,301,,No,CDMX,60480.0
+2015,,Gol,,Si,CDMX,63000.0
+2016,,Jetta Nuevo,,Si,,109900.0
+2012,,Camry,,Si,EDOMEX,88900.0
+2015,,Challenger,,Si,Querétaro,222600.0
+2014,,Encore,,No,CDMX,116200.0
+2016,,Sonic,,Si,EDOMEX,84000.0
+2021,,Matiz,,Si,CDMX,43610.0
+2018,,Explorer,,Si,CDMX,285600.0
+2017,,CX3,,Si,CDMX,143500.0
+2013,,March,,Si,CDMX,73220.0
+2016,,March,,Si,CDMX,81200.0
+2016,,Jetta Nuevo,,Si,EDOMEX,109900.0
+2014,,Tiida,,Si,EDOMEX,67200.0
+2016,,CX5,,Si,CDMX,162400.0
+2019,,CRETA,,Si,CDMX,170870.0
+2015,,Tiida,,Si,CDMX,64190.0
+2020,,Beat,,Si,CDMX,114800.0
+2017,,Vento,,Si,,99400.0
+2016,,CR-V,,Si,EDOMEX,192500.0
+2020,,Aveo,,Si,,118370.0
+2012,,A3,,Si,EDOMEX,88900.0
+2018,,Hilux,,No,EDOMEX,193900.0
+2023,,A3,,Si,EDOMEX,350000.0
+2017,,Versa,,Si,CDMX,98000.0
+2016,,Tiida,,Si,EDOMEX,67200.0
+2017,,March,,Si,CDMX,80570.0
+2016,,Vento,,Si,CDMX,84000.0
+2016,,Aveo,,Si,Querétaro,67900.0
+2013,,X Trail,,No,EDOMEX,113400.0
+2012,,Ranger,,Si,Hidalgo,94500.0
+2017,,Aveo,,Si,,77700.0
+2017,,Beat,,Si,EDOMEX,95200.0
+2019,,Aveo,,No,,101850.0
+2021,,Aveo,,No,Morelos,121380.0
+2017,,Neon,,Si,CDMX,109900.0
+2017,,Spark,,No,EDOMEX,80780.0
+2020,,Aveo,,No,Querétaro,103530.0
+2017,,Tornado,,Si,CDMX,100800.0
+2015,,Kangoo Express,,Si,CDMX,79100.0
+2012,,Fluence,,Si,,58450.0
+2016,,Aveo,,Si,CDMX,65800.0
+2016,,Mazda 2,,Si,CDMX,100100.0
+2022,,MG5,,No,,153300.0
+2019,,Ranger,,Si,Querétaro,241500.0
+2016,,A1,,Si,,147700.0
+2020,,Aveo,,No,EDOMEX,103530.0
+2017,,208,,Si,Puebla,95200.0
+2013,,Attitude,,Si,CDMX,54320.0
+2022,,Versa,,Si,,156100.0
+2020,,Aveo,,Si,CDMX,119070.0
+2017,,Leon,,Si,CDMX,137200.0
+2016,,Tiida,,Si,EDOMEX,72800.0
+2019,,Vento,,Si,CDMX,115500.0
+2018,,Chasis Cabina,,Si,CDMX,145600.0
+2018,,Aveo,,Si,CDMX,83020.0
+2013,,Trax,,Si,EDOMEX,105000.0
+2017,,Prius,,Si,EDOMEX,171500.0
+2018,,Swift,,Si,CDMX,121100.0
+2023,,Yaris,,Si,CDMX,166600.0
+2016,,Versa,,Si,CDMX,98700.0
+2016,,Versa,,Si,CDMX,86100.0
+2014,,Mazda 3,,Si,,97300.0
+2021,,Ibiza,,Si,CDMX,162400.0
+2018,,Figo,,Si,CDMX,92680.0
+2017,,Versa,,Si,CDMX,98000.0
+2018,,Beat,,Si,,95200.0
+2019,,Versa,,Si,CDMX,111300.0
+2012,,Mazda 3,,No,EDOMEX,73500.0
+2019,,Cavalier,,Si,CDMX,119700.0
+,,Logan,,Si,CDMX,154700.0
+2019,,FORTE,,Si,CDMX,174300.0
+2015,,Sonic,,Si,,78400.0
+2012,,Caliber,,No,CDMX,61600.0
+2018,,S-Cross,,Si,,152600.0
+2017,,RIO,,No,CDMX,110600.0
+2012,,Fusion,,Si,CDMX,61600.0
+2018,,Cavalier,,Si,CDMX,121940.0
+2022,,FORTE,,No,San Luis Potosí,168700.0
+2022,,FORTE,,Si,CDMX,164500.0
+2014,,Fiesta,,Si,EDOMEX,72800.0
+2018,,Versa,,No,,100800.0
+2015,,Logan,,Si,CDMX,59220.0
+2015,,Logan,,Si,CDMX,59290.0
+2013,,Toledo,,Si,CDMX,80500.0
+2016,,March,,Si,CDMX,80500.0
+2015,,Versa,,Si,CDMX,87500.0
+2018,,FORTE,,Si,CDMX,129500.0
+2020,,Cavalier,,Si,Hidalgo,133000.0
+2016,,CX5,,Si,CDMX,163800.0
+2017,,City,,Si,,114800.0
+2012,,Leon,,Si,EDOMEX,82600.0
+2019,,Polo,,Si,EDOMEX,112700.0
+2018,,Jetta Nuevo,,Si,,143500.0
+2014,,Versa,,Si,,77700.0
+2015,,Versa,,Si,Baja California,81200.0
+2013,,Aveo,,Si,CDMX,50470.0
+2012,,Jetta Clasico,,Si,Querétaro,88200.0
+2018,,Versa,,Si,CDMX,93100.0
+2015,,Tiida,,Si,,72100.0
+2013,,Passat,,Si,EDOMEX,86100.0
+2021,,Vento,,No,,126700.0
+2017,,TLX,,Si,CDMX,204400.0
+2012,,Courier,,No,EDOMEX,50400.0
+2016,,Sonic,,Si,CDMX,86800.0
+2020,,Captur,,Si,EDOMEX,167230.0
+2017,,Prius,,Si,EDOMEX,172200.0
+,,X7,,Si,CDMX,350000.0
+2018,,Vento,,Si,EDOMEX,99400.0
+2019,,X Trail,,Si,CDMX,214200.0
+2013,,Grand Vitara,,Si,EDOMEX,95200.0
+2018,,Vento,,Si,CDMX,92400.0
+2020,,Sentra,,Si,EDOMEX,185500.0
+2015,,Uno,,Si,CDMX,64470.0
+2016,,Stepway,,Si,EDOMEX,83300.0
+2017,,Fusion,,Si,CDMX,157500.0
+2017,,GRAND I10,,Si,EDOMEX,85610.0
+2020,,Serie 1,,No,CDMX,291900.0
+2018,,Beat,,Si,CDMX,79800.0
+2023,,TUCSON,,No,Querétaro,346500.0
+2012,,207,,Si,,52710.0
+2017,,Versa,,Si,,107800.0
+2023,,Onix,,No,Puebla,148000.0
+2019,,Vento,,Si,,115500.0
+2023,,Nivus,,Si,,245700.0
+2017,,Vento,,Si,CDMX,95200.0
+2021,,T-Cross,,Si,EDOMEX,199500.0
+2013,,Attitude,,Si,CDMX,64400.0
+2015,,Passat,,Si,EDOMEX,105700.0
+2014,,Swift,,Si,CDMX,85400.0
+2017,,D20,,Si,EDOMEX,60900.0
+2018,,Urvan,,Si,CDMX,238700.0
+2018,,Sentra,,Si,Morelos,125300.0
+2016,,Sonic,,No,EDOMEX,86800.0
+2018,,CX3,,Si,CDMX,158900.0
+2020,,FORTE,,Si,Querétaro,170800.0
+2013,,Mazda 3,,Si,EDOMEX,76300.0
+2018,,Tiguan,,Si,CDMX,264600.0
+2018,,Mobi,,No,,82460.0
+2022,,Corolla,,Si,,229600.0
+2018,,CR-V,,Si,,213500.0
+2017,,Jetta Nuevo,,Si,EDOMEX,119700.0
+2021,,T-Cross,,Si,EDOMEX,199500.0
+2014,,Aveo,,Si,EDOMEX,63000.0
+2012,,Lancer,,Si,CDMX,72100.0
+2015,,Versa,,Si,CDMX,87500.0
+2015,,Town,,Si,EDOMEX,154000.0
+2017,,Versa,,Si,EDOMEX,90300.0
+2016,,Leon,,No,,156100.0
+2016,,Trax,,Si,CDMX,123900.0
+2017,,Vento,,Si,EDOMEX,98700.0
+2016,,A1,,Si,EDOMEX,157500.0
+2022,,X Trail,,No,EDOMEX,245000.0
+2013,,Touareg,,No,,163100.0
+2019,,CX3,,Si,CDMX,174300.0
+2014,,Vento,,Si,Hidalgo,72800.0
+2015,,Vento,,Si,,83300.0
+2018,,Smart,,Si,CDMX,93800.0
+2022,,Aveo,,Si,Querétaro,130340.0
+2012,,Aveo,,No,,52640.0
+2018,,Figo,,Si,EDOMEX,93660.0
+2015,,Aveo,,Si,CDMX,59500.0
+2014,,Versa,,Si,,73500.0
+2023,,Versa,,Si,CDMX,177800.0
+2012,,Liberty,,Si,EDOMEX,88200.0
+2019,,Oroch,,No,,132300.0
+2013,,i10,,Si,EDOMEX,41510.0
+2019,,Encore,,No,,198100.0
+2013,,Stepway,,Si,,64750.0
+2020,,Vento,,No,CDMX,122500.0
+2013,,Jetta Clasico,,Si,CDMX,71400.0
+2012,,A4,,Si,EDOMEX,95200.0
+2017,,Q7,,Si,CDMX,350000.0
+2018,,Mazda 3,,Si,CDMX,151200.0
+2017,,Eco Sport,,Si,CDMX,132300.0
+2016,,Aveo,,Si,CDMX,65800.0
+2018,,Attitude,,No,EDOMEX,93800.0
+2012,,Sentra,,No,CDMX,69300.0
+2019,,Aveo,,Si,CDMX,107870.0
+2016,,SPORTAGE,,Si,CDMX,137900.0
+2012,,Aveo,,No,,46760.0
+2015,,Sonic,,Si,CDMX,78400.0
+2015,,V40,,Si,EDOMEX,105700.0
+2017,,Sonic,,No,EDOMEX,87500.0
+2017,,CX5,,Si,EDOMEX,168000.0
+2022,,SOUL,,No,,166600.0
+2020,,RIO,,Si,CDMX,130200.0
+2017,,FIT,,Si,,119000.0
+2018,,Mobi,,Si,,87990.0
+2013,,Jetta Nuevo,,Si,CDMX,86800.0
+2018,,Versa,,No,CDMX,107800.0
+2016,,Sentra,,Si,CDMX,94500.0
+2019,,Vento,,Si,,101500.0
+2013,,Odyssey,,Si,CDMX,166600.0
+2013,,Spark,,Si,CDMX,54460.0
+2012,,Sandero,,Si,Querétaro,49280.0
+2020,,Vento,,No,CDMX,114800.0
+2019,,Sentra,,Si,EDOMEX,148400.0
+2015,,IX35,,Si,Hidalgo,124600.0
+2022,,Versa,,Si,,142100.0
+2020,,Avanza,,Si,CDMX,141400.0
+2017,,City,,Si,Puebla,113400.0
+2014,,Focus,,Si,,83300.0
+2014,,Journey,,Si,,129500.0
+2016,,Fiesta,,No,EDOMEX,90300.0
+2014,,Sonic,,Si,CDMX,75600.0
+2020,,Aveo,,No,,103530.0
+2020,,March,,No,,83440.0
+2014,,Versa,,Si,EDOMEX,77700.0
+2015,,Matiz,,Si,CDMX,43960.0
+2015,,Jetta Nuevo,,Si,EDOMEX,102200.0
+2017,,Aveo,,No,Puebla,82880.0
+2015,,Cherokee,,Si,Hidalgo,144200.0
+2013,,Jetta Clasico,,Si,CDMX,81200.0
+2012,,Spark,,Si,CDMX,49070.0
+2016,,Vento,,No,,80500.0
+2016,,Versa,,Si,,86100.0
+2016,,Beetle,,No,CDMX,137200.0
+2017,,Aveo,,Si,CDMX,70700.0
+2013,,Golf,,Si,Querétaro,173600.0
+2019,,Yaris,,No,,121100.0
+2016,,Versa,,Si,CDMX,93800.0
+2014,,Compass,,No,,116900.0
+2016,,Serie 4,,Si,CDMX,191800.0
+2014,,Jetta Nuevo,,Si,CDMX,86800.0
+2017,,Versa,,Si,CDMX,98000.0
+2014,,Sonic,,Si,EDOMEX,68600.0
+2013,,Escape,,Si,CDMX,108500.0
+2022,,GRAND I10,,No,Puebla,134890.0
+2015,,Prius,,Si,,123900.0
+2019,,Kwid,,Si,EDOMEX,80500.0
+2014,,S60,,Si,CDMX,105000.0
+2013,,Tiida,,No,,55300.0
+2019,,Beat,,Si,,102200.0
+2012,,Altima,,Si,,84000.0
+2017,,Trax,,Si,,268100.0
+2020,,Beat,,No,,93100.0
+2015,,Logan,,Si,CDMX,59290.0
+2016,,Clase GLA,,Si,CDMX,213500.0
+2018,,Beat,,Si,CDMX,79800.0
+2016,,Logan,,Si,CDMX,69300.0
+2014,,Gol,,Si,,60900.0
+2019,,Pick Up,,Si,Querétaro,180000.0
+2019,,March,,No,EDOMEX,100310.0
+2016,,Sonic,,Si,EDOMEX,92400.0
+2016,,Golf Sport Wagen,,Si,CDMX,121100.0
+2018,,Vento,,No,CDMX,107100.0
+2014,,Duster,,Si,CDMX,77700.0
+2021,,Versa,,No,CDMX,163800.0
+2013,,Jetta Clasico,,Si,,71400.0
+2017,,Spark,,Si,CDMX,70630.0
+2016,,Yaris,,Si,EDOMEX,93800.0
+2018,,Versa,,Si,EDOMEX,108500.0
+2017,,Tiida,,Si,CDMX,75600.0
+2014,,Versa,,No,CDMX,73150.0
+2016,,SPORTAGE,,Si,CDMX,180600.0
+2017,,Tsuru,,Si,,64120.0
+2017,,ELANTRA,,Si,CDMX,135800.0
+2022,,ZS,,Si,CDMX,141400.0
+2017,,Vento,,Si,CDMX,97300.0
+2017,,Toledo,,Si,CDMX,109900.0
+2020,,Vento,,Si,CDMX,112000.0
+2023,,X4,,No,,350000.0
+2018,,Mirage,,Si,CDMX,87500.0
+2016,,Aveo,,Si,EDOMEX,75600.0
+2018,,SOUL,,Si,CDMX,179900.0
+2018,,Versa,,Si,,108500.0
+2013,,Touareg,,Si,EDOMEX,160300.0
+2017,,301,,No,EDOMEX,87500.0
+2017,,Aveo,,Si,,73640.0
+2019,,Spark,,Si,EDOMEX,102340.0
+2017,,KICKS,,Si,EDOMEX,137830.0
+2016,,301,,Si,CDMX,76300.0
+2014,,Koleos,,Si,EDOMEX,100800.0
+2016,,Aveo,,Si,CDMX,65800.0
+2014,,Altima,,Si,EDOMEX,90300.0
+2016,,Versa,,No,CDMX,89600.0
+2013,,Cruze,,No,CDMX,61600.0
+2020,,Virtus,,Si,EDOMEX,139300.0
+2017,,Spark,,Si,CDMX,78050.0
+2020,,Aveo,,Si,CDMX,112210.0
+2017,,Aveo,,Si,EDOMEX,71050.0
+2016,,Altima,,Si,EDOMEX,114800.0
+2018,,Vento,,Si,CDMX,99400.0
+2015,,Eco Sport,,Si,EDOMEX,111300.0
+2018,,Aveo,,Si,CDMX,93380.0
+2013,,Scala,,Si,CDMX,50120.0
+2015,,Note,,No,EDOMEX,95900.0
+2022,,CX30,,No,CDMX,247100.0
+2019,,RIO,,Si,CDMX,117600.0
+2019,,Jetta Nuevo,,Si,CDMX,154000.0
+2015,,Tiida,,Si,CDMX,64190.0
+2018,,Aveo,,Si,CDMX,89180.0
+2014,,Ibiza,,Si,CDMX,77700.0
+2018,,Vento,,Si,EDOMEX,107100.0
+2012,,Swift,,Si,EDOMEX,68600.0
+2015,,Gol,,Si,CDMX,69300.0
+2015,,Aveo,,Si,,67900.0
+2020,,Uno,,Si,EDOMEX,105910.0
+2014,,Focus,,Si,CDMX,83300.0
+2016,,Versa,,No,CDMX,88200.0
+2012,,Sonic,,Si,,62720.0
+2020,,CX9,,Si,CDMX,328300.0
+2012,,Scala,,Si,CDMX,45430.0
+2012,,March,,Si,CDMX,60760.0
+2015,,Matiz,,Si,CDMX,43960.0
+2015,,Fusion,,Si,CDMX,107100.0
+2021,,Renegade,,Si,CDMX,209300.0
+2020,,Vento,,Si,EDOMEX,104300.0
+2018,,ACCENT,,Si,EDOMEX,107660.0
+2015,,Journey,,Si,CDMX,116200.0
+2015,,500,,Si,CDMX,121100.0
+2015,,Versa,,Si,EDOMEX,81900.0
+2018,,Spark,,Si,CDMX,103950.0
+2013,,Jetta Clasico,,Si,,71400.0
+2023,,Captiva,,Si,EDOMEX,225400.0
+2021,,V-DRIVE,,Si,EDOMEX,107800.0
+2012,,Grand Cherokee,,Si,EDOMEX,149100.0
+2019,,GRAND I10,,Si,CDMX,109760.0
+2023,,Captur,,Si,CDMX,241080.0
+2016,,Attitude,,Si,CDMX,77000.0
+2015,,Aveo,,No,EDOMEX,59640.0
+2018,,Palio,,No,CDMX,114100.0
+2020,,Aveo,,Si,EDOMEX,103600.0
+2014,,Compass,,Si,Querétaro,105700.0
+2018,,Cavalier,,Si,EDOMEX,99960.0
+2014,,Versa,,Si,EDOMEX,77700.0
+2016,,Spark,,No,CDMX,50820.0
+2012,,F-150,,Si,Jalisco,135800.0
+2016,,Sonic,,No,EDOMEX,96600.0
+2013,,Gol,,Si,Puebla,54600.0
+2015,,Tiida,,Si,CDMX,63000.0
+2012,,Fusion,,No,CDMX,63700.0
+2023,,Onix,,Si,EDOMEX,161000.0
+2018,,Ibiza,,No,EDOMEX,118300.0
+2020,,E-Nat,,Si,CDMX,244000.0
+2016,,Figo,,Si,EDOMEX,79800.0
+2016,,Clase B,,Si,CDMX,126000.0
+2014,,Odyssey,,Si,CDMX,188300.0
+2015,,Tiida,,Si,EDOMEX,64330.0
+2013,,Aveo,,Si,CDMX,50750.0
+2018,,Aveo,,Si,EDOMEX,98350.0
+2013,,Escape,,No,CDMX,115500.0
+2017,,Sienna,,Si,EDOMEX,247800.0
+2017,,Tsuru,,Si,EDOMEX,68250.0
+2023,,FORTE,,Si,CDMX,203000.0
+2018,,Corolla,,No,EDOMEX,129500.0
+2018,,Mazda 3,,No,EDOMEX,150500.0
+2017,,Equinox,,Si,EDOMEX,158200.0
+2017,,Edge,,Si,EDOMEX,328300.0
+2013,,Corolla,,Si,,84000.0
+2014,,Spark,,No,Hidalgo,51940.0
+2013,,Jetta Clasico,,Si,CDMX,71400.0
+2017,,Attitude,,Si,Baja California,76300.0
+2019,,Ibiza,,Si,CDMX,148400.0
+2014,,Compass,,Si,Veracruz,105000.0
+2013,,Aveo,,Si,CDMX,52150.0
+2018,,Attitude,,Si,EDOMEX,72100.0
+2016,,SORENTO,,Si,EDOMEX,207200.0
+2015,,Aveo,,No,Puebla,58310.0
+2022,,Terrain,,No,Chihuahua,350000.0
+2015,,Town,,Si,CDMX,156100.0
+2020,,Serie 1,,Si,EDOMEX,294000.0
+2014,,Aveo,,No,CDMX,63000.0
+2016,,Fluence,,Si,EDOMEX,79800.0
+2022,,Aveo,,No,EDOMEX,134890.0
+2017,,Attitude,,Si,EDOMEX,75600.0
+2013,,Sonic,,Si,CDMX,63210.0
+2015,,Sonic,,Si,EDOMEX,76300.0
+2019,,Beat,,Si,CDMX,95900.0
+2019,,Vento,,Si,EDOMEX,102200.0
+2015,,Sonic,,No,CDMX,87500.0
+2016,,Sonic,,Si,EDOMEX,96600.0
+2018,,Jetta Nuevo,,Si,EDOMEX,125300.0
+2016,,FIT,,Si,EDOMEX,97300.0
+2015,,Trax,,No,EDOMEX,114800.0
+2019,,Versa,,No,CDMX,119700.0
+2017,,Vento,,Si,CDMX,95200.0
+2016,,Town,,Si,Morelos,133700.0
+2015,,Duster,,Si,EDOMEX,90300.0
+2012,,Fiesta,,No,CDMX,53200.0
+2017,,Malibu,,No,CDMX,161000.0
+2012,,Sierra,,Si,CDMX,198800.0
+2018,,Cavalier,,No,EDOMEX,115500.0
+2021,,RIO,,Si,EDOMEX,170100.0
+2017,,Sentra,,Si,Chiapas,119000.0
+2021,,MINI S,,Si,Jalisco,298200.0
+2021,,Aveo,,Si,EDOMEX,124390.0
+2012,,Versa,,Si,EDOMEX,62160.0
+2015,,Cruze,,Si,EDOMEX,99400.0
+2014,,Tiida,,Si,EDOMEX,59920.0
+2018,,SANTA FE,,Si,CDMX,228970.0
+2013,,Liberty,,No,CDMX,107800.0
+2014,,Focus,,Si,CDMX,84000.0
+2020,,Accord,,Si,CDMX,278600.0
+2019,,Polo,,Si,CDMX,121800.0
+2019,,City,,No,CDMX,135800.0
+2015,,Fusion,,Si,CDMX,102200.0
+2020,,Versa,,Si,EDOMEX,145600.0
+2015,,Tsuru,,Si,EDOMEX,55510.0
+2021,,RIO,,Si,CDMX,123200.0
+2012,,Gol,,Si,EDOMEX,52500.0
+2017,,Figo,,Si,CDMX,86170.0
+2016,,Tiida,,Si,CDMX,68600.0
+2022,,ZS,,Si,CDMX,175000.0
+2015,,Serie 3,,No,EDOMEX,186200.0
+2020,,Beat,,No,CDMX,97600.0
+2019,,TOYOTA ,,Si,EDOMEX,136155.0
+2013,,Sonic,,Si,EDOMEX,70000.0
+2013,,Escape,,Si,EDOMEX,109900.0
+2018,,Tiida,,No,CDMX,93100.0
+2022,,GRAND I10,,Si,Durango,115640.0
+2017,,Sentra,,Si,EDOMEX,123200.0
+2018,,Trax,,Si,CDMX,145600.0
+2020,,T-Cross,,No,CDMX,169400.0
+2022,,HR-V,,Si,CDMX,236600.0
+2017,,Spark,,Si,EDOMEX,92610.0
+2016,,March,,Si,Durango,68950.0
+2012,,Tiida,,Si,CDMX,53760.0
+2018,,ELANTRA,,No,EDOMEX,153510.0
+2014,,Escape,,No,CDMX,107800.0
+2019,,City,,No,EDOMEX,135800.0
+2019,,FORTE,,Si,CDMX,161700.0
+2021,,Attitude,,Si,Oaxaca,108500.0
+2012,,Attitude,,Si,EDOMEX,47110.0
+2015,,Fiesta,,Si,EDOMEX,74900.0
+2016,,Golf,,No,EDOMEX,135100.0
+2016,,Figo,,Si,Aguascalientes,74200.0
+2016,,Sonic,,Si,Tabasco,84700.0
+2018,,HR-V,,Si,EDOMEX,185500.0
+2018,,Sentra,,Si,CDMX,134400.0
+2013,,Durango,,Si,Puebla,142100.0
+2020,,Hiace,,Si,CDMX,219100.0
+2020,,Versa,,No,CDMX,145600.0
+2016,,Sonic,,Si,EDOMEX,82600.0
+2013,,ROADSTER,,No,Querétaro,123900.0
+2022,,RIO,,No,EDOMEX,137200.0
+2019,,KICKS,,Si,CDMX,184800.0
+2015,,SRX,,Si,Puebla,167300.0
+2018,,RIO,,Si,EDOMEX,112700.0
+2021,,FORTE,,Si,Veracruz,155400.0
+2022,,Vento,,Si,Querétaro,140000.0
+2018,,Ibiza,,No,CDMX,149800.0
+2015,,Vision,,Si,EDOMEX,72100.0
+2018,,Aveo,,Si,CDMX,88410.0
+2014,,MINI S,,Si,,125300.0
+2016,,Terrain,,Si,,175000.0
+2018,,Jetta Nuevo,,Si,,131600.0
+2016,,Passat,,Si,CDMX,137200.0
+2013,,Sentra,,Si,,76300.0
+2016,,Pilot,,Si,CDMX,238000.0
+2016,,Mazda 6,,Si,,129500.0
+2014,,Jetta Nuevo,,Si,CDMX,90300.0
+2019,,Versa,,No,EDOMEX,120400.0
+2022,,VIGUS,,Si,CDMX,207900.0
+2014,,Attitude,,Si,,62300.0
+2018,,Jetta Nuevo,,Si,,131600.0
+2016,,Clase C,,Si,CDMX,204400.0
+2013,,Kizashi,,Si,EDOMEX,84700.0
+2015,,Spark,,Si,EDOMEX,65520.0
+2014,,Versa,,Si,,77700.0
+2015,,Ikon,,Si,EDOMEX,64610.0
+2014,,Gol,,Si,CDMX,60900.0
+2019,,CX9,,Si,EDOMEX,335300.0
+2021,,Onix,,Si,CDMX,148400.0
+2015,,Serie 3,,Si,CDMX,182700.0
+2020,,V-DRIVE,,Si,CDMX,108500.0
+2014,,Aveo,,Si,EDOMEX,54740.0
+2017,,Serie 3,,No,CDMX,198100.0
+2014,,Jetta Clasico,,Si,Puebla,78400.0
+2022,,CRETA,,Si,CDMX,224210.0
+2022,,Civic,,Si,CDMX,242900.0
+2016,,Sentra,,Si,EDOMEX,117600.0
+2016,,Transit,,No,EDOMEX,163800.0
+2015,,Versa,,Si,CDMX,82600.0
+2018,,Aveo,,No,CDMX,98910.0
+2020,,Corolla,,Si,,176400.0
+2017,,Uno,,Si,Tlaxcala,88000.0
+2012,,A1,,Si,EDOMEX,85400.0
+2018,,Vento,,Si,EDOMEX,96600.0
+2019,,Mustang,,Si,CDMX,340900.0
+2020,,Vento,,No,CDMX,114800.0
+2018,,Versa,,No,CDMX,101500.0
+2019,,Prius,,Si,CDMX,178500.0
+2012,,Fiesta,,Si,,57330.0
+2015,,Aveo,,Si,EDOMEX,58310.0
+2016,,March,,Si,EDOMEX,71400.0
+2021,,CX30,,Si,Hidalgo,242900.0
+2016,,Trax,,Si,CDMX,138600.0
+2012,,Aveo,,Si,CDMX,46830.0
+2020,,Versa,,Si,CDMX,145600.0
+2020,,RIO,,Si,EDOMEX,140000.0
+2015,,Aveo,,Si,,58310.0
+2015,,Mirage,,Si,CDMX,70700.0
+2017,,Gol,,Si,EDOMEX,81200.0
+2018,,RIO,,No,CDMX,130900.0
+2015,,Versa,,Si,EDOMEX,83300.0
+2019,,Beat,,No,EDOMEX,90300.0
+2013,,Clase E,,Si,EDOMEX,175000.0
+2023,,MG5,,Si,CDMX,156800.0
+2023,,Attitude,,Si,CDMX,128800.0
+2020,,Captur,,Si,EDOMEX,158900.0
+2016,,Wrangler,,Si,Guerrero,330400.0
+2017,,D20,,Si,EDOMEX,60900.0
+2017,,ELANTRA,,Si,EDOMEX,118300.0
+2012,,FAW,,Si,CDMX,27300.0
+2012,,Spark,,Si,EDOMEX,43610.0
+2016,,Town,,No,CDMX,126000.0
+2019,,Mirage,,No,CDMX,113610.0
+2015,,Clase GLK,,Si,CDMX,193900.0
+2017,,Attitude,,No,EDOMEX,82600.0
+2015,,Logan,,Si,,63000.0
+2017,,Gol,,Si,EDOMEX,81900.0
+2021,,Onix,,No,CDMX,138600.0
+2018,,RIO,,Si,CDMX,114100.0
+2013,,Aveo,,Si,EDOMEX,55090.0
+2012,,Colorado,,Si,CDMX,135800.0
+2013,,Tiida,,Si,CDMX,55790.0
+2018,,Jetta Nuevo,,Si,CDMX,138600.0
+2023,,MG5,,Si,Veracruz,169400.0
+2017,,Vento,,Si,CDMX,93800.0
+2014,,Sienna,,Si,CDMX,184800.0
+2017,,Mazda 3,,Si,EDOMEX,138600.0
+2019,,Vento,,Si,EDOMEX,107800.0
+2018,,CRETA,,Si,,147630.0
+2019,,A3,,Si,CDMX,228200.0
+2018,,Vento,,Si,EDOMEX,110600.0
+2017,,Gol,,Si,,81900.0
+2023,,A1,,No,CDMX,268100.0
+2016,,Sonic,,Si,EDOMEX,97300.0
+2018,,Cavalier,,Si,,115850.0
+2016,,Tiguan,,Si,EDOMEX,138600.0
+2019,,Vento,,Si,EDOMEX,107100.0
+2019,,Aveo,,No,CDMX,108990.0
+2017,,Corolla,,Si,EDOMEX,125300.0
+2021,,Cavalier,,Si,EDOMEX,152600.0
+2017,,Vento,,Si,EDOMEX,100100.0
+2012,,Jetta Clasico,,Si,CDMX,65800.0
+2016,,X Trail,,Si,CDMX,151900.0
+2020,,Cavalier,,Si,CDMX,160300.0
+2020,,March,,Si,,118300.0
+2014,,Fiesta,,Si,EDOMEX,93800.0
+2020,,Accord,,Si,EDOMEX,93100.0
+2015,,Sonic,,Si,CDMX,87500.0
+2012,,Liberty,,Si,CDMX,88200.0
+2015,,Versa,,Si,EDOMEX,82600.0
+2017,,Spark,,No,CDMX,58870.0
+2012,,F-350,,No,CDMX,165200.0
+2021,,X3,,Si,EDOMEX,350000.0
+2014,,Fusion,,Si,EDOMEX,97300.0
+2017,,Logan,,Si,,66500.0
+2013,,Ibiza,,Si,CDMX,77000.0
+2013,,Tiida,,Si,CDMX,55790.0
+2018,,Aveo,,Si,CDMX,86730.0
+2019,,FORTE,,Si,EDOMEX,163800.0
+2014,,301,,Si,EDOMEX,65800.0
+2017,,Aveo,,Si,EDOMEX,73920.0
+2018,,Beat,,Si,CDMX,74900.0
+2018,,Vento,,No,EDOMEX,94500.0
+2013,,Mazda 3,,No,CDMX,104300.0
+2012,,Mazda 3,,Si,EDOMEX,79800.0
+2012,,Kizashi,,Si,,77000.0
+2023,,Civic,,No,CDMX,298900.0
+2016,,Figo,,Si,,74200.0
+2017,,Sonic,,Si,CDMX,104300.0
+2013,,Sonic,,No,EDOMEX,63980.0
+2012,,207,,Si,CDMX,47180.0
+2013,,Spark,,Si,CDMX,40110.0
+2018,,Vento,,Si,CDMX,93800.0
+2013,,Ibiza,,Si,EDOMEX,84700.0
+2015,,Sonic,,Si,CDMX,79100.0
+2019,,Vitara,,Si,CDMX,181300.0
+2021,,Versa,,No,CDMX,135100.0
+2018,,Cavalier,,Si,CDMX,123760.0
+2019,,Kwid,,Si,CDMX,86800.0
+2021,,Beat,,Si,CDMX,101500.0
+2019,,Prius,,No,CDMX,156100.0
+2017,,MINI S,,Si,CDMX,221200.0
+2022,,Aveo,,Si,CDMX,134470.0
+2015,,Logan,,Si,,63000.0
+2022,,Aveo,,Si,,124250.0
+2012,,Passat,,Si,CDMX,80500.0
+2014,,Versa,,Si,CDMX,74200.0
+2022,,Nivus,,Si,,224700.0
+2020,,3008,,No,,205800.0
+2021,,KICKS,,No,CDMX,207900.0
+2015,,Passat,,Si,EDOMEX,108500.0
+2014,,X Trail,,Si,CDMX,127400.0
+2017,,Sonic,,Si,CDMX,101500.0
+2016,,Gol,,Si,CDMX,72800.0
+2019,,CX5,,Si,,228900.0
+2015,,Sonic,,No,EDOMEX,84000.0
+2012,,Mazda 3,,Si,CDMX,78400.0
+2017,,Estacas,,Si,CDMX,136500.0
+2018,,Tiguan,,Si,EDOMEX,212100.0
+2020,,ARONA,,Si,EDOMEX,196700.0
+2012,,Fiesta,,No,EDOMEX,59360.0
+2017,,Tiguan,,No,CDMX,157500.0
+2016,,Sonic,,Si,EDOMEX,84700.0
+2020,,Beat,,Si,EDOMEX,113400.0
+2023,,A4,,Si,CDMX,350000.0
+2013,,Duster,,Si,CDMX,79800.0
+2014,,X Trail,,Si,EDOMEX,125300.0
+2020,,Aveo,,Si,EDOMEX,119910.0
+2014,,Selecciona un modelo,,Si,CDMX,179620.0
+2013,,Transporter,,No,EDOMEX,105000.0
+2017,,Impreza,,Si,EDOMEX,149100.0
+2013,,Toledo,,Si,CDMX,72100.0
+2016,,Mazda 3,,Si,EDOMEX,119700.0
+2012,,Jetta Clasico,,Si,,79800.0
+2017,,Fiesta,,Si,CDMX,91700.0
+2020,,Stepway,,No,EDOMEX,125370.0
+2023,,Onix,,Si,CDMX,172200.0
+2012,,Sentra,,No,CDMX,64400.0
+2019,,ACCENT,,Si,CDMX,125860.0
+2015,,Tiida,,Si,CDMX,64610.0
+2016,,Figo,,Si,Jalisco,77000.0
+2012,,March,,Si,EDOMEX,61600.0
+2017,,Versa,,Si,CDMX,98700.0
+2012,,Murano,,Si,,123200.0
+2017,,Fusion,,Si,,201600.0
+2013,,Aveo,,Si,,56210.0
+2012,,Sonic,,Si,,58310.0
+2016,,Fiesta,,Si,EDOMEX,90300.0
+2015,,Yaris,,No,CDMX,100100.0
+2018,,March,,Si,,86450.0
+2017,,Sentra,,Si,CDMX,142800.0
+2015,,Spark,,Si,CDMX,58240.0
+2017,,GRAND I10,,Si,CDMX,101220.0
+2015,,Vision,,No,CDMX,72100.0
+2017,,Sonic,,No,EDOMEX,100100.0
+2018,,Tiida,,Si,CDMX,84700.0
+2017,,Figo,,No,CDMX,81410.0
+2015,,Passat,,No,Querétaro,107100.0
+2015,,Sonic,,Si,EDOMEX,79100.0
+2018,,Logan,,No,CDMX,86800.0
+2020,,Kwid,,No,,98000.0
+2012,,March,,No,CDMX,57680.0
+2021,,Vento,,No,CDMX,123900.0
+2014,,Vento,,Si,CDMX,84700.0
+2017,,Attitude,,Si,CDMX,83300.0
+2017,,Versa,,No,EDOMEX,100100.0
+2017,,Jetta Clasico,,Si,EDOMEX,79800.0
+2020,,Duster,,No,,119000.0
+2022,,Mazda 3,,Si,CDMX,186200.0
+2017,,Yaris,,Si,CDMX,105700.0
+2015,,Malibu,,No,,128800.0
+2015,,CR-V,,Si,,165900.0
+2012,,Sentra,,Si,,67900.0
+2015,,Duster,,Si,CDMX,92400.0
+2015,,FIT,,No,CDMX,100800.0
+2013,,Sentra,,Si,EDOMEX,79100.0
+2019,,Beat,,Si,EDOMEX,103600.0
+2017,,Sentra,,Si,CDMX,126000.0
+2023,,Mazda 3,,Si,CDMX,198800.0
+2015,,Stepway,,No,CDMX,76300.0
+2012,,Ikon,,Si,CDMX,46270.0
+2017,,Neon,,Si,CDMX,111300.0
+2015,,Tiida,,No,EDOMEX,63140.0
+2017,,Sentra,,Si,CDMX,126000.0
+2012,,Civic,,Si,CDMX,89600.0
+2016,,Tiida,,Si,CDMX,72800.0
+2014,,Grand Cherokee,,Si,CDMX,277900.0
+2019,,SORENTO,,Si,CDMX,240100.0
+2016,,Versa,,Si,CDMX,95200.0
+2012,,Gol,,Si,EDOMEX,49700.0
+2018,,Vento,,Si,,105000.0
+2015,,Versa,,Si,EDOMEX,85400.0
+2013,,Jetta Nuevo,,Si,CDMX,105000.0
+2014,,Navigator,,Si,EDOMEX,172900.0
+2016,,Civic,,Si,,136500.0
+2016,,Figo,,No,EDOMEX,77700.0
+2020,,GRAND I10,,No,CDMX,101150.0
+2016,,Vento,,Si,EDOMEX,86100.0
+2017,,Sonic,,Si,CDMX,104300.0
+2015,,Sonic,,Si,CDMX,84000.0
+2015,,Versa,,Si,EDOMEX,82600.0
+2016,,Gol,,No,EDOMEX,73500.0
+2019,,Cavalier,,No,CDMX,124600.0
+2013,,CX9,,Si,CDMX,127400.0
+2012,,Gol,,No,EDOMEX,46900.0
+2017,,Aveo,,No,EDOMEX,70700.0
+2013,,Gol,,No,CDMX,54600.0
+2020,,Figo,,No,CDMX,116690.0
+2017,,City,,Si,EDOMEX,121100.0
+2016,,Versa,,No,CDMX,89600.0
+2018,,Beat,,Si,CDMX,83300.0
+2015,,Fluence,,Si,CDMX,91700.0
+2019,,Pathfinder,,Si,CDMX,291200.0
+2012,,Forester,,Si,,108500.0
+2017,,Sentra,,Si,CDMX,121800.0
+2021,,RIO,,Si,CDMX,139300.0
+2019,,Beat,,Si,EDOMEX,77700.0
+2021,,Versa,,Si,EDOMEX,145600.0
+2018,,Aveo,,Si,EDOMEX,90020.0
+2018,,SOUL,,Si,CDMX,184800.0
+2020,,Aveo,,No,EDOMEX,105560.0
+2017,,Sonic,,Si,EDOMEX,108500.0
+2015,,Trax,,Si,CDMX,114800.0
+2014,,Sonic,,Si,CDMX,77700.0
+2015,,Ibiza,,Si,EDOMEX,88200.0
+2012,,Clase C,,Si,EDOMEX,109200.0
+2020,,Aveo,,Si,CDMX,105560.0
+2017,,March,,Si,EDOMEX,72940.0
+2012,,Ibiza,,Si,CDMX,66500.0
+2017,,Journey,,Si,CDMX,168700.0
+2018,,FORTE,,Si,EDOMEX,140000.0
+2012,,Sentra,,Si,CDMX,67200.0
+2019,,Yaris,,No,,111300.0
+2017,,Spark,,Si,EDOMEX,66430.0
+2018,,Captur,,Si,CDMX,130410.0
+2012,,Explorer,,Si,EDOMEX,130200.0
+2022,,RAV4,,Si,,306600.0
+2014,,Vento,,No,CDMX,88200.0
+2018,,Toledo,,Si,CDMX,139300.0
+2012,,Touareg,,Si,EDOMEX,146300.0
+2016,,CX3,,Si,EDOMEX,148400.0
+2022,,Civic,,Si,,294000.0
+2017,,Spark,,Si,EDOMEX,76300.0
+2020,,RIO,,Si,EDOMEX,141400.0
+2015,,Aveo,,No,CDMX,58310.0
+2018,,Beat,,Si,CDMX,80500.0
+2018,,Frontier,,Si,EDOMEX,186200.0
+2017,,Trax,,Si,EDOMEX,129500.0
+2015,,Ibiza,,Si,EDOMEX,84700.0
+2017,,Yaris,,Si,CDMX,110600.0
+2016,,Jetta Nuevo,,Si,EDOMEX,124600.0
+2018,,Attitude,,Si,EDOMEX,83300.0
+2019,,Beat,,Si,CDMX,92400.0
+2015,,Focus,,Si,,100800.0
+2018,,SPORTAGE,,Si,,213500.0
+2020,,Aveo,,Si,EDOMEX,105560.0
+2021,,Beat,,Si,EDOMEX,112000.0
+2018,,Beat,,Si,CDMX,96600.0
+2017,,Ducato Van,,No,EDOMEX,183400.0
+2014,,A5,,Si,CDMX,149100.0
+2020,,Vento,,Si,CDMX,115500.0
+2012,,Chrysler 200,,Si,,62300.0
+2021,,Onix,,Si,EDOMEX,144200.0
+2014,,Aveo,,Si,CDMX,57120.0
+2016,,Figo,,No,CDMX,83300.0
+2014,,Fiesta,,No,CDMX,68600.0
+2014,,Vento,,Si,EDOMEX,84000.0
+2012,,Grand Vitara,,Si,CDMX,88200.0
+2013,,Sentra,,Si,CDMX,81900.0
+2015,,Ibiza,,Si,CDMX,98700.0
+2014,,Journey,,No,CDMX,117600.0
+2018,,Vento,,Si,CDMX,110600.0
+2016,,Versa,,Si,CDMX,89600.0
+2019,,City,,No,EDOMEX,146300.0
+2015,,Chrysler 200,,Si,,109200.0
+2013,,Cruze,,Si,CDMX,63000.0
+2016,,Lobo,,No,CDMX,350000.0
+2013,,Aveo,,Si,EDOMEX,50750.0
+2020,,Attitude,,Si,CDMX,108500.0
+2016,,FORTE,,Si,CDMX,108500.0
+2015,,Vento,,No,CDMX,83300.0
+2013,,Fusion,,Si,CDMX,86100.0
+2017,,Mirage,,Si,,82600.0
+2020,,Gol,,Si,CDMX,113400.0
+2016,,Mirage,,Si,CDMX,63420.0
+2017,,Versa,,Si,,100100.0
+2018,,Jetta Nuevo,,Si,CDMX,112000.0
+2022,,Clase E,,Si,EDOMEX,350000.0
+2020,,Aveo,,Si,CDMX,121940.0
+2017,,X Trail,,No,EDOMEX,158200.0
+2019,,Clase GLE,,Si,CDMX,350000.0
+2018,,Vento,,No,EDOMEX,110600.0
+2020,,Ertiga,,Si,EDOMEX,147700.0
+2016,,Sonic,,Si,CDMX,86800.0
+2018,,Vento,,Si,CDMX,103600.0
+2013,,Leon,,Si,,98000.0
+2016,,Yaris,,Si,CDMX,97300.0
+2012,,Jetta Clasico,,Si,CDMX,84700.0
+2017,,Vento,,Si,CDMX,93800.0
+2016,,Fiesta,,No,EDOMEX,90300.0
+2012,,Focus,,Si,CDMX,61600.0
+2018,,RIO,,Si,EDOMEX,121100.0
+2014,,Aveo,,Si,CDMX,54740.0
+2017,,Figo,,No,EDOMEX,81410.0
+2015,,Fiesta,,Si,EDOMEX,79100.0
+2014,,CC,,Si,CDMX,117600.0
+2013,,207,,Si,EDOMEX,53340.0
+2012,,Gol,,Si,CDMX,58100.0
+2017,,Gol,,Si,CDMX,81900.0
+2017,,Fiesta,,Si,CDMX,104300.0
+2018,,Tiguan,,Si,CDMX,205800.0
+2015,,ELANTRA,,Si,CDMX,93800.0
+2017,,Vento,,Si,EDOMEX,93800.0
+2015,,Avanza,,Si,EDOMEX,96600.0
+2018,,Beetle,,No,EDOMEX,165900.0
+2013,,Fiesta,,Si,EDOMEX,64400.0
+2012,,Stepway,,Si,,62580.0
+2015,,Cherokee,,Si,CDMX,177800.0
+2012,,Gol,,Si,,46900.0
+2021,,301,,Si,EDOMEX,130200.0
+2022,,X1,,Si,,383600.0
+2019,,City,,Si,,146300.0
+2015,,XV,,Si,CDMX,128800.0
+2021,,RIO,,No,EDOMEX,141400.0
+2013,,Aveo,,Si,CDMX,50750.0
+2015,,Versa,,Si,CDMX,81900.0
+2015,,Malibu,,Si,,112700.0
+2018,,Frontier,,Si,,186200.0
+2017,,Jetta Nuevo,,Si,CDMX,116900.0
+2018,,Vento,,Si,CDMX,109900.0
+2015,,Kangoo Express,,No,CDMX,79800.0
+2016,,Aveo,,Si,EDOMEX,68600.0
+2015,,CR-V,,Si,EDOMEX,167300.0
+2013,,Jetta Nuevo,,Si,CDMX,101500.0
+2016,,Charger,,No,CDMX,159600.0
+2016,,Jetta Nuevo,,Si,EDOMEX,154000.0
+2017,,City,,Si,EDOMEX,122500.0
+2015,,Tacoma,,Si,,224700.0
+2020,,Aveo,,Si,CDMX,122570.0
+2018,,Versa,,Si,CDMX,110600.0
+2018,,Vento,,Si,CDMX,100800.0
+2023,,Aveo,,Si,EDOMEX,149030.0
+2015,,Sonic,,Si,EDOMEX,84000.0
+2017,,Fluence,,Si,CDMX,93800.0
+2012,,Versa,,No,EDOMEX,62790.0
+2018,,Jetta Nuevo,,Si,CDMX,147700.0
+2017,,Versa,,Si,CDMX,110600.0
+2018,,Polo,,Si,CDMX,108500.0
+2015,,Aveo,,Si,EDOMEX,67900.0
+2018,,SEI3,,Si,CDMX,123900.0
+2016,,Ram 1500,,Si,,245000.0
+2013,,Sentra,,Si,CDMX,81900.0
+2018,,March,,Si,CDMX,95200.0
+2020,,Versa,,Si,EDOMEX,150500.0
+2020,,Mazda 2,,No,EDOMEX,148400.0
+2016,,Mazda 3,,Si,CDMX,121800.0
+2015,,Sentra,,Si,CDMX,102200.0
+2015,,URVAN,,Si,EDOMEX,114100.0
+2017,,Sandero,,No,CDMX,72100.0
+2023,,Odyssey,,Si,CDMX,548100.0
+2019,,Yaris,,Si,,111300.0
+2015,,Sonic,,Si,CDMX,84000.0
+2023,,March,,No,EDOMEX,122570.0
+2020,,Virtus,,Si,CDMX,142100.0
+2022,,2008,,No,CDMX,253400.0
+2017,,Outlander,,Si,CDMX,168700.0
+2019,,Vento,,Si,EDOMEX,107100.0
+2013,,Passat,,Si,EDOMEX,89600.0
+2012,,Aveo,,Si,CDMX,46550.0
+2017,,Sentra,,Si,EDOMEX,121800.0
+2015,,Ikon,,Si,CDMX,64610.0
+2013,,Versa,,Si,CDMX,74400.0
+2015,,Serie 2,,Si,CDMX,174300.0
+2020,,Beat,,Si,EDOMEX,113400.0
+2016,,Aveo,,Si,CDMX,65800.0
+2018,,Aveo,,Si,EDOMEX,86310.0
+2016,,Sonic,,Si,CDMX,98000.0
+2012,,Jetta Clasico,,Si,EDOMEX,65800.0
+2017,,Q50,,No,CDMX,245700.0
+2017,,Trax,,Si,EDOMEX,129500.0
+2020,,ACCENT,,No,EDOMEX,129360.0
+2017,,Versa,,No,EDOMEX,92400.0
+2023,,Captiva,,Si,CDMX,247200.0
+2020,,SOUL,,Si,CDMX,158200.0
+2012,,Tiida,,Si,CDMX,53970.0
+2013,,Cruze,,Si,EDOMEX,65800.0
+2015,,Tiida,,Si,CDMX,64610.0
+2021,,GRAND I10,,Si,CDMX,123200.0
+2021,,SPORTAGE,,Si,CDMX,250600.0
+2017,,Vento,,Si,CDMX,100100.0
+2016,,Toledo,,Si,CDMX,88900.0
+2012,,Focus,,Si,EDOMEX,77700.0
+2021,,Onix,,Si,CDMX,130200.0
+2022,,Versa,,Si,CDMX,159600.0
+2021,,Spark,,No,EDOMEX,138740.0
+2018,,Vento,,Si,EDOMEX,96600.0
+2016,,Clase GLA,,Si,CDMX,191100.0
+2018,,Versa,,No,CDMX,102200.0
+2012,,500,,Si,CDMX,72800.0
+2015,,Swift,,Si,EDOMEX,84700.0
+2017,,Spark,,Si,CDMX,71400.0
+2012,,Avenger,,Si,CDMX,58100.0
+2015,,Aveo,,Si,CDMX,58310.0
+2019,,Beat,,Si,CDMX,108500.0
+2020,,Kwid,,Si,CDMX,86100.0
+2023,,Onix,,No,EDOMEX,149100.0
+2014,,Pathfinder,,Si,EDOMEX,161700.0
+2013,,Terrain,,No,EDOMEX,124600.0
+2020,,URVAN,,Si,EDOMEX,196000.0
+2018,,March,,No,CDMX,78470.0
+2015,,Tsuru,,Si,CDMX,59710.0
+2018,,Toledo,,Si,CDMX,114800.0
+2013,,Gol,,Si,EDOMEX,54600.0
+2017,,Versa,,Si,CDMX,92400.0
+2015,,Polo,,Si,CDMX,85400.0
+2012,,Aveo,,Si,EDOMEX,54110.0
+2017,,SPORTAGE,,Si,EDOMEX,172200.0
+2019,,Aveo,,Si,CDMX,103250.0
+2012,,Aveo,,Si,CDMX,53830.0
+2018,,Attitude,,Si,EDOMEX,84700.0
+2014,,Passat,,Si,CDMX,96600.0
+2018,,Gol,,Si,,88900.0
+2012,,Spark,,Si,CDMX,45570.0
+2017,,Spark,,Si,EDOMEX,66430.0
+2020,,SEDONA,,Si,CDMX,269500.0
+2022,,GIULIA,,Si,,979300.0
+2022,,Aveo,,No,,123900.0
+2018,,Gol,,Si,CDMX,88900.0
+2012,,Fluence,,Si,EDOMEX,74200.0
+2018,,Vento,,Si,CDMX,100800.0
+2020,,Aveo,,Si,CDMX,105560.0
+2016,,Jetta Nuevo,,Si,,107800.0
+2017,,CRETA,,Si,EDOMEX,147700.0
+2014,,Uno,,Si,CDMX,59780.0
+2021,,Vento,,Si,EDOMEX,138600.0
+2015,,Sonic,,Si,CDMX,84000.0
+2012,,Liberty,,Si,EDOMEX,91000.0
+2016,,Attitude,,Si,CDMX,70700.0
+2015,,Camry,,Si,EDOMEX,142100.0
+2014,,Clase A,,Si,,111300.0
+2015,,March,,Si,CDMX,84700.0
+2019,,CX5,,Si,CDMX,228900.0
+2018,,Attitude,,Si,CDMX,84700.0
+2016,,Jetta Nuevo,,Si,CDMX,105700.0
+2014,,Vento,,Si,EDOMEX,77700.0
+2014,,Vento,,No,CDMX,84000.0
+2018,,Civic,,Si,CDMX,184800.0
+2017,,Sienna,,Si,CDMX,208600.0
+2019,,Figo,,Si,EDOMEX,106610.0
+2018,,Eco Sport,,Si,EDOMEX,168140.0
+2020,,Aveo,,No,CDMX,105560.0
+2017,,Vento,,Si,EDOMEX,100100.0
+2017,,Cruze,,Si,EDOMEX,128100.0
+2019,,KICKS,,Si,CDMX,189700.0
+2018,,Cavalier,,Si,EDOMEX,133420.0
+2016,,Camaro,,Si,EDOMEX,222600.0
+2022,,CX5,,Si,CDMX,321300.0
+2019,,Serie 2,,No,CDMX,277200.0
+2015,,Palio,,Si,CDMX,70000.0
+2017,,Versa,,No,CDMX,99400.0
+2017,,Sandero,,Si,CDMX,95200.0
+2022,,Versa,,No,EDOMEX,159600.0
+2017,,Versa,,Si,EDOMEX,100100.0
+2012,,Stepway,,Si,CDMX,62580.0
+2012,,Swift,,No,CDMX,72100.0
+2018,,March,,Si,EDOMEX,87640.0
+2018,,CX5,,Si,,226800.0
+2018,,Vento,,Si,EDOMEX,96600.0
+2017,,Tiida,,Si,EDOMEX,76300.0
+2016,,UP,,Si,EDOMEX,76300.0
+2018,,Vento,,Si,EDOMEX,96600.0
+2017,,Versa,,Si,EDOMEX,97300.0
+2012,,Sonic,,Si,CDMX,63210.0
+2017,,CRETA,,Si,CDMX,138600.0
+2018,,Vento,,Si,CDMX,96600.0
+2018,,Vento,,Si,CDMX,117600.0
+2014,,Fiesta,,Si,EDOMEX,74900.0
+2020,,CRETA,,Si,EDOMEX,196770.0
+2014,,Aveo,,Si,CDMX,61320.0
+2012,,Sentra,,Si,EDOMEX,63770.0
+2016,,Versa,,Si,CDMX,86100.0
+2019,,City,,Si,,137200.0
+2015,,Avanza,,Si,EDOMEX,98700.0
+2019,,ACCENT,,Si,EDOMEX,121520.0
+2013,,Mazda 3,,Si,CDMX,81200.0
+2018,,Avanza,,No,CDMX,124600.0
+2018,,Aveo,,Si,EDOMEX,105070.0
+2019,,Estacas,,Si,CDMX,168000.0
+2016,,Sonic,,No,CDMX,88200.0
+2019,,Clase GLE,,Si,CDMX,350000.0
+2015,,Fluence,,Si,CDMX,80500.0
+2019,,Versa,,No,EDOMEX,114100.0
+2013,,Tsuru,,Si,EDOMEX,49070.0
+2016,,Aveo,,Si,EDOMEX,65800.0
+2020,,Kwid,,Si,CDMX,93100.0
+2023,,MG5,,Si,CDMX,160800.0
+2018,,FORTE,,Si,EDOMEX,136500.0
+2012,,Gol,,Si,CDMX,46900.0
+2016,,Sonic,,Si,EDOMEX,98000.0
+2020,,Versa,,Si,CDMX,124600.0
+2015,,Aveo,,No,EDOMEX,58310.0
+2020,,Cavalier,,Si,CDMX,163100.0
+2019,,A5,,Si,CDMX,394100.0
+2017,,Versa,,Si,CDMX,105700.0
+2017,,RIO,,Si,CDMX,112700.0
+2019,,Amarok,,Si,CDMX,252700.0
+2013,,Escape,,Si,EDOMEX,114800.0
+2019,,A4,,Si,,277200.0
+2013,,Versa,,Si,EDOMEX,71400.0
+2014,,Ibiza,,Si,EDOMEX,89600.0
+2018,,March,,Si,CDMX,113400.0
+2020,,Hiace,,Si,EDOMEX,219800.0
+2017,,RIO,,Si,CDMX,106400.0
+2022,,Mustang,,Si,,1259300.0
+2017,,Clase GLC,,Si,CDMX,330400.0
+2020,,GRAND I10,,Si,EDOMEX,93170.0
+2017,,Vision,,No,EDOMEX,82600.0
+2015,,Trax,,Si,CDMX,114800.0
+2013,,207,,Si,EDOMEX,58800.0
+2015,,Sonic,,Si,CDMX,77000.0
+2017,,Versa,,Si,CDMX,92400.0
+2016,,CX5,,Si,Nuevo León,143500.0
+2014,,Mazda 3,,Si,CDMX,121100.0
+2012,,CR-V,,Si,CDMX,123200.0
+2015,,Versa,,Si,CDMX,84000.0
+2018,,Duster,,Si,CDMX,119000.0
+2014,,Serie 5,,Si,CDMX,158400.0
+2014,,Captiva,,Si,EDOMEX,103600.0
+2014,,Spark,,Si,EDOMEX,41230.0
+2018,,Aveo,,Si,Querétaro,83230.0
+2017,,Spark,,Si,CDMX,78540.0
+2019,,Attitude,,Si,CDMX,100800.0
+2018,,Aveo,,Si,CDMX,100880.0
+2018,,Vento,,Si,EDOMEX,100800.0
+2017,,Aveo,,Si,Veracruz,73010.0
+2018,,Escape,,No,EDOMEX,189700.0
+2011,,Town,,Si,CDMX,100100.0
+2013,,Scala,,Si,EDOMEX,47670.0
+2018,,Figo,,Si,EDOMEX,94150.0
+2015,,301,,Si,EDOMEX,76300.0
+2015,,Odyssey,,No,CDMX,192500.0
+2023,,Sentra,,Si,,216300.0
+2015,,Serie 1,,Si,CDMX,121800.0
+2015,,Vento,,Si,CDMX,84000.0
+2011,,CC,,Si,EDOMEX,80500.0
+2019,,Vento,,Si,CDMX,106400.0
+2018,,Ibiza,,Si,CDMX,144200.0
+2017,,Passat,,Si,CDMX,155400.0
+2020,,Ranger,,Si,EDOMEX,256200.0
+2011,,Serie 1,,Si,CDMX,92400.0
+2018,,Vento,,Si,CDMX,96600.0
+2018,,FORTE,,Si,CDMX,125300.0
+2012,,Scala,,Si,CDMX,44660.0
+2018,,Neon,,Si,EDOMEX,116480.0
+2014,,Duster,,Si,,82600.0
+2018,,Aveo,,Si,EDOMEX,99260.0
+2022,,RDX,,Si,CDMX,508200.0
+2011,,Tiida,,Si,,47180.0
+2013,,MINI S,,Si,CDMX,134400.0
+2022,,Groove,,Si,EDOMEX,179900.0
+2013,,Outlander,,Si,CDMX,95900.0
+2019,,CR-V,,Si,CDMX,238700.0
+2018,,Aveo,,Si,EDOMEX,80080.0
+2011,,Ibiza,,Si,EDOMEX,60200.0
+2021,,Onix,,Si,CDMX,146300.0
+2020,,Serie 1,,Si,CDMX,285600.0
+2017,,A4,,Si,CDMX,217000.0
+2014,,Aveo,,Si,CDMX,61600.0
+2017,,Attitude,,Si,CDMX,88900.0
+2017,,RDX,,No,EDOMEX,220500.0
+2021,,March,,Si,CDMX,151200.0
+2019,,Traverse,,Si,EDOMEX,354200.0
+2017,,Vento,,No,CDMX,98000.0
+2016,,FIT,,Si,CDMX,107800.0
+2011,,Rogue,,Si,CDMX,76300.0
+2021,,Versa,,Si,CDMX,149800.0
+2016,,Golf,,Si,EDOMEX,144900.0
+2018,,Aveo,,No,CDMX,89740.0
+2017,,Spark,,Si,CDMX,80500.0
+2016,,ELANTRA,,Si,CDMX,106400.0
+2016,,Jetta Nuevo,,Si,CDMX,107800.0
+2012,,Traverse,,Si,,109200.0
+2017,,Jetta Nuevo,,Si,EDOMEX,112700.0
+2018,,Serie 1,,Si,CDMX,185500.0
+2018,,Leon,,Si,CDMX,223300.0
+2020,,Vento,,Si,CDMX,121100.0
+2016,,Jetta Nuevo,,Si,CDMX,121100.0
+2019,,GRAND I10,,Si,CDMX,109340.0
+2019,,RIO,,Si,EDOMEX,140000.0
+2012,,Attitude,,Si,EDOMEX,51730.0
+2018,,Escape,,No,CDMX,180600.0
+2021,,Ibiza,,Si,,151900.0
+2011,,X3,,Si,CDMX,144200.0
+2017,,Yaris,,Si,CDMX,98700.0
+2017,,Sentra,,Si,EDOMEX,122500.0
+2020,,Civic,,Si,,245000.0
+2013,,Ram 2500,,Si,EDOMEX,162400.0
+2013,,500,,No,CDMX,100800.0
+2015,,ASX,,Si,EDOMEX,109900.0
+2011,,Accord,,No,EDOMEX,81900.0
+2022,,RIO,,Si,CDMX,143500.0
+2015,,Ikon,,Si,,61110.0
+2012,,Chrysler 200,,Si,EDOMEX,56000.0
+2015,,301,,Si,CDMX,66500.0
+2014,,Spark,,Si,EDOMEX,48860.0
+2019,,Beat,,Si,CDMX,90300.0
+2020,,Versa,,Si,EDOMEX,136500.0
+2016,,Sienna,,Si,EDOMEX,184800.0
+2017,,Spark,,Si,EDOMEX,79730.0
+2020,,Serie 3,,Si,CDMX,515900.0
+2016,,Spark,,Si,CDMX,57680.0
+2019,,Golf,,Si,CDMX,262500.0
+2013,,Corolla,,Si,CDMX,85400.0
+2013,,Attitude,,Si,CDMX,61600.0
+2013,,Outlander,,Si,CDMX,95900.0
+2014,,Focus,,Si,CDMX,72100.0
+2013,,Aveo,,Si,CDMX,49420.0
+2017,,CRETA,,Si,CDMX,137900.0
+2016,,Corolla,,Si,CDMX,113600.0
+2019,,Aveo,,No,EDOMEX,95480.0
+2018,,MINI S,,No,EDOMEX,226100.0
+2016,,Yaris,,Si,EDOMEX,95200.0
+2014,,Compass,,Si,CDMX,105000.0
+2014,,Grand Cherokee,,Si,EDOMEX,200900.0
+2016,,208,,Si,CDMX,93100.0
+2015,,Jetta Nuevo,,Si,CDMX,95900.0
+2019,,Versa,,Si,EDOMEX,102200.0
+2020,,Cavalier,,No,EDOMEX,139300.0
+2012,,Trafic Panel,,No,EDOMEX,70000.0
+2020,,Ranger,,Si,,231000.0
+2020,,S60,,Si,CDMX,289800.0
+2020,,Avanza,,Si,CDMX,140000.0
+2013,,XC60,,Si,EDOMEX,109900.0
+2018,,March,,Si,CDMX,77280.0
+2014,,S-Cross,,Si,CDMX,87500.0
+2017,,Ibiza,,Si,EDOMEX,122500.0
+2020,,Jetta Nuevo,,No,CDMX,252000.0
+2020,,Versa,,Si,CDMX,136500.0
+2019,,Mazda 3,,Si,,169400.0
+2013,,Odyssey,,Si,EDOMEX,133000.0
+2019,,Figo,,Si,CDMX,102760.0
+2019,,Clase GLA,,Si,CDMX,465500.0
+2016,,RDX,,Si,CDMX,194600.0
+2017,,Prius,,Si,CDMX,154700.0
+2021,,ACCENT,,Si,EDOMEX,130410.0
+2012,,Focus,,Si,EDOMEX,65800.0
+2018,,Aveo,,Si,,93730.0
+2016,,Ibiza,,Si,CDMX,99400.0
+2014,,Vento,,Si,CDMX,70700.0
+2013,,Grand Cherokee,,Si,EDOMEX,147700.0
+2018,,Sentra,,Si,EDOMEX,142100.0
+2017,,Silverado 1500,,Si,CDMX,193900.0
+2016,,Versa,,Si,CDMX,89600.0
+2014,,208,,Si,EDOMEX,78400.0
+2018,,Sentra,,No,EDOMEX,139300.0
+2018,,Frontier,,Si,CDMX,183400.0
+2020,,Mobi,,Si,CDMX,91560.0
+2021,,Mazda 2,,Si,,165200.0
+2017,,Explorer,,Si,,294000.0
+2017,,Sentra,,Si,CDMX,120400.0
+2014,,Aveo,,Si,EDOMEX,59500.0
+2012,,Compass,,Si,CDMX,102900.0
+2018,,Swift,,Si,EDOMEX,110600.0
+2019,,Captur,,Si,EDOMEX,146160.0
+2022,,Lobo,,Si,,756700.0
+2012,,Journey,,Si,,86100.0
+2017,,X25,,Si,EDOMEX,95200.0
+2020,,MDX,,No,,408100.0
+2016,,Gol,,Si,EDOMEX,72800.0
+2015,,508,,Si,CDMX,118300.0
+2017,,ELANTRA,,No,CDMX,116200.0
+2014,,Gol,,Si,CDMX,61600.0
+2023,,Escalade,,Si,CDMX,1288700.0
+2013,,Crossfox,,Si,EDOMEX,82600.0
+2014,,Vento,,Si,CDMX,70700.0
+2018,,Vento,,No,CDMX,93100.0
+2020,,Swift,,Si,CDMX,133000.0
+2012,,Sonic,,Si,CDMX,56840.0
+2012,,Expedition,,Si,EDOMEX,135100.0
+2015,,Tiguan,,Si,CDMX,123900.0
+2018,,Hiace,,Si,CDMX,189000.0
+2012,,Tiida,,Si,EDOMEX,59780.0
+2019,,Versa,,Si,CDMX,102200.0
+2018,,ACCENT,,Si,CDMX,105490.0
+2017,,Jetta Nuevo,,Si,,112700.0
+2019,,BEAT,,Si,EDOMEX,146300.0
+2017,,Prius,,Si,CDMX,172200.0
+2018,,Versa,,Si,EDOMEX,110600.0
+2017,,SOUL,,Si,EDOMEX,123200.0
+2017,,Gol,,Si,CDMX,78400.0
+2018,,Jetta Nuevo,,Si,EDOMEX,128100.0
+2016,,Tiida,,Si,CDMX,66500.0
+2021,,Prius,,Si,CDMX,169400.0
+2020,,March,,Si,CDMX,124600.0
+2021,,Onix,,No,EDOMEX,147000.0
+2020,,Aveo,,Si,EDOMEX,111930.0
+2023,,RIO,,Si,CDMX,153300.0
+2016,,Versa,,Si,EDOMEX,89600.0
+2019,,Frontier,,Si,CDMX,186900.0
+2016,,Ciaz,,Si,CDMX,88200.0
+2019,,SORENTO,,No,EDOMEX,230300.0
+2011,,Lancer,,Si,CDMX,65100.0
+2019,,X3,,Si,CDMX,445200.0
+2018,,March,,Si,CDMX,95200.0
+2017,,Serie 2,,Si,CDMX,203700.0
+2017,,Sentra,,Si,EDOMEX,116200.0
+2012,,CX7,,Si,,93100.0
+2017,,Ibiza,,Si,CDMX,118300.0
+2011,,SRX,,Si,CDMX,103600.0
+2011,,CR-V,,Si,CDMX,105700.0
+2014,,QX80,,Si,EDOMEX,229600.0
+2019,,RIO,,Si,EDOMEX,115500.0
+2015,,Clase C,,Si,EDOMEX,160300.0
+2018,,X4,,Si,CDMX,310800.0
+2019,,Encore,,Si,EDOMEX,219800.0
+2016,,Figo,,Si,CDMX,85400.0
+2017,,Prius,,Si,CDMX,172200.0
+2017,,Gol,,Si,CDMX,78400.0
+2018,,Logan,,Si,EDOMEX,81900.0
+2016,,Serie 5,,Si,CDMX,193200.0
+2020,,Vento,,Si,EDOMEX,122500.0
+2017,,Versa,,Si,CDMX,100100.0
+2011,,Sienna,,Si,CDMX,111300.0
+2013,,Aveo,,Si,EDOMEX,49420.0
+2023,,X Trail,,Si,EDOMEX,325600.0
+2013,,V40,,Si,EDOMEX,108500.0
+2012,,CR-V,,Si,CDMX,136500.0
+2011,,Journey,,Si,EDOMEX,80500.0
+2016,,Sonic,,Si,CDMX,98700.0
+2021,,Spark,,No,EDOMEX,141260.0
+2022,,Swift,,Si,,176400.0
+2018,,ACCENT,,Si,EDOMEX,103740.0
+2011,,Acadia,,Si,,109200.0
+2015,,Fiesta,,No,EDOMEX,74200.0
+2017,,Gol,,Si,CDMX,77000.0
+2017,,A4,,Si,CDMX,205100.0
+2017,,Mazda 3,,Si,CDMX,154000.0
+2023,,CX3,,Si,CDMX,191200.0
+2011,,Fusion,,Si,EDOMEX,59500.0
+2016,,Ciaz,,Si,,91000.0
+2012,,Accord,,Si,CDMX,103600.0
+2020,,Polo,,Si,EDOMEX,118300.0
+2017,,Sonic,,Si,CDMX,96600.0
+2016,,CX5,,Si,CDMX,160300.0
+2020,,Polo,,Si,CDMX,109900.0
+2017,,Golf,,Si,CDMX,154000.0
+2014,,Serie 1,,Si,EDOMEX,122500.0
+2011,,Tiida,,Si,CDMX,46130.0
+2018,,Explorer,,Si,CDMX,297500.0
+2011,,Malibu,,Si,CDMX,72800.0
+2012,,Aveo,,Si,CDMX,49000.0
+2016,,Sentra,,No,CDMX,109900.0
+2016,,Civic,,Si,EDOMEX,144200.0
+2017,,Jetta Nuevo,,Si,,112000.0
+2016,,Attitude,,Si,CDMX,80500.0
+2018,,Fiesta,,Si,EDOMEX,98700.0
+2012,,Wrangler,,Si,CDMX,200200.0
+2023,,Mirage,,No,CDMX,135660.0
+2018,,Ram 1500,,No,EDOMEX,238000.0
+2011,,Patriot,,Si,,75600.0
+2014,,Note,,Si,CDMX,79800.0
+2017,,CONVERTIBLE,,Si,CDMX,214200.0
+2011,,Estacas,,No,CDMX,79800.0
+2012,,Civic,,Si,CDMX,86800.0
+2019,,Vento,,Si,EDOMEX,103600.0
+2020,,CX3,,Si,CDMX,184800.0
+2019,,X2,,Si,CDMX,246400.0
+2014,,Aveo,,Si,CDMX,52920.0
+2017,,Prius,,Si,EDOMEX,152600.0
+2018,,ACCENT,,Si,CDMX,126770.0
+2014,,Spark,,Si,EDOMEX,47320.0
+2021,,GRAND I10,,Si,EDOMEX,110460.0
+2017,,KICKS,,Si,CDMX,155120.0
+2012,,Aveo,,No,EDOMEX,52850.0
+2014,,Sonic,,Si,EDOMEX,70700.0
+2022,,Alsvin,,No,,122570.0
+2016,,SPORTAGE,,Si,CDMX,161000.0
+2015,,Stepway,,Si,,75600.0
+2016,,Spark,,Si,CDMX,58100.0
+2012,,207,,Si,,44240.0
+2012,,Rogue,,Si,CDMX,86100.0
+2014,,i10,,Si,EDOMEX,48020.0
+2012,,Clase E,,Si,CDMX,122500.0
+2012,,Fluence,,No,CDMX,56630.0
+2016,,Figo,,Si,CDMX,85400.0
+2017,,Ibiza,,Si,CDMX,100100.0
+2015,,Fluence,,Si,CDMX,70700.0
+2018,,Duster,,Si,EDOMEX,130900.0
+2012,,Liberty,,No,CDMX,87500.0
+2012,,Civic,,Si,EDOMEX,86100.0
+2021,,Ibiza,,No,CDMX,205100.0
+2012,,Spark,,Si,CDMX,41090.0
+2015,,Mustang,,Si,CDMX,217000.0
+2019,,Vento,,No,CDMX,120400.0
+2018,,Lobo,,Si,CDMX,399700.0
+2012,,Focus,,Si,CDMX,58800.0
+2013,,Suburban,,Si,CDMX,242900.0
+2013,,Focus,,Si,CDMX,74900.0
+2018,,ARONA,,Si,EDOMEX,146300.0
+2011,,Jetta Nuevo,,Si,EDOMEX,91700.0
+2019,,Yaris,,No,CDMX,118300.0
+2015,,Chrysler 200,,Si,CDMX,103600.0
+2018,,Aveo,,Si,,79450.0
+2016,,CX5,,Si,CDMX,165200.0
+2020,,Polo,,No,CDMX,119700.0
+2018,,Tiida,,Si,CDMX,85400.0
+2018,,Attitude,,Si,EDOMEX,89600.0
+2014,,Trax,,Si,,104300.0
+2013,,Avanza,,Si,CDMX,88200.0
+2012,,March,,Si,EDOMEX,54600.0
+2011,,HD,,Si,EDOMEX,137760.0
+2022,,MG5,,Si,CDMX,158200.0
+2017,,TUCSON,,Si,EDOMEX,165900.0
+2012,,Sentra,,Si,CDMX,62160.0
+2012,,Stepway,,Si,CDMX,61250.0
+2015,,Duster,,Si,CDMX,86800.0
+2011,,Fiesta,,Si,CDMX,46550.0
+2022,,HS,,Si,CDMX,242900.0
+2013,,Versa,,Si,CDMX,67550.0
+2016,,Jetta Nuevo,,Si,CDMX,108500.0
+2011,,Accord,,Si,CDMX,81900.0
+2017,,Clase GLE,,No,CDMX,494200.0
+2016,,HR-V,,Si,EDOMEX,144900.0
+2014,,Tsuru,,Si,EDOMEX,50610.0
+2014,,Sonic,,Si,EDOMEX,68530.0
+2015,,Sonic,,Si,CDMX,88900.0
+2022,,Grand Cherokee,,Si,CDMX,839300.0
+2013,,Tiguan,,Si,CDMX,104300.0
+2017,,KICKS,,Si,CDMX,139510.0
+2011,,Chevy,,Si,CDMX,37310.0
+2014,,Ibiza,,Si,EDOMEX,87500.0
+2021,,Sentra,,No,CDMX,174300.0
+2015,,Mirage,,Si,CDMX,59850.0
+2016,,Gol,,Si,CDMX,68600.0
+2015,,Sonic,,Si,EDOMEX,84000.0
+2016,,Jetta Nuevo,,Si,EDOMEX,103600.0
+2014,,208,,Si,EDOMEX,67900.0
+2020,,Aveo,,Si,EDOMEX,119700.0
+2018,,Vento,,Si,EDOMEX,95900.0
+2015,,Ibiza,,Si,EDOMEX,83300.0
+2014,,Jetta Clasico,,Si,CDMX,76300.0
+2014,,Cherokee,,Si,CDMX,142800.0
+2017,,Gol,,Si,,81200.0
+2015,,Vento,,Si,CDMX,76300.0
+2019,,Figo,,No,CDMX,101500.0
+2022,,Civic,,Si,CDMX,240800.0
+2021,,Explorer,,Si,CDMX,548800.0
+2013,,Suburban,,Si,EDOMEX,208600.0
+2019,,Aveo,,No,EDOMEX,101710.0
+2015,,March,,No,EDOMEX,65660.0
+2018,,March,,Si,CDMX,80220.0
+2013,,March,,Si,EDOMEX,69580.0
+2015,,Tiida,,Si,CDMX,60410.0
+2017,,Figo,,Si,EDOMEX,80080.0
+2012,,Wrangler,,Si,CDMX,225400.0
+2016,,Fiesta,,No,EDOMEX,76300.0
+2018,,CX3,,Si,CDMX,163100.0
+2022,,SPORTAGE,,No,CDMX,262500.0
+2016,,Sonic,,Si,CDMX,94500.0
+2021,,GRAND I10,,Si,CDMX,121310.0
+2015,,Clase M,,Si,CDMX,212100.0
+2011,,Tiida,,Si,CDMX,45500.0
+2021,,RDX,,No,,444500.0
+2016,,Beetle,,Si,CDMX,124600.0
+2015,,Vision,,Si,CDMX,68600.0
+2013,,Maxima,,Si,CDMX,95200.0
+2012,,Focus,,Si,CDMX,76300.0
+2017,,Vento,,No,CDMX,91000.0
+2011,,Mazda 3,,Si,CDMX,64330.0
+2019,,FIT,,Si,CDMX,142100.0
+2018,,Aveo,,Si,EDOMEX,83300.0
+2022,,2008,,Si,CDMX,230300.0
+2022,,Ertiga,,No,CDMX,191800.0
+2014,,Versa,,No,EDOMEX,74200.0
+2011,,CR-V,,Si,CDMX,108500.0
+2016,,Tiida,,No,CDMX,65800.0
+2014,,Gol,,Si,CDMX,59500.0
+2016,,Uno,,Si,CDMX,74200.0
+2023,,KICKS,,Si,CDMX,244300.0
+2012,,Mazda 3,,No,CDMX,88200.0
+2013,,Sonic,,Si,CDMX,67900.0
+2018,,,,Si,EDOMEX,96200.0
+2016,,,,Si,CDMX,237250.0
+2018,,,,Si,EDOMEX,55250.0
+2014,,Gol,,Si,CDMX,65800.0
+2017,,Aveo,,Si,EDOMEX,67900.0
+2020,,,,No,CDMX,117000.0
+2018,,,,No,EDOMEX,87100.0
+2013,,,,No,CDMX,73450.0
+2020,,,,Si,CDMX,145600.0
+2017,,RIO,,Si,CDMX,121100.0
+2020,,,,No,CDMX,117000.0
+2017,,Sentra,,Si,EDOMEX,126000.0
+2017,,,,Si,EDOMEX,115050.0
+2020,,,,No,EDOMEX,111085.0
+2013,,,,Si,,39260.0
+2015,,JEEP CHEROKEE LIMITED,,Si,CDMX,157300.0
+2018,,,,No,CDMX,102700.0
+2016,,,,Si,,79300.0
+2013,,,,Si,CDMX,157300.0
+2020,,,,Si,EDOMEX,101400.0
+2016,,,,Si,CDMX,275600.0
+2015,,Cruze,,No,CDMX,79100.0
+2014,,Altima,,Si,Sinaloa,96600.0
+2016,,Aveo,,No,EDOMEX,63000.0
+2019,,,,Si,,103350.0
+2012,,,,Si,CDMX,39455.0
+2020,,,,Si,CDMX,507650.0
+2016,,Vento,,No,CDMX,81900.0
+2018,,CIVIC,,Si,EDOMEX,80535.0
+2018,,March,,Si,CDMX,86730.0
+2017,,,,Si,CDMX,111150.0
+2017,,,,Si,CDMX,62400.0
+2017,,,,Si,EDOMEX,98150.0
+2013,,Swift,,Si,EDOMEX,80500.0
+2019,,Mazda 2,,Si,EDOMEX,129500.0
+2015,,March,,Si,EDOMEX,64680.0
+2012,,,,No,EDOMEX,48880.0
+2016,,Equinox,,Si,CDMX,140700.0
+2015,,,,,CDMX,56225.0
+2014,,,,Si,EDOMEX,49725.0
+2012,,,,Si,CDMX,117000.0
+2020,,,,Si,CDMX,96200.0
+2021,,Serie 3,,Si,Morelos,534950.0
+2014,,Compass,,Si,CDMX,106400.0
+2017,,FORTE,,Si,EDOMEX,135800.0
+2019,,Cavalier,,No,EDOMEX,136500.0
+2018,,Beat,,Si,EDOMEX,76300.0
+2018,,Versa,,Si,EDOMEX,117600.0
+2015,,Sonic,,No,CDMX,77000.0
+2017,,FORTE,,Si,EDOMEX,103600.0
+2012,,Tiida,,Si,EDOMEX,50050.0
+2017,,Spark,,Si,EDOMEX,58730.0
+2016,,Clase C,,No,CDMX,213500.0
+2011,,Gol,,Si,,41300.0
+2017,,Versa,,Si,CDMX,92400.0
+2017,,Aveo,,Si,CDMX,70210.0
+2012,,Town,,Si,CDMX,106400.0
+2021,,URVAN,,No,EDOMEX,225400.0
+2013,,,,Si,CDMX,58500.0
+2012,,Ibiza,,Si,EDOMEX,60900.0
+2019,,Vento,,Si,EDOMEX,98700.0
+2013,,Focus,,Si,CDMX,72800.0
+2021,,SELTOS,,Si,CDMX,235900.0
+2018,,KICKS,,Si,EDOMEX,151620.0
+2021,,MG5,,No,EDOMEX,127400.0
+2016,,Sentra,,Si,,109900.0
+2013,,Aveo,,Si,CDMX,49210.0
+2012,,X5,,Si,EDOMEX,350000.0
+2023,,Jetta Nuevo,,Si,CDMX,255500.0
+2018,,Cavalier,,Si,CDMX,124390.0
+2016,,FORTE,,Si,EDOMEX,110600.0
+2012,,Jetta Clasico,,Si,CDMX,72800.0
+2018,,Terrain,,Si,CDMX,239400.0
+2016,,SPORTAGE,,Si,EDOMEX,182000.0
+2016,,,,Si,EDOMEX,96850.0
+2014,,Versa,,Si,EDOMEX,78240.0
+2014,,Jetta Nuevo,,Si,CDMX,87500.0
+2013,,Aveo,,No,EDOMEX,51800.0
+2015,,Tiida,,Si,EDOMEX,61950.0
+2021,,Vento,,Si,CDMX,136500.0
+2021,,Ignis,,Si,CDMX,135100.0
+2018,,Beat,,Si,EDOMEX,69300.0
+2018,,Aveo,,No,CDMX,82040.0
+2019,,RIO,,Si,EDOMEX,115200.0
+2015,,Gol,,Si,EDOMEX,74200.0
+2018,,C-HR,,Si,CDMX,174300.0
+2020,,Aveo,,Si,CDMX,103110.0
+2016,,Sonic,,Si,CDMX,95200.0
+2018,,Aveo,,Si,CDMX,94010.0
+2016,,ELANTRA,,Si,CDMX,91000.0
+2017,,Cruze,,Si,CDMX,102200.0
+2014,,Versa,,Si,CDMX,79100.0
+2017,,Trax,,Si,CDMX,116900.0
+2013,,Focus,,Si,,77000.0
+2016,,Versa,,Si,CDMX,100800.0
+2015,,Duster,,Si,CDMX,86800.0
