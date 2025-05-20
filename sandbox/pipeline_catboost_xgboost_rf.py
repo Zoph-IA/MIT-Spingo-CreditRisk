@@ -127,6 +127,7 @@ def objective_catboost(trial: optuna.Trial, X: pd.DataFrame, y: pd.Series, categ
         "loss_function": "MAE",
         "random_seed": RANDOM_STATE,
         "verbose": False,
+        "task_type": "GPU" if cb.utils.get_gpu_device_count() > 0 else "CPU",
     }
     cat_names = [X.columns[c] if isinstance(c, (int, np.integer)) else c for c in categorical]
     cv = KFold(n_splits=N_FOLDS, shuffle=True, random_state=RANDOM_STATE)
@@ -169,6 +170,7 @@ def objective_xgboost(trial: optuna.Trial, X: pd.DataFrame, y: pd.Series):
         "colsample_bytree": trial.suggest_float("colsample_bytree", 0.5, 1.0),
         "gamma": trial.suggest_float("gamma", 0, 5.0),
         "n_estimators": trial.suggest_int("n_estimators", 300, 1500),
+        "tree_method": "gpu_hist" if xgb.context().gpu_id != -1 else "auto",
     }
     cv = KFold(n_splits=N_FOLDS, shuffle=True, random_state=RANDOM_STATE)
     maes = []
