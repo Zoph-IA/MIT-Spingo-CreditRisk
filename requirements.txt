@@ -1,0 +1,37 @@
+# --- Scientific core
+numpy
+pandas
+scikit-learn
+category_encoders
+
+# --- Tree and boosting model libraries
+xgboost
+lightgbm
+catboost
+
+# --- Hyperparameter optimization
+optuna
+
+# --- Experiment tracking and traceability
+mlflow
+
+# --- Explainability and error analysis
+shap
+
+# --- State-of-the-art tabular models (optional)
+pytorch-tabular
+pytorch-lightning
+tabnet
+transformers  # For FT-Transformer/tabtransformer
+
+# --- Visualization and reporting
+matplotlib
+seaborn
+plotly
+
+# --- Others
+tqdm
+joblib
+
+## 
+xlrd
