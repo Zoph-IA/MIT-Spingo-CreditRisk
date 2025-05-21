@@ -17,37 +17,30 @@ Requirements:
 Date: 2025‑05‑20
 """
 
-from __future__ import annotations
-
-import warnings
-
-warnings.filterwarnings("ignore")
-
 # ============================
 # 0. BASIC IMPORTS
 # ============================
-import os
+from __future__ import annotations
 from pathlib import Path
 import pandas as pd
 import numpy as np
-from typing import Tuple, List, Dict
-
-from sklearn.model_selection import KFold, RepeatedKFold, TimeSeriesSplit
+from typing import Tuple, List
+from sklearn.model_selection import KFold
 from sklearn.metrics import mean_absolute_error
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 from sklearn.ensemble import RandomForestRegressor, IsolationForest
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-
+from sklearn.preprocessing import StandardScaler
 import xgboost as xgb
 import catboost as cb
-
 import optuna
-
 import shap
+from category_encoders import TargetEncoder
 
-from catboost.utils import get_gpu_device_count
+import warnings
+
+warnings.filterwarnings("ignore")
 
 # ============================
 # 1. GLOBAL CONFIGURATION
@@ -84,12 +77,15 @@ def get_feature_lists(df: pd.DataFrame) -> Tuple[List[str], List[str]]:
     nums = [c for c in df.columns if c not in cats + [TARGET] + ID_COLS]
     return cats, nums
 
+
 def is_gpu_available():
     try:
         from catboost.utils import get_gpu_device_count
+
         return get_gpu_device_count() > 0
     except ImportError:
         return False
+
 
 # ============================
 # 3. FEATURE ENGINEERING
@@ -133,7 +129,6 @@ def add_group_aggregates_leak_free(
 # ============================
 # 4. TARGET / CATBOOST ENCODING
 # ============================
-from category_encoders import TargetEncoder
 
 
 def build_preprocessor(cat_cols, num_cols):
@@ -152,36 +147,36 @@ def objective_catboost(
     X: pd.DataFrame,
     y: pd.Series,
     categorical: list[str],
-    task_type: str
+    task_type: str,
 ) -> float:
     common = {
-        "iterations":   trial.suggest_int("iterations", 500, 1500),
-        "depth":        trial.suggest_int("depth", 4, 10),
+        "iterations": trial.suggest_int("iterations", 500, 1500),
+        "depth": trial.suggest_int("depth", 4, 10),
         "learning_rate": trial.suggest_float("learning_rate", 0.01, 0.2, log=True),
-        "l2_leaf_reg":  trial.suggest_float("l2_leaf_reg", 1e-3, 10.0, log=True),
+        "l2_leaf_reg": trial.suggest_float("l2_leaf_reg", 1e-3, 10.0, log=True),
         "loss_function": "MAE",
-        "eval_metric":   "MAE",
-        "random_seed":   RANDOM_STATE,
+        "eval_metric": "MAE",
+        "random_seed": RANDOM_STATE,
         "allow_writing_files": False,
     }
 
     gpu_fix = {
-        "task_type":    "GPU",
-        "devices":      "0",
+        "task_type": "GPU",
+        "devices": "0",
         "border_count": 254,
         "bootstrap_type": "MVS",
-        "subsample":    0.8,
-        "metric_period": 50
+        "subsample": 0.8,
+        "metric_period": 50,
     }
 
     params = (
-        {**common, **gpu_fix} if task_type.upper() == "GPU"
+        {**common, **gpu_fix}
+        if task_type.upper() == "GPU"
         else {**common, "task_type": "CPU"}
     )
 
     cat_names = [
-        X.columns[c] if isinstance(c, (int, np.integer)) else c
-        for c in categorical
+        X.columns[c] if isinstance(c, (int, np.integer)) else c for c in categorical
     ]
     cv = KFold(n_splits=N_FOLDS, shuffle=True, random_state=RANDOM_STATE)
     mae_scores = []
@@ -193,17 +188,19 @@ def objective_catboost(
         X_tr[cat_names] = X_tr[cat_names].astype("string")
         X_va[cat_names] = X_va[cat_names].astype("string")
 
-        model.fit(
-            X_tr, y.iloc[tr_idx],
-            eval_set=(X_va, y.iloc[va_idx]),
-            verbose=False
-        )
+        model.fit(X_tr, y.iloc[tr_idx], eval_set=(X_va, y.iloc[va_idx]), verbose=False)
         preds = model.predict(X_va)
         mae_scores.append(mean_absolute_error(y.iloc[va_idx], preds))
 
     return float(np.mean(mae_scores))
 
-def tune_catboost(X: pd.DataFrame, y: pd.Series, categorical: List, use_gpu: bool | None = None,):
+
+def tune_catboost(
+    X: pd.DataFrame,
+    y: pd.Series,
+    categorical: List,
+    use_gpu: bool | None = None,
+):
     cat_names = [
         X.columns[c] if isinstance(c, (int, np.integer)) else c for c in categorical
     ]
@@ -237,10 +234,13 @@ def tune_catboost(X: pd.DataFrame, y: pd.Series, categorical: List, use_gpu: boo
     best_model.fit(X_cat, y)
     return best_model
 
+
 # ============================
 # 6. OPTUNA HPO FOR XGBOOST
 # ============================
-def objective_xgboost(trial: optuna.Trial, X: pd.DataFrame, y: pd.Series, xgb_params: dict):
+def objective_xgboost(
+    trial: optuna.Trial, X: pd.DataFrame, y: pd.Series, xgb_params: dict
+):
     params = {
         "objective": "reg:absoluteerror",
         "eval_metric": "mae",
@@ -251,7 +251,7 @@ def objective_xgboost(trial: optuna.Trial, X: pd.DataFrame, y: pd.Series, xgb_pa
         "colsample_bytree": trial.suggest_float("colsample_bytree", 0.5, 1.0),
         "gamma": trial.suggest_float("gamma", 0, 5.0),
         "n_estimators": trial.suggest_int("n_estimators", 300, 1500),
-        **xgb_params
+        **xgb_params,
     }
 
     cv = KFold(n_splits=N_FOLDS, shuffle=True, random_state=RANDOM_STATE)
@@ -277,7 +277,6 @@ def objective_xgboost(trial: optuna.Trial, X: pd.DataFrame, y: pd.Series, xgb_pa
     return np.mean(maes)
 
 
-
 def tune_xgboost(X: pd.DataFrame, y: pd.Series, xgb_params: dict):
     study = optuna.create_study(direction="minimize")
     study.optimize(
@@ -292,10 +291,11 @@ def tune_xgboost(X: pd.DataFrame, y: pd.Series, xgb_params: dict):
         random_state=RANDOM_STATE,
         n_jobs=-1,
         early_stopping_rounds=50,
-        **xgb_params
+        **xgb_params,
     )
     best_model.fit(X, y, eval_set=[(X, y)], verbose=False)
     return best_model
+
 
 # ============================
 # 7. BASIC RANDOM FOREST
@@ -374,7 +374,13 @@ except ImportError:
     HAS_TABNET = False
 
 
-def train_tabnet(X: pd.DataFrame,y: pd.Series,use_gpu: bool | None = None,max_epochs: int = 120,patience: int = 15,):
+def train_tabnet(
+    X: pd.DataFrame,
+    y: pd.Series,
+    use_gpu: bool | None = None,
+    max_epochs: int = 120,
+    patience: int = 15,
+):
     if not HAS_TABNET:
         raise ImportError("pytorch-tabnet no instalado")
 
@@ -415,6 +421,7 @@ def train_tabnet(X: pd.DataFrame,y: pd.Series,use_gpu: bool | None = None,max_ep
     )
     return model
 
+
 # ============================
 # 12. MAIN PIPELINE
 # ============================
@@ -430,16 +437,15 @@ def run_pipeline(DATA_PATH: str):
         xgb_params = {
             "tree_method": "gpu_hist",
             "device": "cuda",
-            "predictor": "gpu_predictor"
+            "predictor": "gpu_predictor",
         }
     else:
         print("⚠️ No se detectó GPU: el entrenamiento se realizará en CPU.")
         xgb_params = {
             "tree_method": "hist",
             "device": "cpu",
-            "predictor": "cpu_predictor"
+            "predictor": "cpu_predictor",
         }
-
 
     print("🔍 Detecting categorical and numerical columns...")
     global CATEGORICAL_COLS, NUM_COLS
@@ -470,7 +476,7 @@ def run_pipeline(DATA_PATH: str):
 
     print("⚙️ Building preprocessor...")
     num_cols_valid = [c for c in NUM_COLS if c in train_df.columns]
-    cat_features_idx = [train_df.columns.get_loc(c) for c in cat_cols_valid]
+    [train_df.columns.get_loc(c) for c in cat_cols_valid]
     preprocessor = build_preprocessor(cat_cols_valid, num_cols_valid)
     X_train = preprocessor.fit_transform(train_df, y_train)
     X_test = preprocessor.transform(test_df)
