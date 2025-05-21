@@ -34,8 +34,8 @@ gk work commit --ai
 echo "📤 Pushing changes to remote..."
 gk work push
 
-echo "🔀 Creating Pull Request using AI..."
-gk work pr create --ai
+echo "🔀 Creating Pull Request..."
+gk work pr create
 
 read -p "🕒 Wait until your PR is merged. When it's done, type 'yes' to run 'gk work end': " confirm_end
 
