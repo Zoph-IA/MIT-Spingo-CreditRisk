@@ -53,9 +53,9 @@ from catboost.utils import get_gpu_device_count
 # 1. GLOBAL CONFIGURATION
 # ============================
 RANDOM_STATE = 42
-N_FOLDS = 4
-N_TRIALS_CATBOOST = 2
-N_TRIALS_XGBOOST = 2
+N_FOLDS = 2
+N_TRIALS_CATBOOST = 1
+N_TRIALS_XGBOOST = 1
 ID_COLS: List[str] = []
 DATE_COLS: List[str] = []
 CATEGORICAL_COLS: List[str] = []
@@ -315,7 +315,7 @@ def blend_predictions(
 
 
 def explain_with_shap(
-    model, X: pd.DataFrame, out_file: Path = Path("reports/figures/shap_summary.png")
+    model, X: pd.DataFrame, out_file: Path = Path("../reports/figures/shap_summary.png")
 ):
     explainer = shap.Explainer(model)
     shap_values = explainer(X)
@@ -457,7 +457,7 @@ def run_pipeline(DATA_PATH: str):
     explain_with_shap(
         cat_model,
         train_df_cat.drop(columns=[TARGET], errors="ignore"),
-        out_file=Path("reports/figures/shap_summary_catboost.png"),
+        out_file=Path("../reports/figures/shap_summary.png"),
     )
 
     # if HAS_TABNET:
