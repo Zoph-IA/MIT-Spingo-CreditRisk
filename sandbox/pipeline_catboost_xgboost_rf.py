@@ -53,9 +53,9 @@ from catboost.utils import get_gpu_device_count
 # 1. GLOBAL CONFIGURATION
 # ============================
 RANDOM_STATE = 42
-N_FOLDS = 2
-N_TRIALS_CATBOOST = 1
-N_TRIALS_XGBOOST = 1
+N_FOLDS = 12
+N_TRIALS_CATBOOST = 25
+N_TRIALS_XGBOOST = 25
 ID_COLS: List[str] = []
 DATE_COLS: List[str] = []
 CATEGORICAL_COLS: List[str] = []
@@ -353,18 +353,46 @@ except ImportError:
     HAS_TABNET = False
 
 
-def train_tabnet(X: pd.DataFrame, y: pd.Series):
+def train_tabnet(X: pd.DataFrame,y: pd.Series,use_gpu: bool | None = None,max_epochs: int = 120,patience: int = 15,):
     if not HAS_TABNET:
-        raise ImportError(
-            "pytorch-tabnet not installed. Run pip install pytorch-tabnet==4.0.0"
-        )
-    model = TabNetRegressor(verbose=0, seed=RANDOM_STATE)
-    y_array = y.values
-    if y_array.ndim == 1:
-        y_array = y_array.reshape(-1, 1)
-    model.fit(X.values, y_array, max_epochs=200, patience=20)
-    return model
+        raise ImportError("pytorch-tabnet no instalado")
 
+    import torch
+
+    device = (
+        "cuda"
+        if ((use_gpu or use_gpu is None) and torch.cuda.is_available())
+        else "cpu"
+    )
+    print(f"🚀 TabNet entrenará en: {device}")
+
+    model = TabNetRegressor(
+        n_d=48,
+        n_a=48,
+        n_steps=8,
+        gamma=1.5,
+        lambda_sparse=1e-4,
+        optimizer_fn=torch.optim.AdamW,
+        optimizer_params=dict(lr=1e-3, weight_decay=1e-5),
+        scheduler_fn=torch.optim.lr_scheduler.StepLR,
+        scheduler_params=dict(step_size=50, gamma=0.75),
+        seed=RANDOM_STATE,
+        device_name=device,
+        verbose=10,
+    )
+
+    y_arr = y.to_numpy().reshape(-1, 1)
+
+    model.fit(
+        X.values,
+        y_arr,
+        max_epochs=max_epochs,
+        patience=patience,
+        batch_size=1024,
+        virtual_batch_size=128,
+        num_workers=0,
+    )
+    return model
 
 # ============================
 # 12. MAIN PIPELINE
@@ -460,12 +488,15 @@ def run_pipeline(DATA_PATH: str):
         out_file=Path("../reports/figures/shap_summary.png"),
     )
 
-    # if HAS_TABNET:
-    #     print("🤖 Training TabNet (optional)...")
-    #     tabnet_model = train_tabnet(pd.DataFrame(X_train), y_train)
-    #     tabnet_preds = tabnet_model.predict(X_test)
-    #     mae_tabnet = mean_absolute_error(y_test, tabnet_preds)
-    #     print(f"📊 MAE TabNet: {mae_tabnet:0.4f}")
+    if HAS_TABNET:
+        if use_gpu:
+            print("🚀 Training TabNet with GPU...")
+        else:
+            print("⚠️ Training TabNet with CPU...")
+        tabnet_model = train_tabnet(pd.DataFrame(X_train), y_train, use_gpu=use_gpu)
+        tabnet_preds = tabnet_model.predict(X_test)
+        mae_tabnet = mean_absolute_error(y_test, tabnet_preds)
+        print(f"📊 MAE TabNet: {mae_tabnet:0.4f}")
 
     print("✅ Pipeline completed 🏁")
 
