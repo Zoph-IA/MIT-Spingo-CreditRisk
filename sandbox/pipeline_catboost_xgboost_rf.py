@@ -147,40 +147,61 @@ def build_preprocessor(cat_cols, num_cols):
 # ============================
 # 5. OPTUNA HPO FOR CATBOOST
 # ============================
-
 def objective_catboost(
-    trial: optuna.Trial, X: pd.DataFrame, y: pd.Series, categorical: List, task_type: str
-):
-    params = {
-        "iterations": trial.suggest_int("iterations", 500, 1500),
-        "depth": trial.suggest_int("depth", 4, 10),
+    trial: optuna.Trial,
+    X: pd.DataFrame,
+    y: pd.Series,
+    categorical: list[str],
+    task_type: str
+) -> float:
+    common = {
+        "iterations":   trial.suggest_int("iterations", 500, 1500),
+        "depth":        trial.suggest_int("depth", 4, 10),
         "learning_rate": trial.suggest_float("learning_rate", 0.01, 0.2, log=True),
-        "l2_leaf_reg": trial.suggest_float("l2_leaf_reg", 1e-3, 10.0, log=True),
+        "l2_leaf_reg":  trial.suggest_float("l2_leaf_reg", 1e-3, 10.0, log=True),
         "loss_function": "MAE",
-        "random_seed": RANDOM_STATE,
-        "verbose": False,
-        "task_type": task_type
+        "eval_metric":   "MAE",
+        "random_seed":   RANDOM_STATE,
+        "allow_writing_files": False,
     }
+
+    gpu_fix = {
+        "task_type":    "GPU",
+        "devices":      "0",
+        "border_count": 254,
+        "bootstrap_type": "MVS",
+        "subsample":    0.8,
+        "metric_period": 50
+    }
+
+    params = (
+        {**common, **gpu_fix} if task_type.upper() == "GPU"
+        else {**common, "task_type": "CPU"}
+    )
+
     cat_names = [
-        X.columns[c] if isinstance(c, (int, np.integer)) else c for c in categorical
+        X.columns[c] if isinstance(c, (int, np.integer)) else c
+        for c in categorical
     ]
     cv = KFold(n_splits=N_FOLDS, shuffle=True, random_state=RANDOM_STATE)
-    maes = []
-    for train_idx, val_idx in cv.split(X):
+    mae_scores = []
+
+    for tr_idx, va_idx in cv.split(X):
         model = cb.CatBoostRegressor(**params, cat_features=cat_names)
-        X_train_fold = X.iloc[train_idx].copy()
-        X_val_fold = X.iloc[val_idx].copy()
-        X_train_fold[cat_names] = X_train_fold[cat_names].astype("string")
-        X_val_fold[cat_names] = X_val_fold[cat_names].astype("string")
+
+        X_tr, X_va = X.iloc[tr_idx].copy(), X.iloc[va_idx].copy()
+        X_tr[cat_names] = X_tr[cat_names].astype("string")
+        X_va[cat_names] = X_va[cat_names].astype("string")
+
         model.fit(
-            X_train_fold,
-            y.iloc[train_idx],
-            eval_set=(X_val_fold, y.iloc[val_idx]),
-            verbose=False,
+            X_tr, y.iloc[tr_idx],
+            eval_set=(X_va, y.iloc[va_idx]),
+            verbose=False
         )
-        preds = model.predict(X_val_fold)
-        maes.append(mean_absolute_error(y.iloc[val_idx], preds))
-    return np.mean(maes)
+        preds = model.predict(X_va)
+        mae_scores.append(mean_absolute_error(y.iloc[va_idx], preds))
+
+    return float(np.mean(mae_scores))
 
 def tune_catboost(X: pd.DataFrame, y: pd.Series, categorical: List, use_gpu: bool | None = None,):
     cat_names = [
@@ -230,7 +251,7 @@ def objective_xgboost(trial: optuna.Trial, X: pd.DataFrame, y: pd.Series, xgb_pa
         "colsample_bytree": trial.suggest_float("colsample_bytree", 0.5, 1.0),
         "gamma": trial.suggest_float("gamma", 0, 5.0),
         "n_estimators": trial.suggest_int("n_estimators", 300, 1500),
-        **xgb_params  # Incorporar parámetros específicos de GPU o CPU
+        **xgb_params
     }
 
     cv = KFold(n_splits=N_FOLDS, shuffle=True, random_state=RANDOM_STATE)
@@ -271,7 +292,7 @@ def tune_xgboost(X: pd.DataFrame, y: pd.Series, xgb_params: dict):
         random_state=RANDOM_STATE,
         n_jobs=-1,
         early_stopping_rounds=50,
-        **xgb_params  # Aplicar configuración de GPU o CPU
+        **xgb_params
     )
     best_model.fit(X, y, eval_set=[(X, y)], verbose=False)
     return best_model
@@ -454,8 +475,8 @@ def run_pipeline(DATA_PATH: str):
     X_train = preprocessor.fit_transform(train_df, y_train)
     X_test = preprocessor.transform(test_df)
 
-    print("🐱 Tuning CatBoost (no preprocessing)...")
-    cat_model = tune_catboost(train_df, y_train, cat_cols_valid, use_gpu=use_gpu)
+    print("🐱 Tuning CatBoost...")
+    cat_model = tune_catboost(train_df, y_train, cat_cols_valid, use_gpu=False)
 
     print("📦 Tuning XGBoost...")
     xgb_model = tune_xgboost(pd.DataFrame(X_train), y_train, xgb_params)
@@ -488,15 +509,14 @@ def run_pipeline(DATA_PATH: str):
         out_file=Path("../reports/figures/shap_summary.png"),
     )
 
-    if HAS_TABNET:
-        if use_gpu:
-            print("🚀 Training TabNet with GPU...")
-        else:
-            print("⚠️ Training TabNet with CPU...")
-        tabnet_model = train_tabnet(pd.DataFrame(X_train), y_train, use_gpu=use_gpu)
+    if HAS_TABNET and use_gpu:
+        print("🚀 Training TabNet with GPU...")
+        tabnet_model = train_tabnet(pd.DataFrame(X_train), y_train, use_gpu=True)
         tabnet_preds = tabnet_model.predict(X_test)
         mae_tabnet = mean_absolute_error(y_test, tabnet_preds)
         print(f"📊 MAE TabNet: {mae_tabnet:0.4f}")
+    else:
+        print("ℹ️  TabNet no se entrenará porque no hay GPU disponible.")
 
     print("✅ Pipeline completed 🏁")
 
