@@ -175,5 +175,5 @@ cython_debug/
 
 ############################################## CUSTOM ############################################## 
 .DS_Store 
-data/bronze/HubSpot CRM All Contacts Feb 27 2025.xls
+data/bronze/HubSpot CRM All Contacts Feb 27 2025.*
 sandbox/catboost_info/
